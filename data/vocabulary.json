@@ -5,469 +5,5293 @@
       "title": "기초 인사·표현 (노베이스 시작)",
       "description": "처음 일본어를 배우는 사람을 위한 기본 인사와 표현",
       "emoji": "👋",
-      "items": ["b001","b002","b003","b004","b005","b006","b007","b008","b009","b010","b011","b012","b013","b014","b015"]
+      "items": [
+        "b001",
+        "b002",
+        "b003",
+        "b004",
+        "b005",
+        "b006",
+        "b007",
+        "b008",
+        "b009",
+        "b010",
+        "b011",
+        "b012",
+        "b013",
+        "b014",
+        "b015"
+      ]
     },
     {
       "id": "starter-numbers",
       "title": "기초 숫자·시간",
       "description": "1~10, 요일, 시간 등 기본 숫자 표현",
       "emoji": "🔢",
-      "items": ["b020","b021","b022","b023","b024","b025","b026","b027","b028","b029","b030","b031","b032","b033","b034","b035"]
+      "items": [
+        "b020",
+        "b021",
+        "b022",
+        "b023",
+        "b024",
+        "b025",
+        "b026",
+        "b027",
+        "b028",
+        "b029",
+        "b030",
+        "b031",
+        "b032",
+        "b033",
+        "b034",
+        "b035"
+      ]
     },
     {
       "id": "starter-pronoun",
       "title": "기초 대명사·지시어",
       "description": "나·당신·이것·저것 등 가리키는 말",
       "emoji": "👉",
-      "items": ["b040","b041","b042","b043","b044","b045","b046","b047","b048","b049","b050","b051"]
+      "items": [
+        "b040",
+        "b041",
+        "b042",
+        "b043",
+        "b044",
+        "b045",
+        "b046",
+        "b047",
+        "b048",
+        "b049",
+        "b050",
+        "b051"
+      ]
     },
     {
       "id": "daily-life",
       "title": "일상생활",
       "description": "매일 쓰이는 N3 핵심 어휘",
       "emoji": "🏠",
-      "items": ["v001","v002","v003","v004","v005","v006","v007","v008","v009","v010","v011","v012","v013","v014","v015","v201","v202","v203","v204","v205"]
+      "items": [
+        "v001",
+        "v002",
+        "v003",
+        "v004",
+        "v005",
+        "v006",
+        "v007",
+        "v008",
+        "v009",
+        "v010",
+        "v011",
+        "v012",
+        "v013",
+        "v014",
+        "v015",
+        "v201",
+        "v202",
+        "v203",
+        "v204",
+        "v205"
+      ]
     },
     {
       "id": "emotion",
       "title": "감정·심리",
       "description": "감정과 마음 상태를 표현하는 단어",
       "emoji": "💗",
-      "items": ["v016","v017","v018","v019","v020","v021","v022","v023","v024","v025","v210","v211","v212","v213","v214"]
+      "items": [
+        "v016",
+        "v017",
+        "v018",
+        "v019",
+        "v020",
+        "v021",
+        "v022",
+        "v023",
+        "v024",
+        "v025",
+        "v210",
+        "v211",
+        "v212",
+        "v213",
+        "v214"
+      ]
     },
     {
       "id": "verbs-core",
       "title": "핵심 동사",
       "description": "N3 빈출 동사 모음",
       "emoji": "⚡",
-      "items": ["v026","v027","v028","v029","v030","v031","v032","v033","v034","v035","v036","v037","v038","v039","v040","v220","v221","v222","v223","v224","v225","v226","v227","v228","v229"]
+      "items": [
+        "v026",
+        "v027",
+        "v028",
+        "v029",
+        "v030",
+        "v031",
+        "v032",
+        "v033",
+        "v034",
+        "v035",
+        "v036",
+        "v037",
+        "v038",
+        "v039",
+        "v040",
+        "v220",
+        "v221",
+        "v222",
+        "v223",
+        "v224",
+        "v225",
+        "v226",
+        "v227",
+        "v228",
+        "v229"
+      ]
     },
     {
       "id": "adjectives",
       "title": "형용사",
       "description": "い형용사·な형용사",
       "emoji": "✨",
-      "items": ["v041","v042","v043","v044","v045","v046","v047","v048","v049","v050","v240","v241","v242","v243","v244","v245","v246","v247"]
+      "items": [
+        "v041",
+        "v042",
+        "v043",
+        "v044",
+        "v045",
+        "v046",
+        "v047",
+        "v048",
+        "v049",
+        "v050",
+        "v240",
+        "v241",
+        "v242",
+        "v243",
+        "v244",
+        "v245",
+        "v246",
+        "v247"
+      ]
     },
     {
       "id": "adverbs",
       "title": "부사·접속사",
       "description": "글의 흐름을 잡아주는 단어",
       "emoji": "🔗",
-      "items": ["v051","v052","v053","v054","v055","v056","v057","v058","v059","v060","v250","v251","v252","v253","v254"]
+      "items": [
+        "v051",
+        "v052",
+        "v053",
+        "v054",
+        "v055",
+        "v056",
+        "v057",
+        "v058",
+        "v059",
+        "v060",
+        "v250",
+        "v251",
+        "v252",
+        "v253",
+        "v254"
+      ]
     },
     {
       "id": "work-school",
       "title": "직장·학교",
       "description": "사회생활 어휘",
       "emoji": "💼",
-      "items": ["v061","v062","v063","v064","v065","v066","v067","v068","v069","v070","v260","v261","v262","v263","v264"]
+      "items": [
+        "v061",
+        "v062",
+        "v063",
+        "v064",
+        "v065",
+        "v066",
+        "v067",
+        "v068",
+        "v069",
+        "v070",
+        "v260",
+        "v261",
+        "v262",
+        "v263",
+        "v264"
+      ]
     },
     {
       "id": "nature-time",
       "title": "자연·시간",
       "description": "자연 현상과 시간 표현",
       "emoji": "🌸",
-      "items": ["v071","v072","v073","v074","v075","v076","v077","v078","v079","v080","v270","v271","v272","v273","v274"]
+      "items": [
+        "v071",
+        "v072",
+        "v073",
+        "v074",
+        "v075",
+        "v076",
+        "v077",
+        "v078",
+        "v079",
+        "v080",
+        "v270",
+        "v271",
+        "v272",
+        "v273",
+        "v274"
+      ]
     },
     {
       "id": "body-health",
       "title": "몸·건강",
       "description": "신체 부위와 건강 표현",
       "emoji": "🩺",
-      "items": ["v280","v281","v282","v283","v284","v285","v286","v287","v288","v289","v290","v291"]
+      "items": [
+        "v280",
+        "v281",
+        "v282",
+        "v283",
+        "v284",
+        "v285",
+        "v286",
+        "v287",
+        "v288",
+        "v289",
+        "v290",
+        "v291"
+      ]
     },
     {
       "id": "food-restaurant",
       "title": "음식·식당",
       "description": "외식과 음식 관련 어휘",
       "emoji": "🍱",
-      "items": ["v300","v301","v302","v303","v304","v305","v306","v307","v308","v309","v310","v311"]
+      "items": [
+        "v300",
+        "v301",
+        "v302",
+        "v303",
+        "v304",
+        "v305",
+        "v306",
+        "v307",
+        "v308",
+        "v309",
+        "v310",
+        "v311"
+      ]
     },
     {
       "id": "travel-transport",
       "title": "여행·교통",
       "description": "여행과 이동 관련 어휘",
       "emoji": "🚄",
-      "items": ["v320","v321","v322","v323","v324","v325","v326","v327","v328","v329"]
+      "items": [
+        "v320",
+        "v321",
+        "v322",
+        "v323",
+        "v324",
+        "v325",
+        "v326",
+        "v327",
+        "v328",
+        "v329"
+      ]
     },
     {
       "id": "shopping-money",
       "title": "쇼핑·돈",
       "description": "구매와 금전 어휘",
       "emoji": "💴",
-      "items": ["v340","v341","v342","v343","v344","v345","v346","v347","v348","v349"]
+      "items": [
+        "v340",
+        "v341",
+        "v342",
+        "v343",
+        "v344",
+        "v345",
+        "v346",
+        "v347",
+        "v348",
+        "v349"
+      ]
     },
     {
       "id": "family",
       "title": "가족·관계",
       "description": "가족 구성원·인간관계 어휘",
       "emoji": "👨‍👩‍👧",
-      "items": ["v400","v401","v402","v403","v404","v405","v406","v407","v408","v409","v410","v411"]
+      "items": [
+        "v400",
+        "v401",
+        "v402",
+        "v403",
+        "v404",
+        "v405",
+        "v406",
+        "v407",
+        "v408",
+        "v409",
+        "v410",
+        "v411"
+      ]
     },
     {
       "id": "colors-shapes",
       "title": "색깔·모양",
       "description": "기본 색과 모양 표현",
       "emoji": "🎨",
-      "items": ["v420","v421","v422","v423","v424","v425","v426","v427","v428","v429","v430","v431"]
+      "items": [
+        "v420",
+        "v421",
+        "v422",
+        "v423",
+        "v424",
+        "v425",
+        "v426",
+        "v427",
+        "v428",
+        "v429",
+        "v430",
+        "v431"
+      ]
     },
     {
       "id": "animals-nature",
       "title": "동물·자연물",
       "description": "동물과 자연 어휘",
       "emoji": "🐾",
-      "items": ["v440","v441","v442","v443","v444","v445","v446","v447","v448","v449","v450","v451"]
+      "items": [
+        "v440",
+        "v441",
+        "v442",
+        "v443",
+        "v444",
+        "v445",
+        "v446",
+        "v447",
+        "v448",
+        "v449",
+        "v450",
+        "v451"
+      ]
     },
     {
       "id": "hobby-sports",
       "title": "취미·스포츠",
       "description": "여가와 스포츠 어휘",
       "emoji": "⚽",
-      "items": ["v460","v461","v462","v463","v464","v465","v466","v467","v468","v469","v470","v471"]
+      "items": [
+        "v460",
+        "v461",
+        "v462",
+        "v463",
+        "v464",
+        "v465",
+        "v466",
+        "v467",
+        "v468",
+        "v469",
+        "v470",
+        "v471"
+      ]
     },
     {
       "id": "it-internet",
       "title": "IT·인터넷",
       "description": "컴퓨터와 SNS 시대 어휘",
       "emoji": "💻",
-      "items": ["v480","v481","v482","v483","v484","v485","v486","v487","v488","v489","v490","v491"]
+      "items": [
+        "v480",
+        "v481",
+        "v482",
+        "v483",
+        "v484",
+        "v485",
+        "v486",
+        "v487",
+        "v488",
+        "v489",
+        "v490",
+        "v491"
+      ]
     },
     {
       "id": "fashion-clothes",
       "title": "패션·옷차림",
       "description": "옷과 액세서리 어휘",
       "emoji": "👔",
-      "items": ["v500","v501","v502","v503","v504","v505","v506","v507","v508","v509"]
+      "items": [
+        "v500",
+        "v501",
+        "v502",
+        "v503",
+        "v504",
+        "v505",
+        "v506",
+        "v507",
+        "v508",
+        "v509"
+      ]
     },
     {
       "id": "abstract-thought",
       "title": "추상·사고",
       "description": "독해에 자주 나오는 추상 어휘",
       "emoji": "🧠",
-      "items": ["v520","v521","v522","v523","v524","v525","v526","v527","v528","v529","v530","v531","v532","v533"]
+      "items": [
+        "v520",
+        "v521",
+        "v522",
+        "v523",
+        "v524",
+        "v525",
+        "v526",
+        "v527",
+        "v528",
+        "v529",
+        "v530",
+        "v531",
+        "v532",
+        "v533"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-001",
+      "title": "생활 필수 어휘 1",
+      "description": "일상생활-확장 · 백로그 임포트",
+      "emoji": "🏡",
+      "items": [
+        "v600",
+        "v601",
+        "v602",
+        "v603",
+        "v039",
+        "v027",
+        "v034",
+        "v604",
+        "v605",
+        "v606",
+        "v050",
+        "v607",
+        "v053",
+        "v608",
+        "v609",
+        "v610",
+        "v611",
+        "v612",
+        "v613",
+        "v614",
+        "v615",
+        "v529",
+        "v616",
+        "v520",
+        "v522"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-002",
+      "title": "학교와 직장 1",
+      "description": "학교-직장 · 백로그 임포트",
+      "emoji": "🎓",
+      "items": [
+        "v007",
+        "v617",
+        "v618",
+        "v619",
+        "v066",
+        "v620",
+        "v621",
+        "v622",
+        "v623",
+        "v624",
+        "v625",
+        "v626",
+        "v627",
+        "v628",
+        "v004",
+        "v629",
+        "v630",
+        "v631",
+        "v632",
+        "v227",
+        "v633",
+        "v634",
+        "v635",
+        "v636",
+        "v637"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-003",
+      "title": "감정과 상태 1",
+      "description": "감정-상태 · 백로그 임포트",
+      "emoji": "💭",
+      "items": [
+        "v019",
+        "v020",
+        "v638",
+        "v639",
+        "v640",
+        "v024",
+        "v641",
+        "v642",
+        "v643",
+        "v025",
+        "v644",
+        "v645",
+        "v021",
+        "v646",
+        "v018",
+        "v647",
+        "v648",
+        "v649",
+        "v650",
+        "v651",
+        "v652",
+        "v653",
+        "v654",
+        "v655",
+        "v656"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-004",
+      "title": "이동과 교통 1",
+      "description": "이동-교통 · 백로그 임포트",
+      "emoji": "🚉",
+      "items": [
+        "v657",
+        "v658",
+        "v659",
+        "v660",
+        "v661",
+        "v662",
+        "v663",
+        "v664",
+        "v665",
+        "v666",
+        "v667",
+        "v001",
+        "v327",
+        "v668",
+        "v669",
+        "v670",
+        "v671",
+        "v672",
+        "v673",
+        "v674",
+        "v675",
+        "v676",
+        "v677",
+        "v014",
+        "v678"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-005",
+      "title": "건강과 병원 1",
+      "description": "건강-병원 · 백로그 임포트",
+      "emoji": "🏥",
+      "items": [
+        "v289",
+        "v679",
+        "v680",
+        "v681",
+        "v682",
+        "v683",
+        "v684",
+        "v685",
+        "v686",
+        "v687",
+        "v688",
+        "v689",
+        "v690",
+        "v691",
+        "v692",
+        "v693",
+        "v694",
+        "v695",
+        "v696",
+        "v697",
+        "v698",
+        "v699",
+        "v700",
+        "v701",
+        "v702"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-006",
+      "title": "쇼핑과 금전 1",
+      "description": "쇼핑-금전 · 백로그 임포트",
+      "emoji": "🛒",
+      "items": [
+        "v703",
+        "v340",
+        "v343",
+        "v704",
+        "v705",
+        "v706",
+        "v346",
+        "v707",
+        "v708",
+        "v347",
+        "v709",
+        "v013",
+        "v710",
+        "v711",
+        "v712",
+        "v713",
+        "v714",
+        "v715",
+        "v716",
+        "v303",
+        "v304",
+        "v033",
+        "v717",
+        "v718",
+        "v719"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-007",
+      "title": "집과 가사 1",
+      "description": "집-가사 · 백로그 임포트",
+      "emoji": "🧹",
+      "items": [
+        "v720",
+        "v721",
+        "v205",
+        "v722",
+        "v723",
+        "v724",
+        "v725",
+        "v726",
+        "v727",
+        "v728",
+        "v729",
+        "v011",
+        "v730",
+        "v731",
+        "v732",
+        "v733",
+        "v734",
+        "v735",
+        "v736",
+        "v737",
+        "v202",
+        "v738",
+        "v739",
+        "v740",
+        "v741"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-008",
+      "title": "날씨와 자연 1",
+      "description": "날씨-자연 · 백로그 임포트",
+      "emoji": "🌤️",
+      "items": [
+        "v742",
+        "v743",
+        "v744",
+        "v745",
+        "v746",
+        "v747",
+        "v748",
+        "v073",
+        "v072",
+        "v749",
+        "v750",
+        "v751",
+        "v752",
+        "v074",
+        "v753",
+        "v754",
+        "v755",
+        "v756",
+        "v071",
+        "v757",
+        "v451",
+        "v758",
+        "v759",
+        "v760",
+        "v761"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-009",
+      "title": "뉴스와 생활정보 1",
+      "description": "미디어-생활정보 · 백로그 임포트",
+      "emoji": "📚",
+      "items": [
+        "v762",
+        "v763",
+        "v764",
+        "v765",
+        "v766",
+        "v767",
+        "v067",
+        "v768",
+        "v769",
+        "v770",
+        "v771",
+        "v026",
+        "v772",
+        "v773",
+        "v774",
+        "v775",
+        "v524",
+        "v776",
+        "v777",
+        "v778",
+        "v779",
+        "v780",
+        "v781",
+        "v782"
+      ]
+    },
+    {
+      "id": "imp-voc-n3-010",
+      "title": "인간관계 1",
+      "description": "인간관계 · 백로그 임포트",
+      "emoji": "🤝",
+      "items": [
+        "v783",
+        "v784",
+        "v785",
+        "v786",
+        "v787",
+        "v788",
+        "v789",
+        "v790",
+        "v791",
+        "v792",
+        "v793",
+        "v794",
+        "v795",
+        "v796",
+        "v043",
+        "v044",
+        "v797",
+        "v798",
+        "v799",
+        "v800",
+        "v801",
+        "v802",
+        "v803",
+        "v804",
+        "v805"
+      ]
     }
   ],
   "items": [
-    {"id":"b001","word":"こんにちは","reading":"こんにちは","meaning":"안녕하세요 (낮인사)","pos":"표현","example":"こんにちは、お元気ですか。","exampleTranslation":"안녕하세요, 잘 지내세요?"},
-    {"id":"b002","word":"おはようございます","reading":"おはようございます","meaning":"안녕하세요 (아침인사)","pos":"표현","example":"おはようございます、今日もいい天気ですね。","exampleTranslation":"안녕하세요, 오늘도 날씨가 좋네요."},
-    {"id":"b003","word":"こんばんは","reading":"こんばんは","meaning":"안녕하세요 (저녁인사)","pos":"표현","example":"こんばんは、お帰りなさい。","exampleTranslation":"안녕하세요, 잘 다녀오셨어요."},
-    {"id":"b004","word":"おやすみなさい","reading":"おやすみなさい","meaning":"안녕히 주무세요","pos":"표현","example":"もう遅いので、おやすみなさい。","exampleTranslation":"늦었으니 잘 자요."},
-    {"id":"b005","word":"ありがとう","reading":"ありがとう","meaning":"고마워요","pos":"표현","example":"プレゼント、ありがとう。","exampleTranslation":"선물 고마워."},
-    {"id":"b006","word":"すみません","reading":"すみません","meaning":"죄송합니다 / 실례합니다","pos":"표현","example":"すみません、駅はどこですか。","exampleTranslation":"실례합니다, 역은 어디예요?"},
-    {"id":"b007","word":"ごめんなさい","reading":"ごめんなさい","meaning":"미안합니다","pos":"표현","example":"遅れて、ごめんなさい。","exampleTranslation":"늦어서 미안해요."},
-    {"id":"b008","word":"はい","reading":"はい","meaning":"네","pos":"표현","example":"はい、わかりました。","exampleTranslation":"네, 알겠습니다."},
-    {"id":"b009","word":"いいえ","reading":"いいえ","meaning":"아니요","pos":"표현","example":"いいえ、違います。","exampleTranslation":"아니요, 다릅니다."},
-    {"id":"b010","word":"はじめまして","reading":"はじめまして","meaning":"처음 뵙겠습니다","pos":"표현","example":"はじめまして、田中です。","exampleTranslation":"처음 뵙겠습니다, 다나카입니다."},
-    {"id":"b011","word":"よろしくお願いします","reading":"よろしくおねがいします","meaning":"잘 부탁드립니다","pos":"표현","example":"これから、よろしくお願いします。","exampleTranslation":"앞으로 잘 부탁드립니다."},
-    {"id":"b012","word":"さようなら","reading":"さようなら","meaning":"안녕히 가세요","pos":"표현","example":"また明日。さようなら。","exampleTranslation":"내일 봐요. 안녕히 가세요."},
-    {"id":"b013","word":"いただきます","reading":"いただきます","meaning":"잘 먹겠습니다","pos":"표현","example":"いただきます。おいしそう!","exampleTranslation":"잘 먹겠습니다. 맛있어 보여요!"},
-    {"id":"b014","word":"ごちそうさま","reading":"ごちそうさま","meaning":"잘 먹었습니다","pos":"표현","example":"ごちそうさまでした。","exampleTranslation":"잘 먹었습니다."},
-    {"id":"b015","word":"お疲れさま","reading":"おつかれさま","meaning":"수고하셨습니다","pos":"표현","example":"今日もお疲れさま。","exampleTranslation":"오늘도 수고하셨어요."},
-
-    {"id":"b020","word":"一","reading":"いち","meaning":"하나, 1","pos":"명사","example":"一つください。","exampleTranslation":"하나 주세요."},
-    {"id":"b021","word":"二","reading":"に","meaning":"둘, 2","pos":"명사","example":"二人で行きます。","exampleTranslation":"두 명이 갑니다."},
-    {"id":"b022","word":"三","reading":"さん","meaning":"셋, 3","pos":"명사","example":"三時に会いましょう。","exampleTranslation":"3시에 만납시다."},
-    {"id":"b023","word":"四","reading":"よん","meaning":"넷, 4","pos":"명사","example":"四階に住んでいます。","exampleTranslation":"4층에 살아요."},
-    {"id":"b024","word":"五","reading":"ご","meaning":"다섯, 5","pos":"명사","example":"五分待ってください。","exampleTranslation":"5분 기다려 주세요."},
-    {"id":"b025","word":"六","reading":"ろく","meaning":"여섯, 6","pos":"명사","example":"六時に起きます。","exampleTranslation":"6시에 일어나요."},
-    {"id":"b026","word":"七","reading":"なな","meaning":"일곱, 7","pos":"명사","example":"七人家族です。","exampleTranslation":"7명 가족이에요."},
-    {"id":"b027","word":"八","reading":"はち","meaning":"여덟, 8","pos":"명사","example":"八月に旅行します。","exampleTranslation":"8월에 여행해요."},
-    {"id":"b028","word":"九","reading":"きゅう","meaning":"아홉, 9","pos":"명사","example":"九時に閉まります。","exampleTranslation":"9시에 문 닫아요."},
-    {"id":"b029","word":"十","reading":"じゅう","meaning":"열, 10","pos":"명사","example":"十分かかります。","exampleTranslation":"10분 걸려요."},
-    {"id":"b030","word":"今日","reading":"きょう","meaning":"오늘","pos":"명사","example":"今日は寒いですね。","exampleTranslation":"오늘은 춥네요."},
-    {"id":"b031","word":"明日","reading":"あした","meaning":"내일","pos":"명사","example":"明日また会いましょう。","exampleTranslation":"내일 또 만나요."},
-    {"id":"b032","word":"昨日","reading":"きのう","meaning":"어제","pos":"명사","example":"昨日は雨でした。","exampleTranslation":"어제는 비였어요."},
-    {"id":"b033","word":"今","reading":"いま","meaning":"지금","pos":"명사","example":"今、何時ですか。","exampleTranslation":"지금 몇 시예요?"},
-    {"id":"b034","word":"月曜日","reading":"げつようび","meaning":"월요일","pos":"명사","example":"月曜日は忙しいです。","exampleTranslation":"월요일은 바빠요."},
-    {"id":"b035","word":"日曜日","reading":"にちようび","meaning":"일요일","pos":"명사","example":"日曜日は休みです。","exampleTranslation":"일요일은 쉬는 날이에요."},
-
-    {"id":"b040","word":"私","reading":"わたし","meaning":"나, 저","pos":"명사","example":"私は学生です。","exampleTranslation":"저는 학생입니다."},
-    {"id":"b041","word":"あなた","reading":"あなた","meaning":"당신","pos":"명사","example":"あなたの名前は?","exampleTranslation":"당신의 이름은?"},
-    {"id":"b042","word":"彼","reading":"かれ","meaning":"그","pos":"명사","example":"彼は先生です。","exampleTranslation":"그는 선생님이에요."},
-    {"id":"b043","word":"彼女","reading":"かのじょ","meaning":"그녀","pos":"명사","example":"彼女は親切です。","exampleTranslation":"그녀는 친절해요."},
-    {"id":"b044","word":"これ","reading":"これ","meaning":"이것","pos":"명사","example":"これは何ですか。","exampleTranslation":"이것은 무엇입니까?"},
-    {"id":"b045","word":"それ","reading":"それ","meaning":"그것","pos":"명사","example":"それを取ってください。","exampleTranslation":"그것을 잡아 주세요."},
-    {"id":"b046","word":"あれ","reading":"あれ","meaning":"저것","pos":"명사","example":"あれはとても高い。","exampleTranslation":"저것은 매우 비싸요."},
-    {"id":"b047","word":"ここ","reading":"ここ","meaning":"여기","pos":"명사","example":"ここで待ちます。","exampleTranslation":"여기서 기다릴게요."},
-    {"id":"b048","word":"そこ","reading":"そこ","meaning":"거기","pos":"명사","example":"そこに置いてください。","exampleTranslation":"거기 두세요."},
-    {"id":"b049","word":"あそこ","reading":"あそこ","meaning":"저기","pos":"명사","example":"あそこに見えますか。","exampleTranslation":"저기 보이세요?"},
-    {"id":"b050","word":"誰","reading":"だれ","meaning":"누구","pos":"명사","example":"誰が来ましたか。","exampleTranslation":"누가 왔어요?"},
-    {"id":"b051","word":"何","reading":"なに","meaning":"무엇","pos":"명사","example":"何を食べたいですか。","exampleTranslation":"무엇을 먹고 싶어요?"},
-
-    {"id":"v001","word":"案内","reading":"あんない","meaning":"안내","pos":"명사","example":"駅まで案内します。","exampleTranslation":"역까지 안내해 드리겠습니다."},
-    {"id":"v002","word":"以外","reading":"いがい","meaning":"이외","pos":"명사","example":"日本語以外の言語も話せます。","exampleTranslation":"일본어 이외의 언어도 할 수 있습니다."},
-    {"id":"v003","word":"一生懸命","reading":"いっしょうけんめい","meaning":"열심히","pos":"な형용사","example":"一生懸命勉強しています。","exampleTranslation":"열심히 공부하고 있습니다."},
-    {"id":"v004","word":"受付","reading":"うけつけ","meaning":"접수","pos":"명사","example":"受付で名前を書いてください。","exampleTranslation":"접수처에서 이름을 적어 주세요."},
-    {"id":"v005","word":"運転","reading":"うんてん","meaning":"운전","pos":"명사","example":"父は運転が上手です。","exampleTranslation":"아버지는 운전을 잘합니다."},
-    {"id":"v006","word":"お土産","reading":"おみやげ","meaning":"기념품·선물","pos":"명사","example":"京都のお土産を買いました。","exampleTranslation":"교토 기념품을 샀습니다."},
-    {"id":"v007","word":"会議","reading":"かいぎ","meaning":"회의","pos":"명사","example":"明日会議があります。","exampleTranslation":"내일 회의가 있습니다."},
-    {"id":"v008","word":"環境","reading":"かんきょう","meaning":"환경","pos":"명사","example":"環境を守りましょう。","exampleTranslation":"환경을 지킵시다."},
-    {"id":"v009","word":"記念","reading":"きねん","meaning":"기념","pos":"명사","example":"卒業記念に写真を撮りました。","exampleTranslation":"졸업 기념으로 사진을 찍었습니다."},
-    {"id":"v010","word":"工事","reading":"こうじ","meaning":"공사","pos":"명사","example":"道路の工事をしている。","exampleTranslation":"도로 공사를 하고 있다."},
-    {"id":"v011","word":"故障","reading":"こしょう","meaning":"고장","pos":"명사","example":"エレベーターが故障した。","exampleTranslation":"엘리베이터가 고장 났다."},
-    {"id":"v012","word":"指輪","reading":"ゆびわ","meaning":"반지","pos":"명사","example":"きれいな指輪ですね。","exampleTranslation":"예쁜 반지네요."},
-    {"id":"v013","word":"財布","reading":"さいふ","meaning":"지갑","pos":"명사","example":"財布をなくしてしまった。","exampleTranslation":"지갑을 잃어버렸다."},
-    {"id":"v014","word":"渋滞","reading":"じゅうたい","meaning":"교통체증","pos":"명사","example":"道が渋滞しています。","exampleTranslation":"길이 막히고 있습니다."},
-    {"id":"v015","word":"宿題","reading":"しゅくだい","meaning":"숙제","pos":"명사","example":"宿題はもう終わりました。","exampleTranslation":"숙제는 이미 끝났습니다."},
-
-    {"id":"v016","word":"嬉しい","reading":"うれしい","meaning":"기쁘다","pos":"い형용사","example":"会えて本当に嬉しいです。","exampleTranslation":"만나서 정말 기쁩니다."},
-    {"id":"v017","word":"悲しい","reading":"かなしい","meaning":"슬프다","pos":"い형용사","example":"映画を見て悲しくなった。","exampleTranslation":"영화를 보고 슬퍼졌다."},
-    {"id":"v018","word":"恥ずかしい","reading":"はずかしい","meaning":"부끄럽다","pos":"い형용사","example":"間違えて恥ずかしかった。","exampleTranslation":"틀려서 부끄러웠다."},
-    {"id":"v019","word":"安心","reading":"あんしん","meaning":"안심","pos":"な형용사","example":"無事と聞いて安心しました。","exampleTranslation":"무사하다는 말을 듣고 안심했습니다."},
-    {"id":"v020","word":"心配","reading":"しんぱい","meaning":"걱정","pos":"な형용사","example":"あまり心配しないでください。","exampleTranslation":"너무 걱정하지 마세요."},
-    {"id":"v021","word":"残念","reading":"ざんねん","meaning":"유감","pos":"な형용사","example":"来られなくて残念です。","exampleTranslation":"못 오셔서 유감입니다."},
-    {"id":"v022","word":"幸せ","reading":"しあわせ","meaning":"행복","pos":"な형용사","example":"今、とても幸せです。","exampleTranslation":"지금 매우 행복합니다."},
-    {"id":"v023","word":"楽しみ","reading":"たのしみ","meaning":"기대·즐거움","pos":"명사","example":"旅行が楽しみだ。","exampleTranslation":"여행이 기대된다."},
-    {"id":"v024","word":"驚く","reading":"おどろく","meaning":"놀라다","pos":"동사","example":"その話には驚いた。","exampleTranslation":"그 이야기에는 놀랐다."},
-    {"id":"v025","word":"怒る","reading":"おこる","meaning":"화내다","pos":"동사","example":"先生に怒られた。","exampleTranslation":"선생님께 혼났다."},
-
-    {"id":"v026","word":"集まる","reading":"あつまる","meaning":"모이다","pos":"동사","example":"駅前に集まってください。","exampleTranslation":"역 앞에 모여 주세요."},
-    {"id":"v027","word":"続ける","reading":"つづける","meaning":"계속하다","pos":"동사","example":"運動を続けています。","exampleTranslation":"운동을 계속하고 있습니다."},
-    {"id":"v028","word":"間違える","reading":"まちがえる","meaning":"틀리다·잘못하다","pos":"동사","example":"道を間違えた。","exampleTranslation":"길을 잘못 들었다."},
-    {"id":"v029","word":"伝える","reading":"つたえる","meaning":"전하다","pos":"동사","example":"よろしくお伝えください。","exampleTranslation":"안부 전해 주세요."},
-    {"id":"v030","word":"確かめる","reading":"たしかめる","meaning":"확인하다","pos":"동사","example":"予約を確かめた。","exampleTranslation":"예약을 확인했다."},
-    {"id":"v031","word":"探す","reading":"さがす","meaning":"찾다","pos":"동사","example":"アパートを探しています。","exampleTranslation":"아파트를 찾고 있습니다."},
-    {"id":"v032","word":"預ける","reading":"あずける","meaning":"맡기다","pos":"동사","example":"荷物を預けました。","exampleTranslation":"짐을 맡겼습니다."},
-    {"id":"v033","word":"届ける","reading":"とどける","meaning":"전달하다","pos":"동사","example":"花を届けてもらった。","exampleTranslation":"꽃을 배달받았다."},
-    {"id":"v034","word":"急ぐ","reading":"いそぐ","meaning":"서두르다","pos":"동사","example":"急がないと間に合わない。","exampleTranslation":"서두르지 않으면 늦는다."},
-    {"id":"v035","word":"払う","reading":"はらう","meaning":"지불하다","pos":"동사","example":"カードで払いました。","exampleTranslation":"카드로 결제했습니다."},
-    {"id":"v036","word":"貸す","reading":"かす","meaning":"빌려주다","pos":"동사","example":"ペンを貸してください。","exampleTranslation":"펜을 빌려주세요."},
-    {"id":"v037","word":"借りる","reading":"かりる","meaning":"빌리다","pos":"동사","example":"図書館で本を借りた。","exampleTranslation":"도서관에서 책을 빌렸다."},
-    {"id":"v038","word":"並ぶ","reading":"ならぶ","meaning":"줄을 서다","pos":"동사","example":"店の前に人が並んでいる。","exampleTranslation":"가게 앞에 사람이 줄을 서 있다."},
-    {"id":"v039","word":"片付ける","reading":"かたづける","meaning":"치우다·정리하다","pos":"동사","example":"部屋を片付けた。","exampleTranslation":"방을 치웠다."},
-    {"id":"v040","word":"気付く","reading":"きづく","meaning":"알아차리다","pos":"동사","example":"間違いに気付いた。","exampleTranslation":"실수를 알아차렸다."},
-
-    {"id":"v041","word":"涼しい","reading":"すずしい","meaning":"시원하다","pos":"い형용사","example":"秋は涼しくて気持ちいい。","exampleTranslation":"가을은 시원해서 기분이 좋다."},
-    {"id":"v042","word":"細かい","reading":"こまかい","meaning":"세세하다·꼼꼼하다","pos":"い형용사","example":"細かい説明はいらない。","exampleTranslation":"세세한 설명은 필요 없다."},
-    {"id":"v043","word":"厳しい","reading":"きびしい","meaning":"엄격하다","pos":"い형용사","example":"父は厳しい人だ。","exampleTranslation":"아버지는 엄격한 사람이다."},
-    {"id":"v044","word":"優しい","reading":"やさしい","meaning":"상냥하다","pos":"い형용사","example":"彼はとても優しい。","exampleTranslation":"그는 정말 상냥하다."},
-    {"id":"v045","word":"珍しい","reading":"めずらしい","meaning":"드물다","pos":"い형용사","example":"珍しい花を見つけた。","exampleTranslation":"드문 꽃을 발견했다."},
-    {"id":"v046","word":"丁寧","reading":"ていねい","meaning":"정중하다·꼼꼼하다","pos":"な형용사","example":"丁寧に説明してくれた。","exampleTranslation":"꼼꼼히 설명해 주었다."},
-    {"id":"v047","word":"複雑","reading":"ふくざつ","meaning":"복잡하다","pos":"な형용사","example":"問題が複雑だ。","exampleTranslation":"문제가 복잡하다."},
-    {"id":"v048","word":"簡単","reading":"かんたん","meaning":"간단하다","pos":"な형용사","example":"使い方は簡単です。","exampleTranslation":"사용법은 간단합니다."},
-    {"id":"v049","word":"必要","reading":"ひつよう","meaning":"필요","pos":"な형용사","example":"パスポートが必要です。","exampleTranslation":"여권이 필요합니다."},
-    {"id":"v050","word":"確か","reading":"たしか","meaning":"확실하다·아마","pos":"な형용사","example":"確か3時だったと思う。","exampleTranslation":"아마 3시였던 것 같다."},
-
-    {"id":"v051","word":"必ず","reading":"かならず","meaning":"반드시","pos":"부사","example":"必ず連絡します。","exampleTranslation":"반드시 연락하겠습니다."},
-    {"id":"v052","word":"絶対","reading":"ぜったい","meaning":"절대","pos":"부사","example":"絶対に遅れない。","exampleTranslation":"절대로 늦지 않는다."},
-    {"id":"v053","word":"特に","reading":"とくに","meaning":"특히","pos":"부사","example":"特に問題はありません。","exampleTranslation":"특별히 문제는 없습니다."},
-    {"id":"v054","word":"そろそろ","reading":"そろそろ","meaning":"슬슬","pos":"부사","example":"そろそろ帰ります。","exampleTranslation":"슬슬 돌아가겠습니다."},
-    {"id":"v055","word":"すっかり","reading":"すっかり","meaning":"완전히","pos":"부사","example":"すっかり忘れていた。","exampleTranslation":"완전히 잊고 있었다."},
-    {"id":"v056","word":"それで","reading":"それで","meaning":"그래서","pos":"접속사","example":"それでどうしたの?","exampleTranslation":"그래서 어떻게 됐어?"},
-    {"id":"v057","word":"しかし","reading":"しかし","meaning":"그러나","pos":"접속사","example":"しかし、問題が残った。","exampleTranslation":"그러나 문제가 남았다."},
-    {"id":"v058","word":"それに","reading":"それに","meaning":"게다가","pos":"접속사","example":"安くて、それに美味しい。","exampleTranslation":"싸고, 게다가 맛있다."},
-    {"id":"v059","word":"つまり","reading":"つまり","meaning":"즉","pos":"접속사","example":"つまり、結論はこうだ。","exampleTranslation":"즉, 결론은 이렇다."},
-    {"id":"v060","word":"または","reading":"または","meaning":"또는","pos":"접속사","example":"電車またはバスで来てください。","exampleTranslation":"전철 또는 버스로 와 주세요."},
-
-    {"id":"v061","word":"出張","reading":"しゅっちょう","meaning":"출장","pos":"명사","example":"来週、大阪へ出張に行く。","exampleTranslation":"다음 주에 오사카로 출장 간다."},
-    {"id":"v062","word":"会議室","reading":"かいぎしつ","meaning":"회의실","pos":"명사","example":"会議室は2階です。","exampleTranslation":"회의실은 2층입니다."},
-    {"id":"v063","word":"上司","reading":"じょうし","meaning":"상사","pos":"명사","example":"上司に相談した。","exampleTranslation":"상사에게 상담했다."},
-    {"id":"v064","word":"部下","reading":"ぶか","meaning":"부하","pos":"명사","example":"新しい部下が入った。","exampleTranslation":"새로운 부하가 들어왔다."},
-    {"id":"v065","word":"残業","reading":"ざんぎょう","meaning":"잔업·야근","pos":"명사","example":"今日は残業がある。","exampleTranslation":"오늘은 야근이 있다."},
-    {"id":"v066","word":"締め切り","reading":"しめきり","meaning":"마감","pos":"명사","example":"レポートの締め切りは明日です。","exampleTranslation":"리포트 마감은 내일입니다."},
-    {"id":"v067","word":"発表","reading":"はっぴょう","meaning":"발표","pos":"명사","example":"明日、発表があります。","exampleTranslation":"내일 발표가 있습니다."},
-    {"id":"v068","word":"成績","reading":"せいせき","meaning":"성적","pos":"명사","example":"成績が上がった。","exampleTranslation":"성적이 올랐다."},
-    {"id":"v069","word":"試験","reading":"しけん","meaning":"시험","pos":"명사","example":"来月、JLPTの試験がある。","exampleTranslation":"다음 달에 JLPT 시험이 있다."},
-    {"id":"v070","word":"合格","reading":"ごうかく","meaning":"합격","pos":"명사","example":"絶対に合格したい。","exampleTranslation":"꼭 합격하고 싶다."},
-
-    {"id":"v071","word":"季節","reading":"きせつ","meaning":"계절","pos":"명사","example":"日本には四つの季節がある。","exampleTranslation":"일본에는 네 계절이 있다."},
-    {"id":"v072","word":"梅雨","reading":"つゆ","meaning":"장마","pos":"명사","example":"6月は梅雨の季節だ。","exampleTranslation":"6월은 장마철이다."},
-    {"id":"v073","word":"台風","reading":"たいふう","meaning":"태풍","pos":"명사","example":"台風が近づいている。","exampleTranslation":"태풍이 다가오고 있다."},
-    {"id":"v074","word":"地震","reading":"じしん","meaning":"지진","pos":"명사","example":"昨日、小さな地震があった。","exampleTranslation":"어제 작은 지진이 있었다."},
-    {"id":"v075","word":"夕方","reading":"ゆうがた","meaning":"저녁때","pos":"명사","example":"夕方に会いましょう。","exampleTranslation":"저녁때 만납시다."},
-    {"id":"v076","word":"以前","reading":"いぜん","meaning":"이전","pos":"명사","example":"以前ここに住んでいた。","exampleTranslation":"이전에 여기 살았었다."},
-    {"id":"v077","word":"今後","reading":"こんご","meaning":"앞으로","pos":"명사","example":"今後ともよろしく。","exampleTranslation":"앞으로도 잘 부탁드립니다."},
-    {"id":"v078","word":"翌日","reading":"よくじつ","meaning":"다음날","pos":"명사","example":"翌日また来ます。","exampleTranslation":"다음날 다시 오겠습니다."},
-    {"id":"v079","word":"瞬間","reading":"しゅんかん","meaning":"순간","pos":"명사","example":"その瞬間を忘れない。","exampleTranslation":"그 순간을 잊지 않는다."},
-    {"id":"v080","word":"期間","reading":"きかん","meaning":"기간","pos":"명사","example":"留学の期間は一年です。","exampleTranslation":"유학 기간은 1년입니다."},
-
-    {"id":"v201","word":"住所","reading":"じゅうしょ","meaning":"주소","pos":"명사","example":"住所を書いてください。","exampleTranslation":"주소를 적어 주세요."},
-    {"id":"v202","word":"近所","reading":"きんじょ","meaning":"근처·이웃","pos":"명사","example":"近所のスーパーへ行く。","exampleTranslation":"근처 슈퍼에 간다."},
-    {"id":"v203","word":"屋上","reading":"おくじょう","meaning":"옥상","pos":"명사","example":"屋上で景色を楽しむ。","exampleTranslation":"옥상에서 경치를 즐긴다."},
-    {"id":"v204","word":"郵便局","reading":"ゆうびんきょく","meaning":"우체국","pos":"명사","example":"郵便局で切手を買う。","exampleTranslation":"우체국에서 우표를 산다."},
-    {"id":"v205","word":"引っ越し","reading":"ひっこし","meaning":"이사","pos":"명사","example":"来月、引っ越しをします。","exampleTranslation":"다음 달에 이사를 합니다."},
-    {"id":"v210","word":"恋しい","reading":"こいしい","meaning":"그립다","pos":"い형용사","example":"故郷が恋しい。","exampleTranslation":"고향이 그립다."},
-    {"id":"v211","word":"懐かしい","reading":"なつかしい","meaning":"그리워하다·정겹다","pos":"い형용사","example":"懐かしい歌だね。","exampleTranslation":"그리운 노래네."},
-    {"id":"v212","word":"羨ましい","reading":"うらやましい","meaning":"부럽다","pos":"い형용사","example":"成功した彼が羨ましい。","exampleTranslation":"성공한 그가 부럽다."},
-    {"id":"v213","word":"後悔","reading":"こうかい","meaning":"후회","pos":"명사","example":"後悔しないように。","exampleTranslation":"후회하지 않도록."},
-    {"id":"v214","word":"夢中","reading":"むちゅう","meaning":"열중","pos":"な형용사","example":"ゲームに夢中だ。","exampleTranslation":"게임에 열중하고 있다."},
-
-    {"id":"v220","word":"覚える","reading":"おぼえる","meaning":"외우다·기억하다","pos":"동사","example":"新しい単語を覚える。","exampleTranslation":"새 단어를 외운다."},
-    {"id":"v221","word":"忘れる","reading":"わすれる","meaning":"잊다","pos":"동사","example":"鍵を忘れた。","exampleTranslation":"열쇠를 잊고 왔다."},
-    {"id":"v222","word":"思い出す","reading":"おもいだす","meaning":"떠올리다","pos":"동사","example":"昔のことを思い出す。","exampleTranslation":"옛일을 떠올린다."},
-    {"id":"v223","word":"考える","reading":"かんがえる","meaning":"생각하다","pos":"동사","example":"よく考えてから決める。","exampleTranslation":"잘 생각한 후에 결정한다."},
-    {"id":"v224","word":"調べる","reading":"しらべる","meaning":"조사하다","pos":"동사","example":"言葉の意味を調べる。","exampleTranslation":"단어의 뜻을 조사한다."},
-    {"id":"v225","word":"申し込む","reading":"もうしこむ","meaning":"신청하다","pos":"동사","example":"試験を申し込んだ。","exampleTranslation":"시험을 신청했다."},
-    {"id":"v226","word":"決める","reading":"きめる","meaning":"결정하다","pos":"동사","example":"行く日を決めよう。","exampleTranslation":"갈 날을 정하자."},
-    {"id":"v227","word":"選ぶ","reading":"えらぶ","meaning":"고르다","pos":"동사","example":"好きな色を選ぶ。","exampleTranslation":"좋아하는 색을 고른다."},
-    {"id":"v228","word":"渡す","reading":"わたす","meaning":"건네다","pos":"동사","example":"プレゼントを渡した。","exampleTranslation":"선물을 건넸다."},
-    {"id":"v229","word":"招く","reading":"まねく","meaning":"초대하다","pos":"동사","example":"友達を家に招いた。","exampleTranslation":"친구를 집에 초대했다."},
-
-    {"id":"v240","word":"美しい","reading":"うつくしい","meaning":"아름답다","pos":"い형용사","example":"美しい風景です。","exampleTranslation":"아름다운 풍경입니다."},
-    {"id":"v241","word":"汚い","reading":"きたない","meaning":"더럽다","pos":"い형용사","example":"部屋が汚い。","exampleTranslation":"방이 더럽다."},
-    {"id":"v242","word":"激しい","reading":"はげしい","meaning":"격렬하다","pos":"い형용사","example":"激しい運動はしない。","exampleTranslation":"격렬한 운동은 안 한다."},
-    {"id":"v243","word":"懐かしい","reading":"なつかしい","meaning":"그립다","pos":"い형용사","example":"懐かしい味だ。","exampleTranslation":"그리운 맛이다."},
-    {"id":"v244","word":"贅沢","reading":"ぜいたく","meaning":"사치","pos":"な형용사","example":"贅沢な生活。","exampleTranslation":"사치스러운 생활."},
-    {"id":"v245","word":"地味","reading":"じみ","meaning":"수수하다","pos":"な형용사","example":"地味な服を着る。","exampleTranslation":"수수한 옷을 입는다."},
-    {"id":"v246","word":"派手","reading":"はで","meaning":"화려하다","pos":"な형용사","example":"派手な色は苦手だ。","exampleTranslation":"화려한 색은 잘 안 맞는다."},
-    {"id":"v247","word":"得意","reading":"とくい","meaning":"잘하다·자신있다","pos":"な형용사","example":"料理が得意です。","exampleTranslation":"요리를 잘합니다."},
-
-    {"id":"v250","word":"もちろん","reading":"もちろん","meaning":"물론","pos":"부사","example":"もちろん行きます。","exampleTranslation":"물론 갑니다."},
-    {"id":"v251","word":"なかなか","reading":"なかなか","meaning":"좀처럼·꽤","pos":"부사","example":"なかなか会えない。","exampleTranslation":"좀처럼 만나기 어렵다."},
-    {"id":"v252","word":"わざわざ","reading":"わざわざ","meaning":"일부러","pos":"부사","example":"わざわざ来てくれた。","exampleTranslation":"일부러 와 줬다."},
-    {"id":"v253","word":"はっきり","reading":"はっきり","meaning":"분명히","pos":"부사","example":"はっきり言ってください。","exampleTranslation":"분명히 말해 주세요."},
-    {"id":"v254","word":"だんだん","reading":"だんだん","meaning":"점점","pos":"부사","example":"だんだん寒くなる。","exampleTranslation":"점점 추워진다."},
-
-    {"id":"v260","word":"履歴書","reading":"りれきしょ","meaning":"이력서","pos":"명사","example":"履歴書を送る。","exampleTranslation":"이력서를 보낸다."},
-    {"id":"v261","word":"面接","reading":"めんせつ","meaning":"면접","pos":"명사","example":"明日、面接です。","exampleTranslation":"내일 면접입니다."},
-    {"id":"v262","word":"昇進","reading":"しょうしん","meaning":"승진","pos":"명사","example":"昇進が決まった。","exampleTranslation":"승진이 결정됐다."},
-    {"id":"v263","word":"給料","reading":"きゅうりょう","meaning":"월급","pos":"명사","example":"給料が上がった。","exampleTranslation":"월급이 올랐다."},
-    {"id":"v264","word":"先輩","reading":"せんぱい","meaning":"선배","pos":"명사","example":"会社の先輩に教わる。","exampleTranslation":"회사 선배에게 배운다."},
-
-    {"id":"v270","word":"朝","reading":"あさ","meaning":"아침","pos":"명사","example":"朝早く起きる。","exampleTranslation":"아침 일찍 일어난다."},
-    {"id":"v271","word":"昼","reading":"ひる","meaning":"낮","pos":"명사","example":"昼ご飯を食べる。","exampleTranslation":"점심을 먹는다."},
-    {"id":"v272","word":"夜","reading":"よる","meaning":"밤","pos":"명사","example":"夜は静かだ。","exampleTranslation":"밤은 조용하다."},
-    {"id":"v273","word":"週末","reading":"しゅうまつ","meaning":"주말","pos":"명사","example":"週末は休みです。","exampleTranslation":"주말은 쉽니다."},
-    {"id":"v274","word":"普段","reading":"ふだん","meaning":"평소","pos":"명사","example":"普段は家にいます。","exampleTranslation":"평소에는 집에 있어요."},
-
-    {"id":"v280","word":"頭","reading":"あたま","meaning":"머리","pos":"명사","example":"頭が痛い。","exampleTranslation":"머리가 아프다."},
-    {"id":"v281","word":"顔","reading":"かお","meaning":"얼굴","pos":"명사","example":"顔を洗う。","exampleTranslation":"얼굴을 씻는다."},
-    {"id":"v282","word":"目","reading":"め","meaning":"눈","pos":"명사","example":"目が大きい。","exampleTranslation":"눈이 크다."},
-    {"id":"v283","word":"耳","reading":"みみ","meaning":"귀","pos":"명사","example":"耳が遠い。","exampleTranslation":"귀가 잘 안 들린다."},
-    {"id":"v284","word":"口","reading":"くち","meaning":"입","pos":"명사","example":"口を開ける。","exampleTranslation":"입을 연다."},
-    {"id":"v285","word":"手","reading":"て","meaning":"손","pos":"명사","example":"手を洗ってください。","exampleTranslation":"손을 씻어 주세요."},
-    {"id":"v286","word":"足","reading":"あし","meaning":"발·다리","pos":"명사","example":"足が痛い。","exampleTranslation":"다리가 아프다."},
-    {"id":"v287","word":"心","reading":"こころ","meaning":"마음","pos":"명사","example":"心が温かい。","exampleTranslation":"마음이 따뜻하다."},
-    {"id":"v288","word":"風邪","reading":"かぜ","meaning":"감기","pos":"명사","example":"風邪をひいた。","exampleTranslation":"감기에 걸렸다."},
-    {"id":"v289","word":"熱","reading":"ねつ","meaning":"열","pos":"명사","example":"熱があります。","exampleTranslation":"열이 있어요."},
-    {"id":"v290","word":"病院","reading":"びょういん","meaning":"병원","pos":"명사","example":"病院へ行く。","exampleTranslation":"병원에 간다."},
-    {"id":"v291","word":"薬","reading":"くすり","meaning":"약","pos":"명사","example":"薬を飲む。","exampleTranslation":"약을 먹는다."},
-
-    {"id":"v300","word":"朝食","reading":"ちょうしょく","meaning":"아침식사","pos":"명사","example":"朝食はパンです。","exampleTranslation":"아침은 빵입니다."},
-    {"id":"v301","word":"昼食","reading":"ちゅうしょく","meaning":"점심식사","pos":"명사","example":"昼食を一緒に。","exampleTranslation":"점심을 같이."},
-    {"id":"v302","word":"夕食","reading":"ゆうしょく","meaning":"저녁식사","pos":"명사","example":"夕食の準備をする。","exampleTranslation":"저녁 준비를 한다."},
-    {"id":"v303","word":"注文","reading":"ちゅうもん","meaning":"주문","pos":"명사","example":"注文をお願いします。","exampleTranslation":"주문 부탁합니다."},
-    {"id":"v304","word":"予約","reading":"よやく","meaning":"예약","pos":"명사","example":"レストランを予約した。","exampleTranslation":"식당을 예약했다."},
-    {"id":"v305","word":"味","reading":"あじ","meaning":"맛","pos":"명사","example":"味が薄い。","exampleTranslation":"맛이 싱겁다."},
-    {"id":"v306","word":"辛い","reading":"からい","meaning":"맵다","pos":"い형용사","example":"辛い料理が好き。","exampleTranslation":"매운 요리를 좋아한다."},
-    {"id":"v307","word":"甘い","reading":"あまい","meaning":"달다","pos":"い형용사","example":"このケーキは甘い。","exampleTranslation":"이 케이크는 달다."},
-    {"id":"v308","word":"塩辛い","reading":"しおからい","meaning":"짜다","pos":"い형용사","example":"塩辛すぎる。","exampleTranslation":"너무 짜다."},
-    {"id":"v309","word":"おいしい","reading":"おいしい","meaning":"맛있다","pos":"い형용사","example":"このラーメンはおいしい。","exampleTranslation":"이 라멘은 맛있다."},
-    {"id":"v310","word":"まずい","reading":"まずい","meaning":"맛없다","pos":"い형용사","example":"ちょっとまずい。","exampleTranslation":"좀 맛없다."},
-    {"id":"v311","word":"野菜","reading":"やさい","meaning":"채소","pos":"명사","example":"野菜をたくさん食べる。","exampleTranslation":"채소를 많이 먹는다."},
-
-    {"id":"v320","word":"飛行機","reading":"ひこうき","meaning":"비행기","pos":"명사","example":"飛行機で行きます。","exampleTranslation":"비행기로 갑니다."},
-    {"id":"v321","word":"新幹線","reading":"しんかんせん","meaning":"신칸센","pos":"명사","example":"新幹線が速い。","exampleTranslation":"신칸센은 빠르다."},
-    {"id":"v322","word":"地下鉄","reading":"ちかてつ","meaning":"지하철","pos":"명사","example":"地下鉄で通勤する。","exampleTranslation":"지하철로 출근한다."},
-    {"id":"v323","word":"切符","reading":"きっぷ","meaning":"표","pos":"명사","example":"切符を買う。","exampleTranslation":"표를 산다."},
-    {"id":"v324","word":"乗り換え","reading":"のりかえ","meaning":"환승","pos":"명사","example":"次の駅で乗り換えです。","exampleTranslation":"다음 역에서 환승입니다."},
-    {"id":"v325","word":"ホテル","reading":"ホテル","meaning":"호텔","pos":"명사","example":"ホテルを予約した。","exampleTranslation":"호텔을 예약했다."},
-    {"id":"v326","word":"観光","reading":"かんこう","meaning":"관광","pos":"명사","example":"京都を観光する。","exampleTranslation":"교토를 관광한다."},
-    {"id":"v327","word":"地図","reading":"ちず","meaning":"지도","pos":"명사","example":"地図を見る。","exampleTranslation":"지도를 본다."},
-    {"id":"v328","word":"道","reading":"みち","meaning":"길","pos":"명사","example":"道に迷った。","exampleTranslation":"길을 잃었다."},
-    {"id":"v329","word":"空港","reading":"くうこう","meaning":"공항","pos":"명사","example":"空港まで迎えに行く。","exampleTranslation":"공항까지 마중 간다."},
-
-    {"id":"v340","word":"値段","reading":"ねだん","meaning":"가격","pos":"명사","example":"値段が高い。","exampleTranslation":"가격이 비싸다."},
-    {"id":"v341","word":"安い","reading":"やすい","meaning":"싸다","pos":"い형용사","example":"このシャツは安い。","exampleTranslation":"이 셔츠는 싸다."},
-    {"id":"v342","word":"高い","reading":"たかい","meaning":"비싸다·높다","pos":"い형용사","example":"高くて買えない。","exampleTranslation":"비싸서 못 산다."},
-    {"id":"v343","word":"割引","reading":"わりびき","meaning":"할인","pos":"명사","example":"20%割引中。","exampleTranslation":"20% 할인 중."},
-    {"id":"v344","word":"レジ","reading":"レジ","meaning":"계산대","pos":"명사","example":"レジで払う。","exampleTranslation":"계산대에서 낸다."},
-    {"id":"v345","word":"袋","reading":"ふくろ","meaning":"봉투","pos":"명사","example":"袋はいりません。","exampleTranslation":"봉투는 필요 없어요."},
-    {"id":"v346","word":"領収書","reading":"りょうしゅうしょ","meaning":"영수증","pos":"명사","example":"領収書をください。","exampleTranslation":"영수증 주세요."},
-    {"id":"v347","word":"現金","reading":"げんきん","meaning":"현금","pos":"명사","example":"現金で払う。","exampleTranslation":"현금으로 낸다."},
-    {"id":"v348","word":"両替","reading":"りょうがえ","meaning":"환전","pos":"명사","example":"銀行で両替する。","exampleTranslation":"은행에서 환전한다."},
-    {"id":"v349","word":"無料","reading":"むりょう","meaning":"무료","pos":"명사","example":"入場は無料です。","exampleTranslation":"입장은 무료입니다."},
-
-    {"id":"v400","word":"両親","reading":"りょうしん","meaning":"부모","pos":"명사","example":"両親に感謝している。","exampleTranslation":"부모님께 감사하고 있다."},
-    {"id":"v401","word":"祖父","reading":"そふ","meaning":"할아버지","pos":"명사","example":"祖父は元気です。","exampleTranslation":"할아버지는 건강하십니다."},
-    {"id":"v402","word":"祖母","reading":"そぼ","meaning":"할머니","pos":"명사","example":"祖母の料理が好きだ。","exampleTranslation":"할머니 요리를 좋아한다."},
-    {"id":"v403","word":"兄弟","reading":"きょうだい","meaning":"형제","pos":"명사","example":"兄弟は三人います。","exampleTranslation":"형제가 셋 있습니다."},
-    {"id":"v404","word":"夫婦","reading":"ふうふ","meaning":"부부","pos":"명사","example":"幸せな夫婦だ。","exampleTranslation":"행복한 부부다."},
-    {"id":"v405","word":"親戚","reading":"しんせき","meaning":"친척","pos":"명사","example":"親戚が集まる。","exampleTranslation":"친척이 모인다."},
-    {"id":"v406","word":"知り合い","reading":"しりあい","meaning":"아는 사람","pos":"명사","example":"会社の知り合いです。","exampleTranslation":"회사 지인입니다."},
-    {"id":"v407","word":"友達","reading":"ともだち","meaning":"친구","pos":"명사","example":"いい友達ができた。","exampleTranslation":"좋은 친구가 생겼다."},
-    {"id":"v408","word":"恋人","reading":"こいびと","meaning":"애인","pos":"명사","example":"恋人ができた。","exampleTranslation":"애인이 생겼다."},
-    {"id":"v409","word":"近所の人","reading":"きんじょのひと","meaning":"이웃","pos":"명사","example":"近所の人と挨拶する。","exampleTranslation":"이웃과 인사한다."},
-    {"id":"v410","word":"同僚","reading":"どうりょう","meaning":"동료","pos":"명사","example":"同僚と食事に行く。","exampleTranslation":"동료와 식사하러 간다."},
-    {"id":"v411","word":"客様","reading":"きゃくさま","meaning":"손님","pos":"명사","example":"お客様、こちらへどうぞ。","exampleTranslation":"손님, 이쪽으로 오세요."},
-
-    {"id":"v420","word":"赤色","reading":"あかいろ","meaning":"빨간색","pos":"명사","example":"赤色のリンゴ。","exampleTranslation":"빨간색 사과."},
-    {"id":"v421","word":"青色","reading":"あおいろ","meaning":"파란색","pos":"명사","example":"空は青色だ。","exampleTranslation":"하늘은 파란색이다."},
-    {"id":"v422","word":"黄色","reading":"きいろ","meaning":"노란색","pos":"명사","example":"黄色いバナナ。","exampleTranslation":"노란 바나나."},
-    {"id":"v423","word":"緑","reading":"みどり","meaning":"녹색","pos":"명사","example":"緑の森。","exampleTranslation":"녹색 숲."},
-    {"id":"v424","word":"茶色","reading":"ちゃいろ","meaning":"갈색","pos":"명사","example":"茶色のかばん。","exampleTranslation":"갈색 가방."},
-    {"id":"v425","word":"灰色","reading":"はいいろ","meaning":"회색","pos":"명사","example":"灰色の空。","exampleTranslation":"회색 하늘."},
-    {"id":"v426","word":"丸","reading":"まる","meaning":"동그라미","pos":"명사","example":"丸を描く。","exampleTranslation":"동그라미를 그린다."},
-    {"id":"v427","word":"四角","reading":"しかく","meaning":"사각형","pos":"명사","example":"四角い箱。","exampleTranslation":"네모난 상자."},
-    {"id":"v428","word":"三角","reading":"さんかく","meaning":"삼각형","pos":"명사","example":"三角の屋根。","exampleTranslation":"삼각 지붕."},
-    {"id":"v429","word":"星","reading":"ほし","meaning":"별","pos":"명사","example":"星がきれい。","exampleTranslation":"별이 예쁘다."},
-    {"id":"v430","word":"明るい","reading":"あかるい","meaning":"밝다","pos":"い형용사","example":"明るい部屋。","exampleTranslation":"밝은 방."},
-    {"id":"v431","word":"暗い","reading":"くらい","meaning":"어둡다","pos":"い형용사","example":"夜は暗い。","exampleTranslation":"밤은 어둡다."},
-
-    {"id":"v440","word":"犬","reading":"いぬ","meaning":"개","pos":"명사","example":"犬を飼っている。","exampleTranslation":"개를 기르고 있다."},
-    {"id":"v441","word":"猫","reading":"ねこ","meaning":"고양이","pos":"명사","example":"猫がかわいい。","exampleTranslation":"고양이가 귀엽다."},
-    {"id":"v442","word":"鳥","reading":"とり","meaning":"새","pos":"명사","example":"鳥が飛んでいる。","exampleTranslation":"새가 날고 있다."},
-    {"id":"v443","word":"魚","reading":"さかな","meaning":"물고기","pos":"명사","example":"魚を釣る。","exampleTranslation":"물고기를 낚다."},
-    {"id":"v444","word":"虫","reading":"むし","meaning":"벌레","pos":"명사","example":"夏は虫が多い。","exampleTranslation":"여름은 벌레가 많다."},
-    {"id":"v445","word":"馬","reading":"うま","meaning":"말","pos":"명사","example":"馬に乗る。","exampleTranslation":"말을 탄다."},
-    {"id":"v446","word":"牛","reading":"うし","meaning":"소","pos":"명사","example":"牛が草を食べる。","exampleTranslation":"소가 풀을 먹는다."},
-    {"id":"v447","word":"豚","reading":"ぶた","meaning":"돼지","pos":"명사","example":"豚肉が好き。","exampleTranslation":"돼지고기를 좋아한다."},
-    {"id":"v448","word":"花","reading":"はな","meaning":"꽃","pos":"명사","example":"花が咲いた。","exampleTranslation":"꽃이 피었다."},
-    {"id":"v449","word":"葉","reading":"は","meaning":"잎","pos":"명사","example":"葉が落ちる。","exampleTranslation":"잎이 떨어진다."},
-    {"id":"v450","word":"海","reading":"うみ","meaning":"바다","pos":"명사","example":"夏は海へ行く。","exampleTranslation":"여름엔 바다에 간다."},
-    {"id":"v451","word":"湖","reading":"みずうみ","meaning":"호수","pos":"명사","example":"きれいな湖。","exampleTranslation":"아름다운 호수."},
-
-    {"id":"v460","word":"趣味","reading":"しゅみ","meaning":"취미","pos":"명사","example":"趣味は読書です。","exampleTranslation":"취미는 독서입니다."},
-    {"id":"v461","word":"音楽","reading":"おんがく","meaning":"음악","pos":"명사","example":"音楽を聞く。","exampleTranslation":"음악을 듣는다."},
-    {"id":"v462","word":"映画","reading":"えいが","meaning":"영화","pos":"명사","example":"映画を見る。","exampleTranslation":"영화를 본다."},
-    {"id":"v463","word":"読書","reading":"どくしょ","meaning":"독서","pos":"명사","example":"読書が好きです。","exampleTranslation":"독서를 좋아합니다."},
-    {"id":"v464","word":"旅行","reading":"りょこう","meaning":"여행","pos":"명사","example":"海外旅行をする。","exampleTranslation":"해외여행을 한다."},
-    {"id":"v465","word":"運動","reading":"うんどう","meaning":"운동","pos":"명사","example":"毎日運動する。","exampleTranslation":"매일 운동한다."},
-    {"id":"v466","word":"野球","reading":"やきゅう","meaning":"야구","pos":"명사","example":"野球を見る。","exampleTranslation":"야구를 본다."},
-    {"id":"v467","word":"サッカー","reading":"サッカー","meaning":"축구","pos":"명사","example":"サッカーが好きだ。","exampleTranslation":"축구를 좋아한다."},
-    {"id":"v468","word":"水泳","reading":"すいえい","meaning":"수영","pos":"명사","example":"水泳を習う。","exampleTranslation":"수영을 배운다."},
-    {"id":"v469","word":"絵","reading":"え","meaning":"그림","pos":"명사","example":"絵を描く。","exampleTranslation":"그림을 그린다."},
-    {"id":"v470","word":"写真","reading":"しゃしん","meaning":"사진","pos":"명사","example":"写真を撮る。","exampleTranslation":"사진을 찍는다."},
-    {"id":"v471","word":"ゲーム","reading":"ゲーム","meaning":"게임","pos":"명사","example":"ゲームを楽しむ。","exampleTranslation":"게임을 즐긴다."},
-
-    {"id":"v480","word":"携帯","reading":"けいたい","meaning":"휴대전화","pos":"명사","example":"携帯を忘れた。","exampleTranslation":"휴대폰을 두고 왔다."},
-    {"id":"v481","word":"電話","reading":"でんわ","meaning":"전화","pos":"명사","example":"電話をかける。","exampleTranslation":"전화를 건다."},
-    {"id":"v482","word":"パソコン","reading":"パソコン","meaning":"컴퓨터","pos":"명사","example":"パソコンで仕事する。","exampleTranslation":"컴퓨터로 일한다."},
-    {"id":"v483","word":"メール","reading":"メール","meaning":"이메일","pos":"명사","example":"メールを送る。","exampleTranslation":"메일을 보낸다."},
-    {"id":"v484","word":"インターネット","reading":"インターネット","meaning":"인터넷","pos":"명사","example":"インターネットで調べる。","exampleTranslation":"인터넷에서 찾아본다."},
-    {"id":"v485","word":"パスワード","reading":"パスワード","meaning":"비밀번호","pos":"명사","example":"パスワードを忘れた。","exampleTranslation":"비밀번호를 잊었다."},
-    {"id":"v486","word":"画面","reading":"がめん","meaning":"화면","pos":"명사","example":"画面が暗くなった。","exampleTranslation":"화면이 어두워졌다."},
-    {"id":"v487","word":"検索","reading":"けんさく","meaning":"검색","pos":"명사","example":"検索して調べる。","exampleTranslation":"검색해서 찾아본다."},
-    {"id":"v488","word":"画像","reading":"がぞう","meaning":"이미지·사진","pos":"명사","example":"画像を保存する。","exampleTranslation":"이미지를 저장한다."},
-    {"id":"v489","word":"動画","reading":"どうが","meaning":"동영상","pos":"명사","example":"動画を見る。","exampleTranslation":"동영상을 본다."},
-    {"id":"v490","word":"アプリ","reading":"アプリ","meaning":"앱","pos":"명사","example":"便利なアプリです。","exampleTranslation":"편리한 앱입니다."},
-    {"id":"v491","word":"クリック","reading":"クリック","meaning":"클릭","pos":"명사","example":"ここをクリック。","exampleTranslation":"여기를 클릭."},
-
-    {"id":"v500","word":"服","reading":"ふく","meaning":"옷","pos":"명사","example":"服を着る。","exampleTranslation":"옷을 입는다."},
-    {"id":"v501","word":"靴","reading":"くつ","meaning":"신발","pos":"명사","example":"新しい靴。","exampleTranslation":"새 신발."},
-    {"id":"v502","word":"帽子","reading":"ぼうし","meaning":"모자","pos":"명사","example":"帽子をかぶる。","exampleTranslation":"모자를 쓴다."},
-    {"id":"v503","word":"鞄","reading":"かばん","meaning":"가방","pos":"명사","example":"鞄を持つ。","exampleTranslation":"가방을 든다."},
-    {"id":"v504","word":"傘","reading":"かさ","meaning":"우산","pos":"명사","example":"傘を差す。","exampleTranslation":"우산을 쓴다."},
-    {"id":"v505","word":"時計","reading":"とけい","meaning":"시계","pos":"명사","example":"時計を見る。","exampleTranslation":"시계를 본다."},
-    {"id":"v506","word":"眼鏡","reading":"めがね","meaning":"안경","pos":"명사","example":"眼鏡をかける。","exampleTranslation":"안경을 쓴다."},
-    {"id":"v507","word":"スーツ","reading":"スーツ","meaning":"정장","pos":"명사","example":"スーツを着る。","exampleTranslation":"정장을 입는다."},
-    {"id":"v508","word":"ジーンズ","reading":"ジーンズ","meaning":"청바지","pos":"명사","example":"ジーンズが似合う。","exampleTranslation":"청바지가 잘 어울린다."},
-    {"id":"v509","word":"指輪","reading":"ゆびわ","meaning":"반지","pos":"명사","example":"婚約指輪。","exampleTranslation":"약혼반지."},
-
-    {"id":"v520","word":"理由","reading":"りゆう","meaning":"이유","pos":"명사","example":"理由を教えてください。","exampleTranslation":"이유를 알려 주세요."},
-    {"id":"v521","word":"原因","reading":"げんいん","meaning":"원인","pos":"명사","example":"原因を調べる。","exampleTranslation":"원인을 조사한다."},
-    {"id":"v522","word":"結果","reading":"けっか","meaning":"결과","pos":"명사","example":"結果が出た。","exampleTranslation":"결과가 나왔다."},
-    {"id":"v523","word":"意味","reading":"いみ","meaning":"의미","pos":"명사","example":"言葉の意味を知る。","exampleTranslation":"단어의 뜻을 안다."},
-    {"id":"v524","word":"意見","reading":"いけん","meaning":"의견","pos":"명사","example":"意見を述べる。","exampleTranslation":"의견을 말한다."},
-    {"id":"v525","word":"考え方","reading":"かんがえかた","meaning":"사고방식","pos":"명사","example":"考え方が違う。","exampleTranslation":"사고방식이 다르다."},
-    {"id":"v526","word":"性格","reading":"せいかく","meaning":"성격","pos":"명사","example":"明るい性格。","exampleTranslation":"밝은 성격."},
-    {"id":"v527","word":"特徴","reading":"とくちょう","meaning":"특징","pos":"명사","example":"特徴を説明する。","exampleTranslation":"특징을 설명한다."},
-    {"id":"v528","word":"目的","reading":"もくてき","meaning":"목적","pos":"명사","example":"目的を持つ。","exampleTranslation":"목적을 가진다."},
-    {"id":"v529","word":"方法","reading":"ほうほう","meaning":"방법","pos":"명사","example":"いい方法だ。","exampleTranslation":"좋은 방법이다."},
-    {"id":"v530","word":"問題","reading":"もんだい","meaning":"문제","pos":"명사","example":"問題を解く。","exampleTranslation":"문제를 푼다."},
-    {"id":"v531","word":"解決","reading":"かいけつ","meaning":"해결","pos":"명사","example":"問題を解決する。","exampleTranslation":"문제를 해결한다."},
-    {"id":"v532","word":"事実","reading":"じじつ","meaning":"사실","pos":"명사","example":"事実を伝える。","exampleTranslation":"사실을 전한다."},
-    {"id":"v533","word":"真実","reading":"しんじつ","meaning":"진실","pos":"명사","example":"真実を知りたい。","exampleTranslation":"진실을 알고 싶다."}
+    {
+      "id": "b001",
+      "word": "こんにちは",
+      "reading": "こんにちは",
+      "meaning": "안녕하세요 (낮인사)",
+      "pos": "표현",
+      "example": "こんにちは、お元気ですか。",
+      "exampleTranslation": "안녕하세요, 잘 지내세요?"
+    },
+    {
+      "id": "b002",
+      "word": "おはようございます",
+      "reading": "おはようございます",
+      "meaning": "안녕하세요 (아침인사)",
+      "pos": "표현",
+      "example": "おはようございます、今日もいい天気ですね。",
+      "exampleTranslation": "안녕하세요, 오늘도 날씨가 좋네요."
+    },
+    {
+      "id": "b003",
+      "word": "こんばんは",
+      "reading": "こんばんは",
+      "meaning": "안녕하세요 (저녁인사)",
+      "pos": "표현",
+      "example": "こんばんは、お帰りなさい。",
+      "exampleTranslation": "안녕하세요, 잘 다녀오셨어요."
+    },
+    {
+      "id": "b004",
+      "word": "おやすみなさい",
+      "reading": "おやすみなさい",
+      "meaning": "안녕히 주무세요",
+      "pos": "표현",
+      "example": "もう遅いので、おやすみなさい。",
+      "exampleTranslation": "늦었으니 잘 자요."
+    },
+    {
+      "id": "b005",
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "meaning": "고마워요",
+      "pos": "표현",
+      "example": "プレゼント、ありがとう。",
+      "exampleTranslation": "선물 고마워."
+    },
+    {
+      "id": "b006",
+      "word": "すみません",
+      "reading": "すみません",
+      "meaning": "죄송합니다 / 실례합니다",
+      "pos": "표현",
+      "example": "すみません、駅はどこですか。",
+      "exampleTranslation": "실례합니다, 역은 어디예요?"
+    },
+    {
+      "id": "b007",
+      "word": "ごめんなさい",
+      "reading": "ごめんなさい",
+      "meaning": "미안합니다",
+      "pos": "표현",
+      "example": "遅れて、ごめんなさい。",
+      "exampleTranslation": "늦어서 미안해요."
+    },
+    {
+      "id": "b008",
+      "word": "はい",
+      "reading": "はい",
+      "meaning": "네",
+      "pos": "표현",
+      "example": "はい、わかりました。",
+      "exampleTranslation": "네, 알겠습니다."
+    },
+    {
+      "id": "b009",
+      "word": "いいえ",
+      "reading": "いいえ",
+      "meaning": "아니요",
+      "pos": "표현",
+      "example": "いいえ、違います。",
+      "exampleTranslation": "아니요, 다릅니다."
+    },
+    {
+      "id": "b010",
+      "word": "はじめまして",
+      "reading": "はじめまして",
+      "meaning": "처음 뵙겠습니다",
+      "pos": "표현",
+      "example": "はじめまして、田中です。",
+      "exampleTranslation": "처음 뵙겠습니다, 다나카입니다."
+    },
+    {
+      "id": "b011",
+      "word": "よろしくお願いします",
+      "reading": "よろしくおねがいします",
+      "meaning": "잘 부탁드립니다",
+      "pos": "표현",
+      "example": "これから、よろしくお願いします。",
+      "exampleTranslation": "앞으로 잘 부탁드립니다."
+    },
+    {
+      "id": "b012",
+      "word": "さようなら",
+      "reading": "さようなら",
+      "meaning": "안녕히 가세요",
+      "pos": "표현",
+      "example": "また明日。さようなら。",
+      "exampleTranslation": "내일 봐요. 안녕히 가세요."
+    },
+    {
+      "id": "b013",
+      "word": "いただきます",
+      "reading": "いただきます",
+      "meaning": "잘 먹겠습니다",
+      "pos": "표현",
+      "example": "いただきます。おいしそう!",
+      "exampleTranslation": "잘 먹겠습니다. 맛있어 보여요!"
+    },
+    {
+      "id": "b014",
+      "word": "ごちそうさま",
+      "reading": "ごちそうさま",
+      "meaning": "잘 먹었습니다",
+      "pos": "표현",
+      "example": "ごちそうさまでした。",
+      "exampleTranslation": "잘 먹었습니다."
+    },
+    {
+      "id": "b015",
+      "word": "お疲れさま",
+      "reading": "おつかれさま",
+      "meaning": "수고하셨습니다",
+      "pos": "표현",
+      "example": "今日もお疲れさま。",
+      "exampleTranslation": "오늘도 수고하셨어요."
+    },
+    {
+      "id": "b020",
+      "word": "一",
+      "reading": "いち",
+      "meaning": "하나, 1",
+      "pos": "명사",
+      "example": "一つください。",
+      "exampleTranslation": "하나 주세요."
+    },
+    {
+      "id": "b021",
+      "word": "二",
+      "reading": "に",
+      "meaning": "둘, 2",
+      "pos": "명사",
+      "example": "二人で行きます。",
+      "exampleTranslation": "두 명이 갑니다."
+    },
+    {
+      "id": "b022",
+      "word": "三",
+      "reading": "さん",
+      "meaning": "셋, 3",
+      "pos": "명사",
+      "example": "三時に会いましょう。",
+      "exampleTranslation": "3시에 만납시다."
+    },
+    {
+      "id": "b023",
+      "word": "四",
+      "reading": "よん",
+      "meaning": "넷, 4",
+      "pos": "명사",
+      "example": "四階に住んでいます。",
+      "exampleTranslation": "4층에 살아요."
+    },
+    {
+      "id": "b024",
+      "word": "五",
+      "reading": "ご",
+      "meaning": "다섯, 5",
+      "pos": "명사",
+      "example": "五分待ってください。",
+      "exampleTranslation": "5분 기다려 주세요."
+    },
+    {
+      "id": "b025",
+      "word": "六",
+      "reading": "ろく",
+      "meaning": "여섯, 6",
+      "pos": "명사",
+      "example": "六時に起きます。",
+      "exampleTranslation": "6시에 일어나요."
+    },
+    {
+      "id": "b026",
+      "word": "七",
+      "reading": "なな",
+      "meaning": "일곱, 7",
+      "pos": "명사",
+      "example": "七人家族です。",
+      "exampleTranslation": "7명 가족이에요."
+    },
+    {
+      "id": "b027",
+      "word": "八",
+      "reading": "はち",
+      "meaning": "여덟, 8",
+      "pos": "명사",
+      "example": "八月に旅行します。",
+      "exampleTranslation": "8월에 여행해요."
+    },
+    {
+      "id": "b028",
+      "word": "九",
+      "reading": "きゅう",
+      "meaning": "아홉, 9",
+      "pos": "명사",
+      "example": "九時に閉まります。",
+      "exampleTranslation": "9시에 문 닫아요."
+    },
+    {
+      "id": "b029",
+      "word": "十",
+      "reading": "じゅう",
+      "meaning": "열, 10",
+      "pos": "명사",
+      "example": "十分かかります。",
+      "exampleTranslation": "10분 걸려요."
+    },
+    {
+      "id": "b030",
+      "word": "今日",
+      "reading": "きょう",
+      "meaning": "오늘",
+      "pos": "명사",
+      "example": "今日は寒いですね。",
+      "exampleTranslation": "오늘은 춥네요."
+    },
+    {
+      "id": "b031",
+      "word": "明日",
+      "reading": "あした",
+      "meaning": "내일",
+      "pos": "명사",
+      "example": "明日また会いましょう。",
+      "exampleTranslation": "내일 또 만나요."
+    },
+    {
+      "id": "b032",
+      "word": "昨日",
+      "reading": "きのう",
+      "meaning": "어제",
+      "pos": "명사",
+      "example": "昨日は雨でした。",
+      "exampleTranslation": "어제는 비였어요."
+    },
+    {
+      "id": "b033",
+      "word": "今",
+      "reading": "いま",
+      "meaning": "지금",
+      "pos": "명사",
+      "example": "今、何時ですか。",
+      "exampleTranslation": "지금 몇 시예요?"
+    },
+    {
+      "id": "b034",
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meaning": "월요일",
+      "pos": "명사",
+      "example": "月曜日は忙しいです。",
+      "exampleTranslation": "월요일은 바빠요."
+    },
+    {
+      "id": "b035",
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meaning": "일요일",
+      "pos": "명사",
+      "example": "日曜日は休みです。",
+      "exampleTranslation": "일요일은 쉬는 날이에요."
+    },
+    {
+      "id": "b040",
+      "word": "私",
+      "reading": "わたし",
+      "meaning": "나, 저",
+      "pos": "명사",
+      "example": "私は学生です。",
+      "exampleTranslation": "저는 학생입니다."
+    },
+    {
+      "id": "b041",
+      "word": "あなた",
+      "reading": "あなた",
+      "meaning": "당신",
+      "pos": "명사",
+      "example": "あなたの名前は?",
+      "exampleTranslation": "당신의 이름은?"
+    },
+    {
+      "id": "b042",
+      "word": "彼",
+      "reading": "かれ",
+      "meaning": "그",
+      "pos": "명사",
+      "example": "彼は先生です。",
+      "exampleTranslation": "그는 선생님이에요."
+    },
+    {
+      "id": "b043",
+      "word": "彼女",
+      "reading": "かのじょ",
+      "meaning": "그녀",
+      "pos": "명사",
+      "example": "彼女は親切です。",
+      "exampleTranslation": "그녀는 친절해요."
+    },
+    {
+      "id": "b044",
+      "word": "これ",
+      "reading": "これ",
+      "meaning": "이것",
+      "pos": "명사",
+      "example": "これは何ですか。",
+      "exampleTranslation": "이것은 무엇입니까?"
+    },
+    {
+      "id": "b045",
+      "word": "それ",
+      "reading": "それ",
+      "meaning": "그것",
+      "pos": "명사",
+      "example": "それを取ってください。",
+      "exampleTranslation": "그것을 잡아 주세요."
+    },
+    {
+      "id": "b046",
+      "word": "あれ",
+      "reading": "あれ",
+      "meaning": "저것",
+      "pos": "명사",
+      "example": "あれはとても高い。",
+      "exampleTranslation": "저것은 매우 비싸요."
+    },
+    {
+      "id": "b047",
+      "word": "ここ",
+      "reading": "ここ",
+      "meaning": "여기",
+      "pos": "명사",
+      "example": "ここで待ちます。",
+      "exampleTranslation": "여기서 기다릴게요."
+    },
+    {
+      "id": "b048",
+      "word": "そこ",
+      "reading": "そこ",
+      "meaning": "거기",
+      "pos": "명사",
+      "example": "そこに置いてください。",
+      "exampleTranslation": "거기 두세요."
+    },
+    {
+      "id": "b049",
+      "word": "あそこ",
+      "reading": "あそこ",
+      "meaning": "저기",
+      "pos": "명사",
+      "example": "あそこに見えますか。",
+      "exampleTranslation": "저기 보이세요?"
+    },
+    {
+      "id": "b050",
+      "word": "誰",
+      "reading": "だれ",
+      "meaning": "누구",
+      "pos": "명사",
+      "example": "誰が来ましたか。",
+      "exampleTranslation": "누가 왔어요?"
+    },
+    {
+      "id": "b051",
+      "word": "何",
+      "reading": "なに",
+      "meaning": "무엇",
+      "pos": "명사",
+      "example": "何を食べたいですか。",
+      "exampleTranslation": "무엇을 먹고 싶어요?"
+    },
+    {
+      "id": "v001",
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "안내",
+      "pos": "명사",
+      "example": "駅まで案内します。",
+      "exampleTranslation": "역까지 안내해 드리겠습니다."
+    },
+    {
+      "id": "v002",
+      "word": "以外",
+      "reading": "いがい",
+      "meaning": "이외",
+      "pos": "명사",
+      "example": "日本語以外の言語も話せます。",
+      "exampleTranslation": "일본어 이외의 언어도 할 수 있습니다."
+    },
+    {
+      "id": "v003",
+      "word": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "meaning": "열심히",
+      "pos": "な형용사",
+      "example": "一生懸命勉強しています。",
+      "exampleTranslation": "열심히 공부하고 있습니다."
+    },
+    {
+      "id": "v004",
+      "word": "受付",
+      "reading": "うけつけ",
+      "meaning": "접수",
+      "pos": "명사",
+      "example": "受付で名前を書いてください。",
+      "exampleTranslation": "접수처에서 이름을 적어 주세요."
+    },
+    {
+      "id": "v005",
+      "word": "運転",
+      "reading": "うんてん",
+      "meaning": "운전",
+      "pos": "명사",
+      "example": "父は運転が上手です。",
+      "exampleTranslation": "아버지는 운전을 잘합니다."
+    },
+    {
+      "id": "v006",
+      "word": "お土産",
+      "reading": "おみやげ",
+      "meaning": "기념품·선물",
+      "pos": "명사",
+      "example": "京都のお土産を買いました。",
+      "exampleTranslation": "교토 기념품을 샀습니다."
+    },
+    {
+      "id": "v007",
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "회의",
+      "pos": "명사",
+      "example": "明日会議があります。",
+      "exampleTranslation": "내일 회의가 있습니다."
+    },
+    {
+      "id": "v008",
+      "word": "環境",
+      "reading": "かんきょう",
+      "meaning": "환경",
+      "pos": "명사",
+      "example": "環境を守りましょう。",
+      "exampleTranslation": "환경을 지킵시다."
+    },
+    {
+      "id": "v009",
+      "word": "記念",
+      "reading": "きねん",
+      "meaning": "기념",
+      "pos": "명사",
+      "example": "卒業記念に写真を撮りました。",
+      "exampleTranslation": "졸업 기념으로 사진을 찍었습니다."
+    },
+    {
+      "id": "v010",
+      "word": "工事",
+      "reading": "こうじ",
+      "meaning": "공사",
+      "pos": "명사",
+      "example": "道路の工事をしている。",
+      "exampleTranslation": "도로 공사를 하고 있다."
+    },
+    {
+      "id": "v011",
+      "word": "故障",
+      "reading": "こしょう",
+      "meaning": "고장",
+      "pos": "명사",
+      "example": "エレベーターが故障した。",
+      "exampleTranslation": "엘리베이터가 고장 났다."
+    },
+    {
+      "id": "v012",
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "반지",
+      "pos": "명사",
+      "example": "きれいな指輪ですね。",
+      "exampleTranslation": "예쁜 반지네요."
+    },
+    {
+      "id": "v013",
+      "word": "財布",
+      "reading": "さいふ",
+      "meaning": "지갑",
+      "pos": "명사",
+      "example": "財布をなくしてしまった。",
+      "exampleTranslation": "지갑을 잃어버렸다."
+    },
+    {
+      "id": "v014",
+      "word": "渋滞",
+      "reading": "じゅうたい",
+      "meaning": "교통체증",
+      "pos": "명사",
+      "example": "道が渋滞しています。",
+      "exampleTranslation": "길이 막히고 있습니다."
+    },
+    {
+      "id": "v015",
+      "word": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "숙제",
+      "pos": "명사",
+      "example": "宿題はもう終わりました。",
+      "exampleTranslation": "숙제는 이미 끝났습니다."
+    },
+    {
+      "id": "v016",
+      "word": "嬉しい",
+      "reading": "うれしい",
+      "meaning": "기쁘다",
+      "pos": "い형용사",
+      "example": "会えて本当に嬉しいです。",
+      "exampleTranslation": "만나서 정말 기쁩니다."
+    },
+    {
+      "id": "v017",
+      "word": "悲しい",
+      "reading": "かなしい",
+      "meaning": "슬프다",
+      "pos": "い형용사",
+      "example": "映画を見て悲しくなった。",
+      "exampleTranslation": "영화를 보고 슬퍼졌다."
+    },
+    {
+      "id": "v018",
+      "word": "恥ずかしい",
+      "reading": "はずかしい",
+      "meaning": "부끄럽다",
+      "pos": "い형용사",
+      "example": "間違えて恥ずかしかった。",
+      "exampleTranslation": "틀려서 부끄러웠다."
+    },
+    {
+      "id": "v019",
+      "word": "安心",
+      "reading": "あんしん",
+      "meaning": "안심",
+      "pos": "な형용사",
+      "example": "無事と聞いて安心しました。",
+      "exampleTranslation": "무사하다는 말을 듣고 안심했습니다."
+    },
+    {
+      "id": "v020",
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "걱정",
+      "pos": "な형용사",
+      "example": "あまり心配しないでください。",
+      "exampleTranslation": "너무 걱정하지 마세요."
+    },
+    {
+      "id": "v021",
+      "word": "残念",
+      "reading": "ざんねん",
+      "meaning": "유감",
+      "pos": "な형용사",
+      "example": "来られなくて残念です。",
+      "exampleTranslation": "못 오셔서 유감입니다."
+    },
+    {
+      "id": "v022",
+      "word": "幸せ",
+      "reading": "しあわせ",
+      "meaning": "행복",
+      "pos": "な형용사",
+      "example": "今、とても幸せです。",
+      "exampleTranslation": "지금 매우 행복합니다."
+    },
+    {
+      "id": "v023",
+      "word": "楽しみ",
+      "reading": "たのしみ",
+      "meaning": "기대·즐거움",
+      "pos": "명사",
+      "example": "旅行が楽しみだ。",
+      "exampleTranslation": "여행이 기대된다."
+    },
+    {
+      "id": "v024",
+      "word": "驚く",
+      "reading": "おどろく",
+      "meaning": "놀라다",
+      "pos": "동사",
+      "example": "その話には驚いた。",
+      "exampleTranslation": "그 이야기에는 놀랐다."
+    },
+    {
+      "id": "v025",
+      "word": "怒る",
+      "reading": "おこる",
+      "meaning": "화내다",
+      "pos": "동사",
+      "example": "先生に怒られた。",
+      "exampleTranslation": "선생님께 혼났다."
+    },
+    {
+      "id": "v026",
+      "word": "集まる",
+      "reading": "あつまる",
+      "meaning": "모이다",
+      "pos": "동사",
+      "example": "駅前に集まってください。",
+      "exampleTranslation": "역 앞에 모여 주세요."
+    },
+    {
+      "id": "v027",
+      "word": "続ける",
+      "reading": "つづける",
+      "meaning": "계속하다",
+      "pos": "동사",
+      "example": "運動を続けています。",
+      "exampleTranslation": "운동을 계속하고 있습니다."
+    },
+    {
+      "id": "v028",
+      "word": "間違える",
+      "reading": "まちがえる",
+      "meaning": "틀리다·잘못하다",
+      "pos": "동사",
+      "example": "道を間違えた。",
+      "exampleTranslation": "길을 잘못 들었다."
+    },
+    {
+      "id": "v029",
+      "word": "伝える",
+      "reading": "つたえる",
+      "meaning": "전하다",
+      "pos": "동사",
+      "example": "よろしくお伝えください。",
+      "exampleTranslation": "안부 전해 주세요."
+    },
+    {
+      "id": "v030",
+      "word": "確かめる",
+      "reading": "たしかめる",
+      "meaning": "확인하다",
+      "pos": "동사",
+      "example": "予約を確かめた。",
+      "exampleTranslation": "예약을 확인했다."
+    },
+    {
+      "id": "v031",
+      "word": "探す",
+      "reading": "さがす",
+      "meaning": "찾다",
+      "pos": "동사",
+      "example": "アパートを探しています。",
+      "exampleTranslation": "아파트를 찾고 있습니다."
+    },
+    {
+      "id": "v032",
+      "word": "預ける",
+      "reading": "あずける",
+      "meaning": "맡기다",
+      "pos": "동사",
+      "example": "荷物を預けました。",
+      "exampleTranslation": "짐을 맡겼습니다."
+    },
+    {
+      "id": "v033",
+      "word": "届ける",
+      "reading": "とどける",
+      "meaning": "전달하다",
+      "pos": "동사",
+      "example": "花を届けてもらった。",
+      "exampleTranslation": "꽃을 배달받았다."
+    },
+    {
+      "id": "v034",
+      "word": "急ぐ",
+      "reading": "いそぐ",
+      "meaning": "서두르다",
+      "pos": "동사",
+      "example": "急がないと間に合わない。",
+      "exampleTranslation": "서두르지 않으면 늦는다."
+    },
+    {
+      "id": "v035",
+      "word": "払う",
+      "reading": "はらう",
+      "meaning": "지불하다",
+      "pos": "동사",
+      "example": "カードで払いました。",
+      "exampleTranslation": "카드로 결제했습니다."
+    },
+    {
+      "id": "v036",
+      "word": "貸す",
+      "reading": "かす",
+      "meaning": "빌려주다",
+      "pos": "동사",
+      "example": "ペンを貸してください。",
+      "exampleTranslation": "펜을 빌려주세요."
+    },
+    {
+      "id": "v037",
+      "word": "借りる",
+      "reading": "かりる",
+      "meaning": "빌리다",
+      "pos": "동사",
+      "example": "図書館で本を借りた。",
+      "exampleTranslation": "도서관에서 책을 빌렸다."
+    },
+    {
+      "id": "v038",
+      "word": "並ぶ",
+      "reading": "ならぶ",
+      "meaning": "줄을 서다",
+      "pos": "동사",
+      "example": "店の前に人が並んでいる。",
+      "exampleTranslation": "가게 앞에 사람이 줄을 서 있다."
+    },
+    {
+      "id": "v039",
+      "word": "片付ける",
+      "reading": "かたづける",
+      "meaning": "치우다·정리하다",
+      "pos": "동사",
+      "example": "部屋を片付けた。",
+      "exampleTranslation": "방을 치웠다."
+    },
+    {
+      "id": "v040",
+      "word": "気付く",
+      "reading": "きづく",
+      "meaning": "알아차리다",
+      "pos": "동사",
+      "example": "間違いに気付いた。",
+      "exampleTranslation": "실수를 알아차렸다."
+    },
+    {
+      "id": "v041",
+      "word": "涼しい",
+      "reading": "すずしい",
+      "meaning": "시원하다",
+      "pos": "い형용사",
+      "example": "秋は涼しくて気持ちいい。",
+      "exampleTranslation": "가을은 시원해서 기분이 좋다."
+    },
+    {
+      "id": "v042",
+      "word": "細かい",
+      "reading": "こまかい",
+      "meaning": "세세하다·꼼꼼하다",
+      "pos": "い형용사",
+      "example": "細かい説明はいらない。",
+      "exampleTranslation": "세세한 설명은 필요 없다."
+    },
+    {
+      "id": "v043",
+      "word": "厳しい",
+      "reading": "きびしい",
+      "meaning": "엄격하다",
+      "pos": "い형용사",
+      "example": "父は厳しい人だ。",
+      "exampleTranslation": "아버지는 엄격한 사람이다."
+    },
+    {
+      "id": "v044",
+      "word": "優しい",
+      "reading": "やさしい",
+      "meaning": "상냥하다",
+      "pos": "い형용사",
+      "example": "彼はとても優しい。",
+      "exampleTranslation": "그는 정말 상냥하다."
+    },
+    {
+      "id": "v045",
+      "word": "珍しい",
+      "reading": "めずらしい",
+      "meaning": "드물다",
+      "pos": "い형용사",
+      "example": "珍しい花を見つけた。",
+      "exampleTranslation": "드문 꽃을 발견했다."
+    },
+    {
+      "id": "v046",
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaning": "정중하다·꼼꼼하다",
+      "pos": "な형용사",
+      "example": "丁寧に説明してくれた。",
+      "exampleTranslation": "꼼꼼히 설명해 주었다."
+    },
+    {
+      "id": "v047",
+      "word": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "복잡하다",
+      "pos": "な형용사",
+      "example": "問題が複雑だ。",
+      "exampleTranslation": "문제가 복잡하다."
+    },
+    {
+      "id": "v048",
+      "word": "簡単",
+      "reading": "かんたん",
+      "meaning": "간단하다",
+      "pos": "な형용사",
+      "example": "使い方は簡単です。",
+      "exampleTranslation": "사용법은 간단합니다."
+    },
+    {
+      "id": "v049",
+      "word": "必要",
+      "reading": "ひつよう",
+      "meaning": "필요",
+      "pos": "な형용사",
+      "example": "パスポートが必要です。",
+      "exampleTranslation": "여권이 필요합니다."
+    },
+    {
+      "id": "v050",
+      "word": "確か",
+      "reading": "たしか",
+      "meaning": "확실하다·아마",
+      "pos": "な형용사",
+      "example": "確か3時だったと思う。",
+      "exampleTranslation": "아마 3시였던 것 같다."
+    },
+    {
+      "id": "v051",
+      "word": "必ず",
+      "reading": "かならず",
+      "meaning": "반드시",
+      "pos": "부사",
+      "example": "必ず連絡します。",
+      "exampleTranslation": "반드시 연락하겠습니다."
+    },
+    {
+      "id": "v052",
+      "word": "絶対",
+      "reading": "ぜったい",
+      "meaning": "절대",
+      "pos": "부사",
+      "example": "絶対に遅れない。",
+      "exampleTranslation": "절대로 늦지 않는다."
+    },
+    {
+      "id": "v053",
+      "word": "特に",
+      "reading": "とくに",
+      "meaning": "특히",
+      "pos": "부사",
+      "example": "特に問題はありません。",
+      "exampleTranslation": "특별히 문제는 없습니다."
+    },
+    {
+      "id": "v054",
+      "word": "そろそろ",
+      "reading": "そろそろ",
+      "meaning": "슬슬",
+      "pos": "부사",
+      "example": "そろそろ帰ります。",
+      "exampleTranslation": "슬슬 돌아가겠습니다."
+    },
+    {
+      "id": "v055",
+      "word": "すっかり",
+      "reading": "すっかり",
+      "meaning": "완전히",
+      "pos": "부사",
+      "example": "すっかり忘れていた。",
+      "exampleTranslation": "완전히 잊고 있었다."
+    },
+    {
+      "id": "v056",
+      "word": "それで",
+      "reading": "それで",
+      "meaning": "그래서",
+      "pos": "접속사",
+      "example": "それでどうしたの?",
+      "exampleTranslation": "그래서 어떻게 됐어?"
+    },
+    {
+      "id": "v057",
+      "word": "しかし",
+      "reading": "しかし",
+      "meaning": "그러나",
+      "pos": "접속사",
+      "example": "しかし、問題が残った。",
+      "exampleTranslation": "그러나 문제가 남았다."
+    },
+    {
+      "id": "v058",
+      "word": "それに",
+      "reading": "それに",
+      "meaning": "게다가",
+      "pos": "접속사",
+      "example": "安くて、それに美味しい。",
+      "exampleTranslation": "싸고, 게다가 맛있다."
+    },
+    {
+      "id": "v059",
+      "word": "つまり",
+      "reading": "つまり",
+      "meaning": "즉",
+      "pos": "접속사",
+      "example": "つまり、結論はこうだ。",
+      "exampleTranslation": "즉, 결론은 이렇다."
+    },
+    {
+      "id": "v060",
+      "word": "または",
+      "reading": "または",
+      "meaning": "또는",
+      "pos": "접속사",
+      "example": "電車またはバスで来てください。",
+      "exampleTranslation": "전철 또는 버스로 와 주세요."
+    },
+    {
+      "id": "v061",
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "출장",
+      "pos": "명사",
+      "example": "来週、大阪へ出張に行く。",
+      "exampleTranslation": "다음 주에 오사카로 출장 간다."
+    },
+    {
+      "id": "v062",
+      "word": "会議室",
+      "reading": "かいぎしつ",
+      "meaning": "회의실",
+      "pos": "명사",
+      "example": "会議室は2階です。",
+      "exampleTranslation": "회의실은 2층입니다."
+    },
+    {
+      "id": "v063",
+      "word": "上司",
+      "reading": "じょうし",
+      "meaning": "상사",
+      "pos": "명사",
+      "example": "上司に相談した。",
+      "exampleTranslation": "상사에게 상담했다."
+    },
+    {
+      "id": "v064",
+      "word": "部下",
+      "reading": "ぶか",
+      "meaning": "부하",
+      "pos": "명사",
+      "example": "新しい部下が入った。",
+      "exampleTranslation": "새로운 부하가 들어왔다."
+    },
+    {
+      "id": "v065",
+      "word": "残業",
+      "reading": "ざんぎょう",
+      "meaning": "잔업·야근",
+      "pos": "명사",
+      "example": "今日は残業がある。",
+      "exampleTranslation": "오늘은 야근이 있다."
+    },
+    {
+      "id": "v066",
+      "word": "締め切り",
+      "reading": "しめきり",
+      "meaning": "마감",
+      "pos": "명사",
+      "example": "レポートの締め切りは明日です。",
+      "exampleTranslation": "리포트 마감은 내일입니다."
+    },
+    {
+      "id": "v067",
+      "word": "発表",
+      "reading": "はっぴょう",
+      "meaning": "발표",
+      "pos": "명사",
+      "example": "明日、発表があります。",
+      "exampleTranslation": "내일 발표가 있습니다."
+    },
+    {
+      "id": "v068",
+      "word": "成績",
+      "reading": "せいせき",
+      "meaning": "성적",
+      "pos": "명사",
+      "example": "成績が上がった。",
+      "exampleTranslation": "성적이 올랐다."
+    },
+    {
+      "id": "v069",
+      "word": "試験",
+      "reading": "しけん",
+      "meaning": "시험",
+      "pos": "명사",
+      "example": "来月、JLPTの試験がある。",
+      "exampleTranslation": "다음 달에 JLPT 시험이 있다."
+    },
+    {
+      "id": "v070",
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaning": "합격",
+      "pos": "명사",
+      "example": "絶対に合格したい。",
+      "exampleTranslation": "꼭 합격하고 싶다."
+    },
+    {
+      "id": "v071",
+      "word": "季節",
+      "reading": "きせつ",
+      "meaning": "계절",
+      "pos": "명사",
+      "example": "日本には四つの季節がある。",
+      "exampleTranslation": "일본에는 네 계절이 있다."
+    },
+    {
+      "id": "v072",
+      "word": "梅雨",
+      "reading": "つゆ",
+      "meaning": "장마",
+      "pos": "명사",
+      "example": "6月は梅雨の季節だ。",
+      "exampleTranslation": "6월은 장마철이다."
+    },
+    {
+      "id": "v073",
+      "word": "台風",
+      "reading": "たいふう",
+      "meaning": "태풍",
+      "pos": "명사",
+      "example": "台風が近づいている。",
+      "exampleTranslation": "태풍이 다가오고 있다."
+    },
+    {
+      "id": "v074",
+      "word": "地震",
+      "reading": "じしん",
+      "meaning": "지진",
+      "pos": "명사",
+      "example": "昨日、小さな地震があった。",
+      "exampleTranslation": "어제 작은 지진이 있었다."
+    },
+    {
+      "id": "v075",
+      "word": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "저녁때",
+      "pos": "명사",
+      "example": "夕方に会いましょう。",
+      "exampleTranslation": "저녁때 만납시다."
+    },
+    {
+      "id": "v076",
+      "word": "以前",
+      "reading": "いぜん",
+      "meaning": "이전",
+      "pos": "명사",
+      "example": "以前ここに住んでいた。",
+      "exampleTranslation": "이전에 여기 살았었다."
+    },
+    {
+      "id": "v077",
+      "word": "今後",
+      "reading": "こんご",
+      "meaning": "앞으로",
+      "pos": "명사",
+      "example": "今後ともよろしく。",
+      "exampleTranslation": "앞으로도 잘 부탁드립니다."
+    },
+    {
+      "id": "v078",
+      "word": "翌日",
+      "reading": "よくじつ",
+      "meaning": "다음날",
+      "pos": "명사",
+      "example": "翌日また来ます。",
+      "exampleTranslation": "다음날 다시 오겠습니다."
+    },
+    {
+      "id": "v079",
+      "word": "瞬間",
+      "reading": "しゅんかん",
+      "meaning": "순간",
+      "pos": "명사",
+      "example": "その瞬間を忘れない。",
+      "exampleTranslation": "그 순간을 잊지 않는다."
+    },
+    {
+      "id": "v080",
+      "word": "期間",
+      "reading": "きかん",
+      "meaning": "기간",
+      "pos": "명사",
+      "example": "留学の期間は一年です。",
+      "exampleTranslation": "유학 기간은 1년입니다."
+    },
+    {
+      "id": "v201",
+      "word": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "주소",
+      "pos": "명사",
+      "example": "住所を書いてください。",
+      "exampleTranslation": "주소를 적어 주세요."
+    },
+    {
+      "id": "v202",
+      "word": "近所",
+      "reading": "きんじょ",
+      "meaning": "근처·이웃",
+      "pos": "명사",
+      "example": "近所のスーパーへ行く。",
+      "exampleTranslation": "근처 슈퍼에 간다."
+    },
+    {
+      "id": "v203",
+      "word": "屋上",
+      "reading": "おくじょう",
+      "meaning": "옥상",
+      "pos": "명사",
+      "example": "屋上で景色を楽しむ。",
+      "exampleTranslation": "옥상에서 경치를 즐긴다."
+    },
+    {
+      "id": "v204",
+      "word": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "우체국",
+      "pos": "명사",
+      "example": "郵便局で切手を買う。",
+      "exampleTranslation": "우체국에서 우표를 산다."
+    },
+    {
+      "id": "v205",
+      "word": "引っ越し",
+      "reading": "ひっこし",
+      "meaning": "이사",
+      "pos": "명사",
+      "example": "来月、引っ越しをします。",
+      "exampleTranslation": "다음 달에 이사를 합니다."
+    },
+    {
+      "id": "v210",
+      "word": "恋しい",
+      "reading": "こいしい",
+      "meaning": "그립다",
+      "pos": "い형용사",
+      "example": "故郷が恋しい。",
+      "exampleTranslation": "고향이 그립다."
+    },
+    {
+      "id": "v211",
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaning": "그리워하다·정겹다",
+      "pos": "い형용사",
+      "example": "懐かしい歌だね。",
+      "exampleTranslation": "그리운 노래네."
+    },
+    {
+      "id": "v212",
+      "word": "羨ましい",
+      "reading": "うらやましい",
+      "meaning": "부럽다",
+      "pos": "い형용사",
+      "example": "成功した彼が羨ましい。",
+      "exampleTranslation": "성공한 그가 부럽다."
+    },
+    {
+      "id": "v213",
+      "word": "後悔",
+      "reading": "こうかい",
+      "meaning": "후회",
+      "pos": "명사",
+      "example": "後悔しないように。",
+      "exampleTranslation": "후회하지 않도록."
+    },
+    {
+      "id": "v214",
+      "word": "夢中",
+      "reading": "むちゅう",
+      "meaning": "열중",
+      "pos": "な형용사",
+      "example": "ゲームに夢中だ。",
+      "exampleTranslation": "게임에 열중하고 있다."
+    },
+    {
+      "id": "v220",
+      "word": "覚える",
+      "reading": "おぼえる",
+      "meaning": "외우다·기억하다",
+      "pos": "동사",
+      "example": "新しい単語を覚える。",
+      "exampleTranslation": "새 단어를 외운다."
+    },
+    {
+      "id": "v221",
+      "word": "忘れる",
+      "reading": "わすれる",
+      "meaning": "잊다",
+      "pos": "동사",
+      "example": "鍵を忘れた。",
+      "exampleTranslation": "열쇠를 잊고 왔다."
+    },
+    {
+      "id": "v222",
+      "word": "思い出す",
+      "reading": "おもいだす",
+      "meaning": "떠올리다",
+      "pos": "동사",
+      "example": "昔のことを思い出す。",
+      "exampleTranslation": "옛일을 떠올린다."
+    },
+    {
+      "id": "v223",
+      "word": "考える",
+      "reading": "かんがえる",
+      "meaning": "생각하다",
+      "pos": "동사",
+      "example": "よく考えてから決める。",
+      "exampleTranslation": "잘 생각한 후에 결정한다."
+    },
+    {
+      "id": "v224",
+      "word": "調べる",
+      "reading": "しらべる",
+      "meaning": "조사하다",
+      "pos": "동사",
+      "example": "言葉の意味を調べる。",
+      "exampleTranslation": "단어의 뜻을 조사한다."
+    },
+    {
+      "id": "v225",
+      "word": "申し込む",
+      "reading": "もうしこむ",
+      "meaning": "신청하다",
+      "pos": "동사",
+      "example": "試験を申し込んだ。",
+      "exampleTranslation": "시험을 신청했다."
+    },
+    {
+      "id": "v226",
+      "word": "決める",
+      "reading": "きめる",
+      "meaning": "결정하다",
+      "pos": "동사",
+      "example": "行く日を決めよう。",
+      "exampleTranslation": "갈 날을 정하자."
+    },
+    {
+      "id": "v227",
+      "word": "選ぶ",
+      "reading": "えらぶ",
+      "meaning": "고르다",
+      "pos": "동사",
+      "example": "好きな色を選ぶ。",
+      "exampleTranslation": "좋아하는 색을 고른다."
+    },
+    {
+      "id": "v228",
+      "word": "渡す",
+      "reading": "わたす",
+      "meaning": "건네다",
+      "pos": "동사",
+      "example": "プレゼントを渡した。",
+      "exampleTranslation": "선물을 건넸다."
+    },
+    {
+      "id": "v229",
+      "word": "招く",
+      "reading": "まねく",
+      "meaning": "초대하다",
+      "pos": "동사",
+      "example": "友達を家に招いた。",
+      "exampleTranslation": "친구를 집에 초대했다."
+    },
+    {
+      "id": "v240",
+      "word": "美しい",
+      "reading": "うつくしい",
+      "meaning": "아름답다",
+      "pos": "い형용사",
+      "example": "美しい風景です。",
+      "exampleTranslation": "아름다운 풍경입니다."
+    },
+    {
+      "id": "v241",
+      "word": "汚い",
+      "reading": "きたない",
+      "meaning": "더럽다",
+      "pos": "い형용사",
+      "example": "部屋が汚い。",
+      "exampleTranslation": "방이 더럽다."
+    },
+    {
+      "id": "v242",
+      "word": "激しい",
+      "reading": "はげしい",
+      "meaning": "격렬하다",
+      "pos": "い형용사",
+      "example": "激しい運動はしない。",
+      "exampleTranslation": "격렬한 운동은 안 한다."
+    },
+    {
+      "id": "v243",
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaning": "그립다",
+      "pos": "い형용사",
+      "example": "懐かしい味だ。",
+      "exampleTranslation": "그리운 맛이다."
+    },
+    {
+      "id": "v244",
+      "word": "贅沢",
+      "reading": "ぜいたく",
+      "meaning": "사치",
+      "pos": "な형용사",
+      "example": "贅沢な生活。",
+      "exampleTranslation": "사치스러운 생활."
+    },
+    {
+      "id": "v245",
+      "word": "地味",
+      "reading": "じみ",
+      "meaning": "수수하다",
+      "pos": "な형용사",
+      "example": "地味な服を着る。",
+      "exampleTranslation": "수수한 옷을 입는다."
+    },
+    {
+      "id": "v246",
+      "word": "派手",
+      "reading": "はで",
+      "meaning": "화려하다",
+      "pos": "な형용사",
+      "example": "派手な色は苦手だ。",
+      "exampleTranslation": "화려한 색은 잘 안 맞는다."
+    },
+    {
+      "id": "v247",
+      "word": "得意",
+      "reading": "とくい",
+      "meaning": "잘하다·자신있다",
+      "pos": "な형용사",
+      "example": "料理が得意です。",
+      "exampleTranslation": "요리를 잘합니다."
+    },
+    {
+      "id": "v250",
+      "word": "もちろん",
+      "reading": "もちろん",
+      "meaning": "물론",
+      "pos": "부사",
+      "example": "もちろん行きます。",
+      "exampleTranslation": "물론 갑니다."
+    },
+    {
+      "id": "v251",
+      "word": "なかなか",
+      "reading": "なかなか",
+      "meaning": "좀처럼·꽤",
+      "pos": "부사",
+      "example": "なかなか会えない。",
+      "exampleTranslation": "좀처럼 만나기 어렵다."
+    },
+    {
+      "id": "v252",
+      "word": "わざわざ",
+      "reading": "わざわざ",
+      "meaning": "일부러",
+      "pos": "부사",
+      "example": "わざわざ来てくれた。",
+      "exampleTranslation": "일부러 와 줬다."
+    },
+    {
+      "id": "v253",
+      "word": "はっきり",
+      "reading": "はっきり",
+      "meaning": "분명히",
+      "pos": "부사",
+      "example": "はっきり言ってください。",
+      "exampleTranslation": "분명히 말해 주세요."
+    },
+    {
+      "id": "v254",
+      "word": "だんだん",
+      "reading": "だんだん",
+      "meaning": "점점",
+      "pos": "부사",
+      "example": "だんだん寒くなる。",
+      "exampleTranslation": "점점 추워진다."
+    },
+    {
+      "id": "v260",
+      "word": "履歴書",
+      "reading": "りれきしょ",
+      "meaning": "이력서",
+      "pos": "명사",
+      "example": "履歴書を送る。",
+      "exampleTranslation": "이력서를 보낸다."
+    },
+    {
+      "id": "v261",
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaning": "면접",
+      "pos": "명사",
+      "example": "明日、面接です。",
+      "exampleTranslation": "내일 면접입니다."
+    },
+    {
+      "id": "v262",
+      "word": "昇進",
+      "reading": "しょうしん",
+      "meaning": "승진",
+      "pos": "명사",
+      "example": "昇進が決まった。",
+      "exampleTranslation": "승진이 결정됐다."
+    },
+    {
+      "id": "v263",
+      "word": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "월급",
+      "pos": "명사",
+      "example": "給料が上がった。",
+      "exampleTranslation": "월급이 올랐다."
+    },
+    {
+      "id": "v264",
+      "word": "先輩",
+      "reading": "せんぱい",
+      "meaning": "선배",
+      "pos": "명사",
+      "example": "会社の先輩に教わる。",
+      "exampleTranslation": "회사 선배에게 배운다."
+    },
+    {
+      "id": "v270",
+      "word": "朝",
+      "reading": "あさ",
+      "meaning": "아침",
+      "pos": "명사",
+      "example": "朝早く起きる。",
+      "exampleTranslation": "아침 일찍 일어난다."
+    },
+    {
+      "id": "v271",
+      "word": "昼",
+      "reading": "ひる",
+      "meaning": "낮",
+      "pos": "명사",
+      "example": "昼ご飯を食べる。",
+      "exampleTranslation": "점심을 먹는다."
+    },
+    {
+      "id": "v272",
+      "word": "夜",
+      "reading": "よる",
+      "meaning": "밤",
+      "pos": "명사",
+      "example": "夜は静かだ。",
+      "exampleTranslation": "밤은 조용하다."
+    },
+    {
+      "id": "v273",
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "주말",
+      "pos": "명사",
+      "example": "週末は休みです。",
+      "exampleTranslation": "주말은 쉽니다."
+    },
+    {
+      "id": "v274",
+      "word": "普段",
+      "reading": "ふだん",
+      "meaning": "평소",
+      "pos": "명사",
+      "example": "普段は家にいます。",
+      "exampleTranslation": "평소에는 집에 있어요."
+    },
+    {
+      "id": "v280",
+      "word": "頭",
+      "reading": "あたま",
+      "meaning": "머리",
+      "pos": "명사",
+      "example": "頭が痛い。",
+      "exampleTranslation": "머리가 아프다."
+    },
+    {
+      "id": "v281",
+      "word": "顔",
+      "reading": "かお",
+      "meaning": "얼굴",
+      "pos": "명사",
+      "example": "顔を洗う。",
+      "exampleTranslation": "얼굴을 씻는다."
+    },
+    {
+      "id": "v282",
+      "word": "目",
+      "reading": "め",
+      "meaning": "눈",
+      "pos": "명사",
+      "example": "目が大きい。",
+      "exampleTranslation": "눈이 크다."
+    },
+    {
+      "id": "v283",
+      "word": "耳",
+      "reading": "みみ",
+      "meaning": "귀",
+      "pos": "명사",
+      "example": "耳が遠い。",
+      "exampleTranslation": "귀가 잘 안 들린다."
+    },
+    {
+      "id": "v284",
+      "word": "口",
+      "reading": "くち",
+      "meaning": "입",
+      "pos": "명사",
+      "example": "口を開ける。",
+      "exampleTranslation": "입을 연다."
+    },
+    {
+      "id": "v285",
+      "word": "手",
+      "reading": "て",
+      "meaning": "손",
+      "pos": "명사",
+      "example": "手を洗ってください。",
+      "exampleTranslation": "손을 씻어 주세요."
+    },
+    {
+      "id": "v286",
+      "word": "足",
+      "reading": "あし",
+      "meaning": "발·다리",
+      "pos": "명사",
+      "example": "足が痛い。",
+      "exampleTranslation": "다리가 아프다."
+    },
+    {
+      "id": "v287",
+      "word": "心",
+      "reading": "こころ",
+      "meaning": "마음",
+      "pos": "명사",
+      "example": "心が温かい。",
+      "exampleTranslation": "마음이 따뜻하다."
+    },
+    {
+      "id": "v288",
+      "word": "風邪",
+      "reading": "かぜ",
+      "meaning": "감기",
+      "pos": "명사",
+      "example": "風邪をひいた。",
+      "exampleTranslation": "감기에 걸렸다."
+    },
+    {
+      "id": "v289",
+      "word": "熱",
+      "reading": "ねつ",
+      "meaning": "열",
+      "pos": "명사",
+      "example": "熱があります。",
+      "exampleTranslation": "열이 있어요."
+    },
+    {
+      "id": "v290",
+      "word": "病院",
+      "reading": "びょういん",
+      "meaning": "병원",
+      "pos": "명사",
+      "example": "病院へ行く。",
+      "exampleTranslation": "병원에 간다."
+    },
+    {
+      "id": "v291",
+      "word": "薬",
+      "reading": "くすり",
+      "meaning": "약",
+      "pos": "명사",
+      "example": "薬を飲む。",
+      "exampleTranslation": "약을 먹는다."
+    },
+    {
+      "id": "v300",
+      "word": "朝食",
+      "reading": "ちょうしょく",
+      "meaning": "아침식사",
+      "pos": "명사",
+      "example": "朝食はパンです。",
+      "exampleTranslation": "아침은 빵입니다."
+    },
+    {
+      "id": "v301",
+      "word": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning": "점심식사",
+      "pos": "명사",
+      "example": "昼食を一緒に。",
+      "exampleTranslation": "점심을 같이."
+    },
+    {
+      "id": "v302",
+      "word": "夕食",
+      "reading": "ゆうしょく",
+      "meaning": "저녁식사",
+      "pos": "명사",
+      "example": "夕食の準備をする。",
+      "exampleTranslation": "저녁 준비를 한다."
+    },
+    {
+      "id": "v303",
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "주문",
+      "pos": "명사",
+      "example": "注文をお願いします。",
+      "exampleTranslation": "주문 부탁합니다."
+    },
+    {
+      "id": "v304",
+      "word": "予約",
+      "reading": "よやく",
+      "meaning": "예약",
+      "pos": "명사",
+      "example": "レストランを予約した。",
+      "exampleTranslation": "식당을 예약했다."
+    },
+    {
+      "id": "v305",
+      "word": "味",
+      "reading": "あじ",
+      "meaning": "맛",
+      "pos": "명사",
+      "example": "味が薄い。",
+      "exampleTranslation": "맛이 싱겁다."
+    },
+    {
+      "id": "v306",
+      "word": "辛い",
+      "reading": "からい",
+      "meaning": "맵다",
+      "pos": "い형용사",
+      "example": "辛い料理が好き。",
+      "exampleTranslation": "매운 요리를 좋아한다."
+    },
+    {
+      "id": "v307",
+      "word": "甘い",
+      "reading": "あまい",
+      "meaning": "달다",
+      "pos": "い형용사",
+      "example": "このケーキは甘い。",
+      "exampleTranslation": "이 케이크는 달다."
+    },
+    {
+      "id": "v308",
+      "word": "塩辛い",
+      "reading": "しおからい",
+      "meaning": "짜다",
+      "pos": "い형용사",
+      "example": "塩辛すぎる。",
+      "exampleTranslation": "너무 짜다."
+    },
+    {
+      "id": "v309",
+      "word": "おいしい",
+      "reading": "おいしい",
+      "meaning": "맛있다",
+      "pos": "い형용사",
+      "example": "このラーメンはおいしい。",
+      "exampleTranslation": "이 라멘은 맛있다."
+    },
+    {
+      "id": "v310",
+      "word": "まずい",
+      "reading": "まずい",
+      "meaning": "맛없다",
+      "pos": "い형용사",
+      "example": "ちょっとまずい。",
+      "exampleTranslation": "좀 맛없다."
+    },
+    {
+      "id": "v311",
+      "word": "野菜",
+      "reading": "やさい",
+      "meaning": "채소",
+      "pos": "명사",
+      "example": "野菜をたくさん食べる。",
+      "exampleTranslation": "채소를 많이 먹는다."
+    },
+    {
+      "id": "v320",
+      "word": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "비행기",
+      "pos": "명사",
+      "example": "飛行機で行きます。",
+      "exampleTranslation": "비행기로 갑니다."
+    },
+    {
+      "id": "v321",
+      "word": "新幹線",
+      "reading": "しんかんせん",
+      "meaning": "신칸센",
+      "pos": "명사",
+      "example": "新幹線が速い。",
+      "exampleTranslation": "신칸센은 빠르다."
+    },
+    {
+      "id": "v322",
+      "word": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "지하철",
+      "pos": "명사",
+      "example": "地下鉄で通勤する。",
+      "exampleTranslation": "지하철로 출근한다."
+    },
+    {
+      "id": "v323",
+      "word": "切符",
+      "reading": "きっぷ",
+      "meaning": "표",
+      "pos": "명사",
+      "example": "切符を買う。",
+      "exampleTranslation": "표를 산다."
+    },
+    {
+      "id": "v324",
+      "word": "乗り換え",
+      "reading": "のりかえ",
+      "meaning": "환승",
+      "pos": "명사",
+      "example": "次の駅で乗り換えです。",
+      "exampleTranslation": "다음 역에서 환승입니다."
+    },
+    {
+      "id": "v325",
+      "word": "ホテル",
+      "reading": "ホテル",
+      "meaning": "호텔",
+      "pos": "명사",
+      "example": "ホテルを予約した。",
+      "exampleTranslation": "호텔을 예약했다."
+    },
+    {
+      "id": "v326",
+      "word": "観光",
+      "reading": "かんこう",
+      "meaning": "관광",
+      "pos": "명사",
+      "example": "京都を観光する。",
+      "exampleTranslation": "교토를 관광한다."
+    },
+    {
+      "id": "v327",
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "지도",
+      "pos": "명사",
+      "example": "地図を見る。",
+      "exampleTranslation": "지도를 본다."
+    },
+    {
+      "id": "v328",
+      "word": "道",
+      "reading": "みち",
+      "meaning": "길",
+      "pos": "명사",
+      "example": "道に迷った。",
+      "exampleTranslation": "길을 잃었다."
+    },
+    {
+      "id": "v329",
+      "word": "空港",
+      "reading": "くうこう",
+      "meaning": "공항",
+      "pos": "명사",
+      "example": "空港まで迎えに行く。",
+      "exampleTranslation": "공항까지 마중 간다."
+    },
+    {
+      "id": "v340",
+      "word": "値段",
+      "reading": "ねだん",
+      "meaning": "가격",
+      "pos": "명사",
+      "example": "値段が高い。",
+      "exampleTranslation": "가격이 비싸다."
+    },
+    {
+      "id": "v341",
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "싸다",
+      "pos": "い형용사",
+      "example": "このシャツは安い。",
+      "exampleTranslation": "이 셔츠는 싸다."
+    },
+    {
+      "id": "v342",
+      "word": "高い",
+      "reading": "たかい",
+      "meaning": "비싸다·높다",
+      "pos": "い형용사",
+      "example": "高くて買えない。",
+      "exampleTranslation": "비싸서 못 산다."
+    },
+    {
+      "id": "v343",
+      "word": "割引",
+      "reading": "わりびき",
+      "meaning": "할인",
+      "pos": "명사",
+      "example": "20%割引中。",
+      "exampleTranslation": "20% 할인 중."
+    },
+    {
+      "id": "v344",
+      "word": "レジ",
+      "reading": "レジ",
+      "meaning": "계산대",
+      "pos": "명사",
+      "example": "レジで払う。",
+      "exampleTranslation": "계산대에서 낸다."
+    },
+    {
+      "id": "v345",
+      "word": "袋",
+      "reading": "ふくろ",
+      "meaning": "봉투",
+      "pos": "명사",
+      "example": "袋はいりません。",
+      "exampleTranslation": "봉투는 필요 없어요."
+    },
+    {
+      "id": "v346",
+      "word": "領収書",
+      "reading": "りょうしゅうしょ",
+      "meaning": "영수증",
+      "pos": "명사",
+      "example": "領収書をください。",
+      "exampleTranslation": "영수증 주세요."
+    },
+    {
+      "id": "v347",
+      "word": "現金",
+      "reading": "げんきん",
+      "meaning": "현금",
+      "pos": "명사",
+      "example": "現金で払う。",
+      "exampleTranslation": "현금으로 낸다."
+    },
+    {
+      "id": "v348",
+      "word": "両替",
+      "reading": "りょうがえ",
+      "meaning": "환전",
+      "pos": "명사",
+      "example": "銀行で両替する。",
+      "exampleTranslation": "은행에서 환전한다."
+    },
+    {
+      "id": "v349",
+      "word": "無料",
+      "reading": "むりょう",
+      "meaning": "무료",
+      "pos": "명사",
+      "example": "入場は無料です。",
+      "exampleTranslation": "입장은 무료입니다."
+    },
+    {
+      "id": "v400",
+      "word": "両親",
+      "reading": "りょうしん",
+      "meaning": "부모",
+      "pos": "명사",
+      "example": "両親に感謝している。",
+      "exampleTranslation": "부모님께 감사하고 있다."
+    },
+    {
+      "id": "v401",
+      "word": "祖父",
+      "reading": "そふ",
+      "meaning": "할아버지",
+      "pos": "명사",
+      "example": "祖父は元気です。",
+      "exampleTranslation": "할아버지는 건강하십니다."
+    },
+    {
+      "id": "v402",
+      "word": "祖母",
+      "reading": "そぼ",
+      "meaning": "할머니",
+      "pos": "명사",
+      "example": "祖母の料理が好きだ。",
+      "exampleTranslation": "할머니 요리를 좋아한다."
+    },
+    {
+      "id": "v403",
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "형제",
+      "pos": "명사",
+      "example": "兄弟は三人います。",
+      "exampleTranslation": "형제가 셋 있습니다."
+    },
+    {
+      "id": "v404",
+      "word": "夫婦",
+      "reading": "ふうふ",
+      "meaning": "부부",
+      "pos": "명사",
+      "example": "幸せな夫婦だ。",
+      "exampleTranslation": "행복한 부부다."
+    },
+    {
+      "id": "v405",
+      "word": "親戚",
+      "reading": "しんせき",
+      "meaning": "친척",
+      "pos": "명사",
+      "example": "親戚が集まる。",
+      "exampleTranslation": "친척이 모인다."
+    },
+    {
+      "id": "v406",
+      "word": "知り合い",
+      "reading": "しりあい",
+      "meaning": "아는 사람",
+      "pos": "명사",
+      "example": "会社の知り合いです。",
+      "exampleTranslation": "회사 지인입니다."
+    },
+    {
+      "id": "v407",
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "친구",
+      "pos": "명사",
+      "example": "いい友達ができた。",
+      "exampleTranslation": "좋은 친구가 생겼다."
+    },
+    {
+      "id": "v408",
+      "word": "恋人",
+      "reading": "こいびと",
+      "meaning": "애인",
+      "pos": "명사",
+      "example": "恋人ができた。",
+      "exampleTranslation": "애인이 생겼다."
+    },
+    {
+      "id": "v409",
+      "word": "近所の人",
+      "reading": "きんじょのひと",
+      "meaning": "이웃",
+      "pos": "명사",
+      "example": "近所の人と挨拶する。",
+      "exampleTranslation": "이웃과 인사한다."
+    },
+    {
+      "id": "v410",
+      "word": "同僚",
+      "reading": "どうりょう",
+      "meaning": "동료",
+      "pos": "명사",
+      "example": "同僚と食事に行く。",
+      "exampleTranslation": "동료와 식사하러 간다."
+    },
+    {
+      "id": "v411",
+      "word": "客様",
+      "reading": "きゃくさま",
+      "meaning": "손님",
+      "pos": "명사",
+      "example": "お客様、こちらへどうぞ。",
+      "exampleTranslation": "손님, 이쪽으로 오세요."
+    },
+    {
+      "id": "v420",
+      "word": "赤色",
+      "reading": "あかいろ",
+      "meaning": "빨간색",
+      "pos": "명사",
+      "example": "赤色のリンゴ。",
+      "exampleTranslation": "빨간색 사과."
+    },
+    {
+      "id": "v421",
+      "word": "青色",
+      "reading": "あおいろ",
+      "meaning": "파란색",
+      "pos": "명사",
+      "example": "空は青色だ。",
+      "exampleTranslation": "하늘은 파란색이다."
+    },
+    {
+      "id": "v422",
+      "word": "黄色",
+      "reading": "きいろ",
+      "meaning": "노란색",
+      "pos": "명사",
+      "example": "黄色いバナナ。",
+      "exampleTranslation": "노란 바나나."
+    },
+    {
+      "id": "v423",
+      "word": "緑",
+      "reading": "みどり",
+      "meaning": "녹색",
+      "pos": "명사",
+      "example": "緑の森。",
+      "exampleTranslation": "녹색 숲."
+    },
+    {
+      "id": "v424",
+      "word": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "갈색",
+      "pos": "명사",
+      "example": "茶色のかばん。",
+      "exampleTranslation": "갈색 가방."
+    },
+    {
+      "id": "v425",
+      "word": "灰色",
+      "reading": "はいいろ",
+      "meaning": "회색",
+      "pos": "명사",
+      "example": "灰色の空。",
+      "exampleTranslation": "회색 하늘."
+    },
+    {
+      "id": "v426",
+      "word": "丸",
+      "reading": "まる",
+      "meaning": "동그라미",
+      "pos": "명사",
+      "example": "丸を描く。",
+      "exampleTranslation": "동그라미를 그린다."
+    },
+    {
+      "id": "v427",
+      "word": "四角",
+      "reading": "しかく",
+      "meaning": "사각형",
+      "pos": "명사",
+      "example": "四角い箱。",
+      "exampleTranslation": "네모난 상자."
+    },
+    {
+      "id": "v428",
+      "word": "三角",
+      "reading": "さんかく",
+      "meaning": "삼각형",
+      "pos": "명사",
+      "example": "三角の屋根。",
+      "exampleTranslation": "삼각 지붕."
+    },
+    {
+      "id": "v429",
+      "word": "星",
+      "reading": "ほし",
+      "meaning": "별",
+      "pos": "명사",
+      "example": "星がきれい。",
+      "exampleTranslation": "별이 예쁘다."
+    },
+    {
+      "id": "v430",
+      "word": "明るい",
+      "reading": "あかるい",
+      "meaning": "밝다",
+      "pos": "い형용사",
+      "example": "明るい部屋。",
+      "exampleTranslation": "밝은 방."
+    },
+    {
+      "id": "v431",
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "어둡다",
+      "pos": "い형용사",
+      "example": "夜は暗い。",
+      "exampleTranslation": "밤은 어둡다."
+    },
+    {
+      "id": "v440",
+      "word": "犬",
+      "reading": "いぬ",
+      "meaning": "개",
+      "pos": "명사",
+      "example": "犬を飼っている。",
+      "exampleTranslation": "개를 기르고 있다."
+    },
+    {
+      "id": "v441",
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "고양이",
+      "pos": "명사",
+      "example": "猫がかわいい。",
+      "exampleTranslation": "고양이가 귀엽다."
+    },
+    {
+      "id": "v442",
+      "word": "鳥",
+      "reading": "とり",
+      "meaning": "새",
+      "pos": "명사",
+      "example": "鳥が飛んでいる。",
+      "exampleTranslation": "새가 날고 있다."
+    },
+    {
+      "id": "v443",
+      "word": "魚",
+      "reading": "さかな",
+      "meaning": "물고기",
+      "pos": "명사",
+      "example": "魚を釣る。",
+      "exampleTranslation": "물고기를 낚다."
+    },
+    {
+      "id": "v444",
+      "word": "虫",
+      "reading": "むし",
+      "meaning": "벌레",
+      "pos": "명사",
+      "example": "夏は虫が多い。",
+      "exampleTranslation": "여름은 벌레가 많다."
+    },
+    {
+      "id": "v445",
+      "word": "馬",
+      "reading": "うま",
+      "meaning": "말",
+      "pos": "명사",
+      "example": "馬に乗る。",
+      "exampleTranslation": "말을 탄다."
+    },
+    {
+      "id": "v446",
+      "word": "牛",
+      "reading": "うし",
+      "meaning": "소",
+      "pos": "명사",
+      "example": "牛が草を食べる。",
+      "exampleTranslation": "소가 풀을 먹는다."
+    },
+    {
+      "id": "v447",
+      "word": "豚",
+      "reading": "ぶた",
+      "meaning": "돼지",
+      "pos": "명사",
+      "example": "豚肉が好き。",
+      "exampleTranslation": "돼지고기를 좋아한다."
+    },
+    {
+      "id": "v448",
+      "word": "花",
+      "reading": "はな",
+      "meaning": "꽃",
+      "pos": "명사",
+      "example": "花が咲いた。",
+      "exampleTranslation": "꽃이 피었다."
+    },
+    {
+      "id": "v449",
+      "word": "葉",
+      "reading": "は",
+      "meaning": "잎",
+      "pos": "명사",
+      "example": "葉が落ちる。",
+      "exampleTranslation": "잎이 떨어진다."
+    },
+    {
+      "id": "v450",
+      "word": "海",
+      "reading": "うみ",
+      "meaning": "바다",
+      "pos": "명사",
+      "example": "夏は海へ行く。",
+      "exampleTranslation": "여름엔 바다에 간다."
+    },
+    {
+      "id": "v451",
+      "word": "湖",
+      "reading": "みずうみ",
+      "meaning": "호수",
+      "pos": "명사",
+      "example": "きれいな湖。",
+      "exampleTranslation": "아름다운 호수."
+    },
+    {
+      "id": "v460",
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "취미",
+      "pos": "명사",
+      "example": "趣味は読書です。",
+      "exampleTranslation": "취미는 독서입니다."
+    },
+    {
+      "id": "v461",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "음악",
+      "pos": "명사",
+      "example": "音楽を聞く。",
+      "exampleTranslation": "음악을 듣는다."
+    },
+    {
+      "id": "v462",
+      "word": "映画",
+      "reading": "えいが",
+      "meaning": "영화",
+      "pos": "명사",
+      "example": "映画を見る。",
+      "exampleTranslation": "영화를 본다."
+    },
+    {
+      "id": "v463",
+      "word": "読書",
+      "reading": "どくしょ",
+      "meaning": "독서",
+      "pos": "명사",
+      "example": "読書が好きです。",
+      "exampleTranslation": "독서를 좋아합니다."
+    },
+    {
+      "id": "v464",
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "여행",
+      "pos": "명사",
+      "example": "海外旅行をする。",
+      "exampleTranslation": "해외여행을 한다."
+    },
+    {
+      "id": "v465",
+      "word": "運動",
+      "reading": "うんどう",
+      "meaning": "운동",
+      "pos": "명사",
+      "example": "毎日運動する。",
+      "exampleTranslation": "매일 운동한다."
+    },
+    {
+      "id": "v466",
+      "word": "野球",
+      "reading": "やきゅう",
+      "meaning": "야구",
+      "pos": "명사",
+      "example": "野球を見る。",
+      "exampleTranslation": "야구를 본다."
+    },
+    {
+      "id": "v467",
+      "word": "サッカー",
+      "reading": "サッカー",
+      "meaning": "축구",
+      "pos": "명사",
+      "example": "サッカーが好きだ。",
+      "exampleTranslation": "축구를 좋아한다."
+    },
+    {
+      "id": "v468",
+      "word": "水泳",
+      "reading": "すいえい",
+      "meaning": "수영",
+      "pos": "명사",
+      "example": "水泳を習う。",
+      "exampleTranslation": "수영을 배운다."
+    },
+    {
+      "id": "v469",
+      "word": "絵",
+      "reading": "え",
+      "meaning": "그림",
+      "pos": "명사",
+      "example": "絵を描く。",
+      "exampleTranslation": "그림을 그린다."
+    },
+    {
+      "id": "v470",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meaning": "사진",
+      "pos": "명사",
+      "example": "写真を撮る。",
+      "exampleTranslation": "사진을 찍는다."
+    },
+    {
+      "id": "v471",
+      "word": "ゲーム",
+      "reading": "ゲーム",
+      "meaning": "게임",
+      "pos": "명사",
+      "example": "ゲームを楽しむ。",
+      "exampleTranslation": "게임을 즐긴다."
+    },
+    {
+      "id": "v480",
+      "word": "携帯",
+      "reading": "けいたい",
+      "meaning": "휴대전화",
+      "pos": "명사",
+      "example": "携帯を忘れた。",
+      "exampleTranslation": "휴대폰을 두고 왔다."
+    },
+    {
+      "id": "v481",
+      "word": "電話",
+      "reading": "でんわ",
+      "meaning": "전화",
+      "pos": "명사",
+      "example": "電話をかける。",
+      "exampleTranslation": "전화를 건다."
+    },
+    {
+      "id": "v482",
+      "word": "パソコン",
+      "reading": "パソコン",
+      "meaning": "컴퓨터",
+      "pos": "명사",
+      "example": "パソコンで仕事する。",
+      "exampleTranslation": "컴퓨터로 일한다."
+    },
+    {
+      "id": "v483",
+      "word": "メール",
+      "reading": "メール",
+      "meaning": "이메일",
+      "pos": "명사",
+      "example": "メールを送る。",
+      "exampleTranslation": "메일을 보낸다."
+    },
+    {
+      "id": "v484",
+      "word": "インターネット",
+      "reading": "インターネット",
+      "meaning": "인터넷",
+      "pos": "명사",
+      "example": "インターネットで調べる。",
+      "exampleTranslation": "인터넷에서 찾아본다."
+    },
+    {
+      "id": "v485",
+      "word": "パスワード",
+      "reading": "パスワード",
+      "meaning": "비밀번호",
+      "pos": "명사",
+      "example": "パスワードを忘れた。",
+      "exampleTranslation": "비밀번호를 잊었다."
+    },
+    {
+      "id": "v486",
+      "word": "画面",
+      "reading": "がめん",
+      "meaning": "화면",
+      "pos": "명사",
+      "example": "画面が暗くなった。",
+      "exampleTranslation": "화면이 어두워졌다."
+    },
+    {
+      "id": "v487",
+      "word": "検索",
+      "reading": "けんさく",
+      "meaning": "검색",
+      "pos": "명사",
+      "example": "検索して調べる。",
+      "exampleTranslation": "검색해서 찾아본다."
+    },
+    {
+      "id": "v488",
+      "word": "画像",
+      "reading": "がぞう",
+      "meaning": "이미지·사진",
+      "pos": "명사",
+      "example": "画像を保存する。",
+      "exampleTranslation": "이미지를 저장한다."
+    },
+    {
+      "id": "v489",
+      "word": "動画",
+      "reading": "どうが",
+      "meaning": "동영상",
+      "pos": "명사",
+      "example": "動画を見る。",
+      "exampleTranslation": "동영상을 본다."
+    },
+    {
+      "id": "v490",
+      "word": "アプリ",
+      "reading": "アプリ",
+      "meaning": "앱",
+      "pos": "명사",
+      "example": "便利なアプリです。",
+      "exampleTranslation": "편리한 앱입니다."
+    },
+    {
+      "id": "v491",
+      "word": "クリック",
+      "reading": "クリック",
+      "meaning": "클릭",
+      "pos": "명사",
+      "example": "ここをクリック。",
+      "exampleTranslation": "여기를 클릭."
+    },
+    {
+      "id": "v500",
+      "word": "服",
+      "reading": "ふく",
+      "meaning": "옷",
+      "pos": "명사",
+      "example": "服を着る。",
+      "exampleTranslation": "옷을 입는다."
+    },
+    {
+      "id": "v501",
+      "word": "靴",
+      "reading": "くつ",
+      "meaning": "신발",
+      "pos": "명사",
+      "example": "新しい靴。",
+      "exampleTranslation": "새 신발."
+    },
+    {
+      "id": "v502",
+      "word": "帽子",
+      "reading": "ぼうし",
+      "meaning": "모자",
+      "pos": "명사",
+      "example": "帽子をかぶる。",
+      "exampleTranslation": "모자를 쓴다."
+    },
+    {
+      "id": "v503",
+      "word": "鞄",
+      "reading": "かばん",
+      "meaning": "가방",
+      "pos": "명사",
+      "example": "鞄を持つ。",
+      "exampleTranslation": "가방을 든다."
+    },
+    {
+      "id": "v504",
+      "word": "傘",
+      "reading": "かさ",
+      "meaning": "우산",
+      "pos": "명사",
+      "example": "傘を差す。",
+      "exampleTranslation": "우산을 쓴다."
+    },
+    {
+      "id": "v505",
+      "word": "時計",
+      "reading": "とけい",
+      "meaning": "시계",
+      "pos": "명사",
+      "example": "時計を見る。",
+      "exampleTranslation": "시계를 본다."
+    },
+    {
+      "id": "v506",
+      "word": "眼鏡",
+      "reading": "めがね",
+      "meaning": "안경",
+      "pos": "명사",
+      "example": "眼鏡をかける。",
+      "exampleTranslation": "안경을 쓴다."
+    },
+    {
+      "id": "v507",
+      "word": "スーツ",
+      "reading": "スーツ",
+      "meaning": "정장",
+      "pos": "명사",
+      "example": "スーツを着る。",
+      "exampleTranslation": "정장을 입는다."
+    },
+    {
+      "id": "v508",
+      "word": "ジーンズ",
+      "reading": "ジーンズ",
+      "meaning": "청바지",
+      "pos": "명사",
+      "example": "ジーンズが似合う。",
+      "exampleTranslation": "청바지가 잘 어울린다."
+    },
+    {
+      "id": "v509",
+      "word": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "반지",
+      "pos": "명사",
+      "example": "婚約指輪。",
+      "exampleTranslation": "약혼반지."
+    },
+    {
+      "id": "v520",
+      "word": "理由",
+      "reading": "りゆう",
+      "meaning": "이유",
+      "pos": "명사",
+      "example": "理由を教えてください。",
+      "exampleTranslation": "이유를 알려 주세요."
+    },
+    {
+      "id": "v521",
+      "word": "原因",
+      "reading": "げんいん",
+      "meaning": "원인",
+      "pos": "명사",
+      "example": "原因を調べる。",
+      "exampleTranslation": "원인을 조사한다."
+    },
+    {
+      "id": "v522",
+      "word": "結果",
+      "reading": "けっか",
+      "meaning": "결과",
+      "pos": "명사",
+      "example": "結果が出た。",
+      "exampleTranslation": "결과가 나왔다."
+    },
+    {
+      "id": "v523",
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "의미",
+      "pos": "명사",
+      "example": "言葉の意味を知る。",
+      "exampleTranslation": "단어의 뜻을 안다."
+    },
+    {
+      "id": "v524",
+      "word": "意見",
+      "reading": "いけん",
+      "meaning": "의견",
+      "pos": "명사",
+      "example": "意見を述べる。",
+      "exampleTranslation": "의견을 말한다."
+    },
+    {
+      "id": "v525",
+      "word": "考え方",
+      "reading": "かんがえかた",
+      "meaning": "사고방식",
+      "pos": "명사",
+      "example": "考え方が違う。",
+      "exampleTranslation": "사고방식이 다르다."
+    },
+    {
+      "id": "v526",
+      "word": "性格",
+      "reading": "せいかく",
+      "meaning": "성격",
+      "pos": "명사",
+      "example": "明るい性格。",
+      "exampleTranslation": "밝은 성격."
+    },
+    {
+      "id": "v527",
+      "word": "特徴",
+      "reading": "とくちょう",
+      "meaning": "특징",
+      "pos": "명사",
+      "example": "特徴を説明する。",
+      "exampleTranslation": "특징을 설명한다."
+    },
+    {
+      "id": "v528",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "목적",
+      "pos": "명사",
+      "example": "目的を持つ。",
+      "exampleTranslation": "목적을 가진다."
+    },
+    {
+      "id": "v529",
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaning": "방법",
+      "pos": "명사",
+      "example": "いい方法だ。",
+      "exampleTranslation": "좋은 방법이다."
+    },
+    {
+      "id": "v530",
+      "word": "問題",
+      "reading": "もんだい",
+      "meaning": "문제",
+      "pos": "명사",
+      "example": "問題を解く。",
+      "exampleTranslation": "문제를 푼다."
+    },
+    {
+      "id": "v531",
+      "word": "解決",
+      "reading": "かいけつ",
+      "meaning": "해결",
+      "pos": "명사",
+      "example": "問題を解決する。",
+      "exampleTranslation": "문제를 해결한다."
+    },
+    {
+      "id": "v532",
+      "word": "事実",
+      "reading": "じじつ",
+      "meaning": "사실",
+      "pos": "명사",
+      "example": "事実を伝える。",
+      "exampleTranslation": "사실을 전한다."
+    },
+    {
+      "id": "v533",
+      "word": "真実",
+      "reading": "しんじつ",
+      "meaning": "진실",
+      "pos": "명사",
+      "example": "真実を知りたい。",
+      "exampleTranslation": "진실을 알고 싶다."
+    },
+    {
+      "id": "v600",
+      "word": "予定",
+      "reading": "よてい",
+      "meaning": "예정",
+      "pos": "명사",
+      "example": "予定を確認してください。",
+      "exampleTranslation": "예정을(를) 확인해 주세요."
+    },
+    {
+      "id": "v601",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaning": "약속",
+      "pos": "동사",
+      "example": "毎日約束ようにしています。",
+      "exampleTranslation": "매일 약속려고 하고 있어요."
+    },
+    {
+      "id": "v602",
+      "word": "用事",
+      "reading": "ようじ",
+      "meaning": "용무",
+      "pos": "명사",
+      "example": "用事を確認してください。",
+      "exampleTranslation": "용무을(를) 확인해 주세요."
+    },
+    {
+      "id": "v603",
+      "word": "準備",
+      "reading": "じゅんび",
+      "meaning": "준비",
+      "pos": "명사",
+      "example": "準備を確認してください。",
+      "exampleTranslation": "준비을(를) 확인해 주세요."
+    },
+    {
+      "id": "v604",
+      "word": "間に合う",
+      "reading": "まにあう",
+      "meaning": "시간에 맞다",
+      "pos": "동사",
+      "example": "毎日間に合うようにしています。",
+      "exampleTranslation": "매일 시간에 맞다려고 하고 있어요."
+    },
+    {
+      "id": "v605",
+      "word": "遅れる",
+      "reading": "おくれる",
+      "meaning": "늦다",
+      "pos": "동사",
+      "example": "毎日遅れるようにしています。",
+      "exampleTranslation": "매일 늦다려고 하고 있어요."
+    },
+    {
+      "id": "v606",
+      "word": "慣れる",
+      "reading": "なれる",
+      "meaning": "익숙해지다",
+      "pos": "동사",
+      "example": "毎日慣れるようにしています。",
+      "exampleTranslation": "매일 익숙해지다려고 하고 있어요."
+    },
+    {
+      "id": "v607",
+      "word": "結局",
+      "reading": "けっきょく",
+      "meaning": "결국",
+      "pos": "명사",
+      "example": "結局を確認してください。",
+      "exampleTranslation": "결국을(를) 확인해 주세요."
+    },
+    {
+      "id": "v608",
+      "word": "最近",
+      "reading": "さいきん",
+      "meaning": "최근",
+      "pos": "명사",
+      "example": "最近を確認してください。",
+      "exampleTranslation": "최근을(를) 확인해 주세요."
+    },
+    {
+      "id": "v609",
+      "word": "しばらく",
+      "reading": "しばらく",
+      "meaning": "잠시, 한동안",
+      "pos": "명사",
+      "example": "しばらくを確認してください。",
+      "exampleTranslation": "잠시을(를) 확인해 주세요."
+    },
+    {
+      "id": "v610",
+      "word": "かなり",
+      "reading": "かなり",
+      "meaning": "꽤",
+      "pos": "명사",
+      "example": "かなりを確認してください。",
+      "exampleTranslation": "꽤을(를) 확인해 주세요."
+    },
+    {
+      "id": "v611",
+      "word": "大体",
+      "reading": "だいたい",
+      "meaning": "대체로",
+      "pos": "명사",
+      "example": "大体を確認してください。",
+      "exampleTranslation": "대체로을(를) 확인해 주세요."
+    },
+    {
+      "id": "v612",
+      "word": "念のため",
+      "reading": "ねんのため",
+      "meaning": "만일을 위해",
+      "pos": "명사",
+      "example": "念のためを確認してください。",
+      "exampleTranslation": "만일을 위해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v613",
+      "word": "途中",
+      "reading": "とちゅう",
+      "meaning": "도중",
+      "pos": "동사",
+      "example": "毎日途中ようにしています。",
+      "exampleTranslation": "매일 도중려고 하고 있어요."
+    },
+    {
+      "id": "v614",
+      "word": "順番",
+      "reading": "じゅんばん",
+      "meaning": "순서",
+      "pos": "명사",
+      "example": "順番を確認してください。",
+      "exampleTranslation": "순서을(를) 확인해 주세요."
+    },
+    {
+      "id": "v615",
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "경우",
+      "pos": "명사",
+      "example": "場合を確認してください。",
+      "exampleTranslation": "경우을(를) 확인해 주세요."
+    },
+    {
+      "id": "v616",
+      "word": "内容",
+      "reading": "ないよう",
+      "meaning": "내용",
+      "pos": "명사",
+      "example": "内容を確認してください。",
+      "exampleTranslation": "내용을(를) 확인해 주세요."
+    },
+    {
+      "id": "v617",
+      "word": "出席",
+      "reading": "しゅっせき",
+      "meaning": "출석, 참석",
+      "pos": "명사",
+      "example": "出席を確認してください。",
+      "exampleTranslation": "출석을(를) 확인해 주세요."
+    },
+    {
+      "id": "v618",
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaning": "결석, 불참",
+      "pos": "명사",
+      "example": "欠席を確認してください。",
+      "exampleTranslation": "결석을(를) 확인해 주세요."
+    },
+    {
+      "id": "v619",
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "제출",
+      "pos": "명사",
+      "example": "提出を確認してください。",
+      "exampleTranslation": "제출을(를) 확인해 주세요."
+    },
+    {
+      "id": "v620",
+      "word": "報告",
+      "reading": "ほうこく",
+      "meaning": "보고",
+      "pos": "동사",
+      "example": "毎日報告ようにしています。",
+      "exampleTranslation": "매일 보고려고 하고 있어요."
+    },
+    {
+      "id": "v621",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaning": "연락",
+      "pos": "동사",
+      "example": "毎日連絡ようにしています。",
+      "exampleTranslation": "매일 연락려고 하고 있어요."
+    },
+    {
+      "id": "v622",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaning": "상담",
+      "pos": "명사",
+      "example": "相談を確認してください。",
+      "exampleTranslation": "상담을(를) 확인해 주세요."
+    },
+    {
+      "id": "v623",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaning": "확인",
+      "pos": "명사",
+      "example": "確認を確認してください。",
+      "exampleTranslation": "확인을(를) 확인해 주세요."
+    },
+    {
+      "id": "v624",
+      "word": "説明",
+      "reading": "せつめい",
+      "meaning": "설명",
+      "pos": "명사",
+      "example": "説明を確認してください。",
+      "exampleTranslation": "설명을(를) 확인해 주세요."
+    },
+    {
+      "id": "v625",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaning": "자료",
+      "pos": "동사",
+      "example": "毎日資料ようにしています。",
+      "exampleTranslation": "매일 자료려고 하고 있어요."
+    },
+    {
+      "id": "v626",
+      "word": "担当",
+      "reading": "たんとう",
+      "meaning": "담당",
+      "pos": "동사",
+      "example": "毎日担当ようにしています。",
+      "exampleTranslation": "매일 담당려고 하고 있어요."
+    },
+    {
+      "id": "v627",
+      "word": "予定表",
+      "reading": "よていひょう",
+      "meaning": "일정표",
+      "pos": "명사",
+      "example": "予定表を確認してください。",
+      "exampleTranslation": "일정표을(를) 확인해 주세요."
+    },
+    {
+      "id": "v628",
+      "word": "予定変更",
+      "reading": "よていへんこう",
+      "meaning": "일정 변경",
+      "pos": "명사",
+      "example": "予定変更を確認してください。",
+      "exampleTranslation": "일정 변경을(를) 확인해 주세요."
+    },
+    {
+      "id": "v629",
+      "word": "申込む",
+      "reading": "もうしこむ",
+      "meaning": "신청하다",
+      "pos": "명사",
+      "example": "申込むを確認してください。",
+      "exampleTranslation": "신청하다을(를) 확인해 주세요."
+    },
+    {
+      "id": "v630",
+      "word": "参加",
+      "reading": "さんか",
+      "meaning": "참가",
+      "pos": "명사",
+      "example": "参加を確認してください。",
+      "exampleTranslation": "참가을(를) 확인해 주세요."
+    },
+    {
+      "id": "v631",
+      "word": "欠点",
+      "reading": "けってん",
+      "meaning": "단점",
+      "pos": "명사",
+      "example": "欠点を確認してください。",
+      "exampleTranslation": "단점을(를) 확인해 주세요."
+    },
+    {
+      "id": "v632",
+      "word": "利点",
+      "reading": "りてん",
+      "meaning": "장점",
+      "pos": "명사",
+      "example": "利点を確認してください。",
+      "exampleTranslation": "장점을(를) 확인해 주세요."
+    },
+    {
+      "id": "v633",
+      "word": "決定",
+      "reading": "けってい",
+      "meaning": "결정",
+      "pos": "명사",
+      "example": "決定を確認してください。",
+      "exampleTranslation": "결정을(를) 확인해 주세요."
+    },
+    {
+      "id": "v634",
+      "word": "承知",
+      "reading": "しょうち",
+      "meaning": "알고 있음, 승낙",
+      "pos": "명사",
+      "example": "承知を確認してください。",
+      "exampleTranslation": "알고 있음을(를) 확인해 주세요."
+    },
+    {
+      "id": "v635",
+      "word": "頼む",
+      "reading": "たのむ",
+      "meaning": "부탁하다",
+      "pos": "동사",
+      "example": "毎日頼むようにしています。",
+      "exampleTranslation": "매일 부탁하다려고 하고 있어요."
+    },
+    {
+      "id": "v636",
+      "word": "断る",
+      "reading": "ことわる",
+      "meaning": "거절하다",
+      "pos": "동사",
+      "example": "毎日断るようにしています。",
+      "exampleTranslation": "매일 거절하다려고 하고 있어요."
+    },
+    {
+      "id": "v637",
+      "word": "引き受ける",
+      "reading": "ひきうける",
+      "meaning": "맡다",
+      "pos": "동사",
+      "example": "毎日引き受けるようにしています。",
+      "exampleTranslation": "매일 맡다려고 하고 있어요."
+    },
+    {
+      "id": "v638",
+      "word": "不安",
+      "reading": "ふあん",
+      "meaning": "불안",
+      "pos": "な형용사",
+      "example": "この問題は不安です。",
+      "exampleTranslation": "이 문제는 불안."
+    },
+    {
+      "id": "v639",
+      "word": "緊張",
+      "reading": "きんちょう",
+      "meaning": "긴장",
+      "pos": "な형용사",
+      "example": "この問題は緊張です。",
+      "exampleTranslation": "이 문제는 긴장."
+    },
+    {
+      "id": "v640",
+      "word": "感動",
+      "reading": "かんどう",
+      "meaning": "감동",
+      "pos": "な형용사",
+      "example": "この問題は感動です。",
+      "exampleTranslation": "이 문제는 감동."
+    },
+    {
+      "id": "v641",
+      "word": "困る",
+      "reading": "こまる",
+      "meaning": "곤란하다",
+      "pos": "동사",
+      "example": "毎日困るようにしています。",
+      "exampleTranslation": "매일 곤란하다려고 하고 있어요."
+    },
+    {
+      "id": "v642",
+      "word": "迷う",
+      "reading": "まよう",
+      "meaning": "망설이다, 헤매다",
+      "pos": "동사",
+      "example": "毎日迷うようにしています。",
+      "exampleTranslation": "매일 망설이다려고 하고 있어요."
+    },
+    {
+      "id": "v643",
+      "word": "悩む",
+      "reading": "なやむ",
+      "meaning": "고민하다",
+      "pos": "동사",
+      "example": "毎日悩むようにしています。",
+      "exampleTranslation": "매일 고민하다려고 하고 있어요."
+    },
+    {
+      "id": "v644",
+      "word": "機嫌",
+      "reading": "きげん",
+      "meaning": "기분",
+      "pos": "명사",
+      "example": "機嫌を確認してください。",
+      "exampleTranslation": "기분을(를) 확인해 주세요."
+    },
+    {
+      "id": "v645",
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaning": "만족",
+      "pos": "동사",
+      "example": "毎日満足ようにしています。",
+      "exampleTranslation": "매일 만족려고 하고 있어요."
+    },
+    {
+      "id": "v646",
+      "word": "うれしい",
+      "reading": "うれしい",
+      "meaning": "기쁘다",
+      "pos": "い형용사",
+      "example": "今日はとてもうれしいです。",
+      "exampleTranslation": "오늘은 매우 기쁘다."
+    },
+    {
+      "id": "v647",
+      "word": "恐ろしい",
+      "reading": "おそろしい",
+      "meaning": "무섭다",
+      "pos": "い형용사",
+      "example": "今日はとても恐ろしいです。",
+      "exampleTranslation": "오늘은 매우 무섭다."
+    },
+    {
+      "id": "v648",
+      "word": "苦しい",
+      "reading": "くるしい",
+      "meaning": "괴롭다",
+      "pos": "い형용사",
+      "example": "今日はとても苦しいです。",
+      "exampleTranslation": "오늘은 매우 괴롭다."
+    },
+    {
+      "id": "v649",
+      "word": "面倒",
+      "reading": "めんどう",
+      "meaning": "번거로움",
+      "pos": "な형용사",
+      "example": "この問題は面倒です。",
+      "exampleTranslation": "이 문제는 번거로움."
+    },
+    {
+      "id": "v650",
+      "word": "大変",
+      "reading": "たいへん",
+      "meaning": "힘듦, 대단함",
+      "pos": "な형용사",
+      "example": "この問題は大変です。",
+      "exampleTranslation": "이 문제는 힘듦."
+    },
+    {
+      "id": "v651",
+      "word": "平気",
+      "reading": "へいき",
+      "meaning": "괜찮음",
+      "pos": "명사",
+      "example": "平気を確認してください。",
+      "exampleTranslation": "괜찮음을(를) 확인해 주세요."
+    },
+    {
+      "id": "v652",
+      "word": "調子",
+      "reading": "ちょうし",
+      "meaning": "상태, 컨디션",
+      "pos": "명사",
+      "example": "調子を確認してください。",
+      "exampleTranslation": "상태을(를) 확인해 주세요."
+    },
+    {
+      "id": "v653",
+      "word": "具合",
+      "reading": "ぐあい",
+      "meaning": "상태, 형편",
+      "pos": "명사",
+      "example": "具合を確認してください。",
+      "exampleTranslation": "상태을(를) 확인해 주세요."
+    },
+    {
+      "id": "v654",
+      "word": "気分転換",
+      "reading": "きぶんてんかん",
+      "meaning": "기분 전환",
+      "pos": "명사",
+      "example": "気分転換を確認してください。",
+      "exampleTranslation": "기분 전환을(를) 확인해 주세요."
+    },
+    {
+      "id": "v655",
+      "word": "落ち着く",
+      "reading": "おちつく",
+      "meaning": "침착해지다",
+      "pos": "동사",
+      "example": "毎日落ち着くようにしています。",
+      "exampleTranslation": "매일 침착해지다려고 하고 있어요."
+    },
+    {
+      "id": "v656",
+      "word": "あきらめる",
+      "reading": "あきらめる",
+      "meaning": "포기하다",
+      "pos": "명사",
+      "example": "あきらめるを確認してください。",
+      "exampleTranslation": "포기하다을(를) 확인해 주세요."
+    },
+    {
+      "id": "v657",
+      "word": "乗り換える",
+      "reading": "のりかえる",
+      "meaning": "갈아타다",
+      "pos": "동사",
+      "example": "毎日乗り換えるようにしています。",
+      "exampleTranslation": "매일 갈아타다려고 하고 있어요."
+    },
+    {
+      "id": "v658",
+      "word": "到着",
+      "reading": "とうちゃく",
+      "meaning": "도착",
+      "pos": "명사",
+      "example": "到着を確認してください。",
+      "exampleTranslation": "도착을(를) 확인해 주세요."
+    },
+    {
+      "id": "v659",
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "출발",
+      "pos": "명사",
+      "example": "出発を確認してください。",
+      "exampleTranslation": "출발을(를) 확인해 주세요."
+    },
+    {
+      "id": "v660",
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaning": "지각",
+      "pos": "동사",
+      "example": "毎日遅刻ようにしています。",
+      "exampleTranslation": "매일 지각려고 하고 있어요."
+    },
+    {
+      "id": "v661",
+      "word": "通勤",
+      "reading": "つうきん",
+      "meaning": "출근",
+      "pos": "명사",
+      "example": "通勤を確認してください。",
+      "exampleTranslation": "출근을(를) 확인해 주세요."
+    },
+    {
+      "id": "v662",
+      "word": "通学",
+      "reading": "つうがく",
+      "meaning": "통학",
+      "pos": "동사",
+      "example": "毎日通学ようにしています。",
+      "exampleTranslation": "매일 통학려고 하고 있어요."
+    },
+    {
+      "id": "v663",
+      "word": "席",
+      "reading": "せき",
+      "meaning": "자리",
+      "pos": "명사",
+      "example": "席を確認してください。",
+      "exampleTranslation": "자리을(를) 확인해 주세요."
+    },
+    {
+      "id": "v664",
+      "word": "優先席",
+      "reading": "ゆうせんせき",
+      "meaning": "우선석",
+      "pos": "명사",
+      "example": "優先席を確認してください。",
+      "exampleTranslation": "우선석을(를) 확인해 주세요."
+    },
+    {
+      "id": "v665",
+      "word": "改札",
+      "reading": "かいさつ",
+      "meaning": "개찰구",
+      "pos": "동사",
+      "example": "毎日改札ようにしています。",
+      "exampleTranslation": "매일 개찰구려고 하고 있어요."
+    },
+    {
+      "id": "v666",
+      "word": "片道",
+      "reading": "かたみち",
+      "meaning": "편도",
+      "pos": "명사",
+      "example": "片道を確認してください。",
+      "exampleTranslation": "편도을(를) 확인해 주세요."
+    },
+    {
+      "id": "v667",
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "왕복",
+      "pos": "동사",
+      "example": "毎日往復ようにしています。",
+      "exampleTranslation": "매일 왕복려고 하고 있어요."
+    },
+    {
+      "id": "v668",
+      "word": "交差点",
+      "reading": "こうさてん",
+      "meaning": "교차로",
+      "pos": "명사",
+      "example": "交差点を確認してください。",
+      "exampleTranslation": "교차로을(를) 확인해 주세요."
+    },
+    {
+      "id": "v669",
+      "word": "信号",
+      "reading": "しんごう",
+      "meaning": "신호",
+      "pos": "동사",
+      "example": "毎日信号ようにしています。",
+      "exampleTranslation": "매일 신호려고 하고 있어요."
+    },
+    {
+      "id": "v670",
+      "word": "進む",
+      "reading": "すすむ",
+      "meaning": "나아가다",
+      "pos": "동사",
+      "example": "毎日進むようにしています。",
+      "exampleTranslation": "매일 나아가다려고 하고 있어요."
+    },
+    {
+      "id": "v671",
+      "word": "曲がる",
+      "reading": "まがる",
+      "meaning": "돌다",
+      "pos": "동사",
+      "example": "毎日曲がるようにしています。",
+      "exampleTranslation": "매일 돌다려고 하고 있어요."
+    },
+    {
+      "id": "v672",
+      "word": "渡る",
+      "reading": "わたる",
+      "meaning": "건너다",
+      "pos": "동사",
+      "example": "毎日渡るようにしています。",
+      "exampleTranslation": "매일 건너다려고 하고 있어요."
+    },
+    {
+      "id": "v673",
+      "word": "降りる",
+      "reading": "おりる",
+      "meaning": "내리다",
+      "pos": "동사",
+      "example": "毎日降りるようにしています。",
+      "exampleTranslation": "매일 내리다려고 하고 있어요."
+    },
+    {
+      "id": "v674",
+      "word": "止まる",
+      "reading": "とまる",
+      "meaning": "멈추다",
+      "pos": "동사",
+      "example": "毎日止まるようにしています。",
+      "exampleTranslation": "매일 멈추다려고 하고 있어요."
+    },
+    {
+      "id": "v675",
+      "word": "向かう",
+      "reading": "むかう",
+      "meaning": "향하다",
+      "pos": "동사",
+      "example": "毎日向かうようにしています。",
+      "exampleTranslation": "매일 향하다려고 하고 있어요."
+    },
+    {
+      "id": "v676",
+      "word": "遠回り",
+      "reading": "とおまわり",
+      "meaning": "우회",
+      "pos": "명사",
+      "example": "遠回りを確認してください。",
+      "exampleTranslation": "우회을(를) 확인해 주세요."
+    },
+    {
+      "id": "v677",
+      "word": "混む",
+      "reading": "こむ",
+      "meaning": "붐비다",
+      "pos": "동사",
+      "example": "毎日混むようにしています。",
+      "exampleTranslation": "매일 붐비다려고 하고 있어요."
+    },
+    {
+      "id": "v678",
+      "word": "交通費",
+      "reading": "こうつうひ",
+      "meaning": "교통비",
+      "pos": "명사",
+      "example": "交通費を確認してください。",
+      "exampleTranslation": "교통비을(를) 확인해 주세요."
+    },
+    {
+      "id": "v679",
+      "word": "せき",
+      "reading": "せき",
+      "meaning": "기침",
+      "pos": "명사",
+      "example": "せきを確認してください。",
+      "exampleTranslation": "기침을(를) 확인해 주세요."
+    },
+    {
+      "id": "v680",
+      "word": "のど",
+      "reading": "のど",
+      "meaning": "목",
+      "pos": "명사",
+      "example": "のどを確認してください。",
+      "exampleTranslation": "목을(를) 확인해 주세요."
+    },
+    {
+      "id": "v681",
+      "word": "診察",
+      "reading": "しんさつ",
+      "meaning": "진찰",
+      "pos": "동사",
+      "example": "毎日診察ようにしています。",
+      "exampleTranslation": "매일 진찰려고 하고 있어요."
+    },
+    {
+      "id": "v682",
+      "word": "診断",
+      "reading": "しんだん",
+      "meaning": "진단",
+      "pos": "명사",
+      "example": "診断を確認してください。",
+      "exampleTranslation": "진단을(를) 확인해 주세요."
+    },
+    {
+      "id": "v683",
+      "word": "薬局",
+      "reading": "やっきょく",
+      "meaning": "약국",
+      "pos": "명사",
+      "example": "薬局を確認してください。",
+      "exampleTranslation": "약국을(를) 확인해 주세요."
+    },
+    {
+      "id": "v684",
+      "word": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "주사",
+      "pos": "명사",
+      "example": "注射を確認してください。",
+      "exampleTranslation": "주사을(를) 확인해 주세요."
+    },
+    {
+      "id": "v685",
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaning": "입원",
+      "pos": "명사",
+      "example": "入院を確認してください。",
+      "exampleTranslation": "입원을(를) 확인해 주세요."
+    },
+    {
+      "id": "v686",
+      "word": "退院",
+      "reading": "たいいん",
+      "meaning": "퇴원",
+      "pos": "명사",
+      "example": "退院を確認してください。",
+      "exampleTranslation": "퇴원을(를) 확인해 주세요."
+    },
+    {
+      "id": "v687",
+      "word": "治る",
+      "reading": "なおる",
+      "meaning": "낫다",
+      "pos": "동사",
+      "example": "毎日治るようにしています。",
+      "exampleTranslation": "매일 낫다려고 하고 있어요."
+    },
+    {
+      "id": "v688",
+      "word": "けが",
+      "reading": "けが",
+      "meaning": "부상",
+      "pos": "명사",
+      "example": "けがを確認してください。",
+      "exampleTranslation": "부상을(를) 확인해 주세요."
+    },
+    {
+      "id": "v689",
+      "word": "骨",
+      "reading": "ほね",
+      "meaning": "뼈",
+      "pos": "명사",
+      "example": "骨を確認してください。",
+      "exampleTranslation": "뼈을(를) 확인해 주세요."
+    },
+    {
+      "id": "v690",
+      "word": "胃",
+      "reading": "い",
+      "meaning": "위",
+      "pos": "명사",
+      "example": "胃を確認してください。",
+      "exampleTranslation": "위을(를) 확인해 주세요."
+    },
+    {
+      "id": "v691",
+      "word": "胸",
+      "reading": "むね",
+      "meaning": "가슴",
+      "pos": "명사",
+      "example": "胸を確認してください。",
+      "exampleTranslation": "가슴을(를) 확인해 주세요."
+    },
+    {
+      "id": "v692",
+      "word": "肩",
+      "reading": "かた",
+      "meaning": "어깨",
+      "pos": "명사",
+      "example": "肩を確認してください。",
+      "exampleTranslation": "어깨을(를) 확인해 주세요."
+    },
+    {
+      "id": "v693",
+      "word": "痛み",
+      "reading": "いたみ",
+      "meaning": "통증",
+      "pos": "명사",
+      "example": "痛みを確認してください。",
+      "exampleTranslation": "통증을(를) 확인해 주세요."
+    },
+    {
+      "id": "v694",
+      "word": "吐き気",
+      "reading": "はきけ",
+      "meaning": "메스꺼움",
+      "pos": "명사",
+      "example": "吐き気を確認してください。",
+      "exampleTranslation": "메스꺼움을(를) 확인해 주세요."
+    },
+    {
+      "id": "v695",
+      "word": "眠気",
+      "reading": "ねむけ",
+      "meaning": "졸림",
+      "pos": "명사",
+      "example": "眠気を確認してください。",
+      "exampleTranslation": "졸림을(를) 확인해 주세요."
+    },
+    {
+      "id": "v696",
+      "word": "食欲",
+      "reading": "しょくよく",
+      "meaning": "식욕",
+      "pos": "명사",
+      "example": "食欲を確認してください。",
+      "exampleTranslation": "식욕을(를) 확인해 주세요."
+    },
+    {
+      "id": "v697",
+      "word": "体温",
+      "reading": "たいおん",
+      "meaning": "체온",
+      "pos": "명사",
+      "example": "体温を確認してください。",
+      "exampleTranslation": "체온을(를) 확인해 주세요."
+    },
+    {
+      "id": "v698",
+      "word": "休養",
+      "reading": "きゅうよう",
+      "meaning": "휴양, 휴식",
+      "pos": "명사",
+      "example": "休養を確認してください。",
+      "exampleTranslation": "휴양을(를) 확인해 주세요."
+    },
+    {
+      "id": "v699",
+      "word": "健康診断",
+      "reading": "けんこうしんだん",
+      "meaning": "건강검진",
+      "pos": "명사",
+      "example": "健康診断を確認してください。",
+      "exampleTranslation": "건강검진을(를) 확인해 주세요."
+    },
+    {
+      "id": "v700",
+      "word": "予防",
+      "reading": "よぼう",
+      "meaning": "예방",
+      "pos": "동사",
+      "example": "毎日予防ようにしています。",
+      "exampleTranslation": "매일 예방려고 하고 있어요."
+    },
+    {
+      "id": "v701",
+      "word": "無理",
+      "reading": "むり",
+      "meaning": "무리",
+      "pos": "명사",
+      "example": "無理を確認してください。",
+      "exampleTranslation": "무리을(를) 확인해 주세요."
+    },
+    {
+      "id": "v702",
+      "word": "体調",
+      "reading": "たいちょう",
+      "meaning": "몸 상태",
+      "pos": "명사",
+      "example": "体調を確認してください。",
+      "exampleTranslation": "몸 상태을(를) 확인해 주세요."
+    },
+    {
+      "id": "v703",
+      "word": "会計",
+      "reading": "かいけい",
+      "meaning": "계산",
+      "pos": "명사",
+      "example": "会計を確認してください。",
+      "exampleTranslation": "계산을(를) 확인해 주세요."
+    },
+    {
+      "id": "v704",
+      "word": "定価",
+      "reading": "ていか",
+      "meaning": "정가",
+      "pos": "명사",
+      "example": "定価を確認してください。",
+      "exampleTranslation": "정가을(를) 확인해 주세요."
+    },
+    {
+      "id": "v705",
+      "word": "税込み",
+      "reading": "ぜいこみ",
+      "meaning": "세금 포함",
+      "pos": "명사",
+      "example": "税込みを確認してください。",
+      "exampleTranslation": "세금 포함을(를) 확인해 주세요."
+    },
+    {
+      "id": "v706",
+      "word": "別々",
+      "reading": "べつべつ",
+      "meaning": "각각, 따로",
+      "pos": "동사",
+      "example": "毎日別々ようにしています。",
+      "exampleTranslation": "매일 각각려고 하고 있어요."
+    },
+    {
+      "id": "v707",
+      "word": "返品",
+      "reading": "へんぴん",
+      "meaning": "반품",
+      "pos": "명사",
+      "example": "返品を確認してください。",
+      "exampleTranslation": "반품을(를) 확인해 주세요."
+    },
+    {
+      "id": "v708",
+      "word": "交換",
+      "reading": "こうかん",
+      "meaning": "교환",
+      "pos": "명사",
+      "example": "交換を確認してください。",
+      "exampleTranslation": "교환을(를) 확인해 주세요."
+    },
+    {
+      "id": "v709",
+      "word": "おつり",
+      "reading": "おつり",
+      "meaning": "잔돈",
+      "pos": "명사",
+      "example": "おつりを確認してください。",
+      "exampleTranslation": "잔돈을(를) 확인해 주세요."
+    },
+    {
+      "id": "v710",
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaning": "지불하다",
+      "pos": "동사",
+      "example": "毎日支払うようにしています。",
+      "exampleTranslation": "매일 지불하다려고 하고 있어요."
+    },
+    {
+      "id": "v711",
+      "word": "払戻し",
+      "reading": "はらいもどし",
+      "meaning": "환불",
+      "pos": "명사",
+      "example": "払戻しを確認してください。",
+      "exampleTranslation": "환불을(를) 확인해 주세요."
+    },
+    {
+      "id": "v712",
+      "word": "不足",
+      "reading": "ふそく",
+      "meaning": "부족",
+      "pos": "동사",
+      "example": "毎日不足ようにしています。",
+      "exampleTranslation": "매일 부족려고 하고 있어요."
+    },
+    {
+      "id": "v713",
+      "word": "節約",
+      "reading": "せつやく",
+      "meaning": "절약",
+      "pos": "동사",
+      "example": "毎日節約ようにしています。",
+      "exampleTranslation": "매일 절약려고 하고 있어요."
+    },
+    {
+      "id": "v714",
+      "word": "無駄",
+      "reading": "むだ",
+      "meaning": "낭비",
+      "pos": "명사",
+      "example": "無駄を確認してください。",
+      "exampleTranslation": "낭비을(를) 확인해 주세요."
+    },
+    {
+      "id": "v715",
+      "word": "売り切れ",
+      "reading": "うりきれ",
+      "meaning": "품절",
+      "pos": "명사",
+      "example": "売り切れを確認してください。",
+      "exampleTranslation": "품절을(를) 확인해 주세요."
+    },
+    {
+      "id": "v716",
+      "word": "在庫",
+      "reading": "ざいこ",
+      "meaning": "재고",
+      "pos": "명사",
+      "example": "在庫を確認してください。",
+      "exampleTranslation": "재고을(를) 확인해 주세요."
+    },
+    {
+      "id": "v717",
+      "word": "配達",
+      "reading": "はいたつ",
+      "meaning": "배달",
+      "pos": "동사",
+      "example": "毎日配達ようにしています。",
+      "exampleTranslation": "매일 배달려고 하고 있어요."
+    },
+    {
+      "id": "v718",
+      "word": "包装",
+      "reading": "ほうそう",
+      "meaning": "포장",
+      "pos": "동사",
+      "example": "毎日包装ようにしています。",
+      "exampleTranslation": "매일 포장려고 하고 있어요."
+    },
+    {
+      "id": "v719",
+      "word": "贈り物",
+      "reading": "おくりもの",
+      "meaning": "선물",
+      "pos": "명사",
+      "example": "贈り物を確認してください。",
+      "exampleTranslation": "선물을(를) 확인해 주세요."
+    },
+    {
+      "id": "v720",
+      "word": "家具",
+      "reading": "かぐ",
+      "meaning": "가구",
+      "pos": "동사",
+      "example": "毎日家具ようにしています。",
+      "exampleTranslation": "매일 가구려고 하고 있어요."
+    },
+    {
+      "id": "v721",
+      "word": "家賃",
+      "reading": "やちん",
+      "meaning": "집세",
+      "pos": "명사",
+      "example": "家賃を確認してください。",
+      "exampleTranslation": "집세을(를) 확인해 주세요."
+    },
+    {
+      "id": "v722",
+      "word": "掃除機",
+      "reading": "そうじき",
+      "meaning": "청소기",
+      "pos": "명사",
+      "example": "掃除機を確認してください。",
+      "exampleTranslation": "청소기을(를) 확인해 주세요."
+    },
+    {
+      "id": "v723",
+      "word": "洗剤",
+      "reading": "せんざい",
+      "meaning": "세제",
+      "pos": "명사",
+      "example": "洗剤を確認してください。",
+      "exampleTranslation": "세제을(를) 확인해 주세요."
+    },
+    {
+      "id": "v724",
+      "word": "洗濯物",
+      "reading": "せんたくもの",
+      "meaning": "빨랫감",
+      "pos": "명사",
+      "example": "洗濯物を確認してください。",
+      "exampleTranslation": "빨랫감을(를) 확인해 주세요."
+    },
+    {
+      "id": "v725",
+      "word": "乾く",
+      "reading": "かわく",
+      "meaning": "마르다",
+      "pos": "동사",
+      "example": "毎日乾くようにしています。",
+      "exampleTranslation": "매일 마르다려고 하고 있어요."
+    },
+    {
+      "id": "v726",
+      "word": "汚れる",
+      "reading": "よごれる",
+      "meaning": "더러워지다",
+      "pos": "동사",
+      "example": "毎日汚れるようにしています。",
+      "exampleTranslation": "매일 더러워지다려고 하고 있어요."
+    },
+    {
+      "id": "v727",
+      "word": "散らかる",
+      "reading": "ちらかる",
+      "meaning": "어질러지다",
+      "pos": "동사",
+      "example": "毎日散らかるようにしています。",
+      "exampleTranslation": "매일 어질러지다려고 하고 있어요."
+    },
+    {
+      "id": "v728",
+      "word": "壊れる",
+      "reading": "こわれる",
+      "meaning": "고장나다",
+      "pos": "동사",
+      "example": "毎日壊れるようにしています。",
+      "exampleTranslation": "매일 고장나다려고 하고 있어요."
+    },
+    {
+      "id": "v729",
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaning": "수리",
+      "pos": "명사",
+      "example": "修理を確認してください。",
+      "exampleTranslation": "수리을(를) 확인해 주세요."
+    },
+    {
+      "id": "v730",
+      "word": "片付く",
+      "reading": "かたづく",
+      "meaning": "정리되다",
+      "pos": "동사",
+      "example": "毎日片付くようにしています。",
+      "exampleTranslation": "매일 정리되다려고 하고 있어요."
+    },
+    {
+      "id": "v731",
+      "word": "収納",
+      "reading": "しゅうのう",
+      "meaning": "수납",
+      "pos": "명사",
+      "example": "収納を確認してください。",
+      "exampleTranslation": "수납을(를) 확인해 주세요."
+    },
+    {
+      "id": "v732",
+      "word": "台所",
+      "reading": "だいどころ",
+      "meaning": "부엌",
+      "pos": "명사",
+      "example": "台所を確認してください。",
+      "exampleTranslation": "부엌을(를) 확인해 주세요."
+    },
+    {
+      "id": "v733",
+      "word": "浴室",
+      "reading": "よくしつ",
+      "meaning": "욕실",
+      "pos": "동사",
+      "example": "毎日浴室ようにしています。",
+      "exampleTranslation": "매일 욕실려고 하고 있어요."
+    },
+    {
+      "id": "v734",
+      "word": "玄関",
+      "reading": "げんかん",
+      "meaning": "현관",
+      "pos": "명사",
+      "example": "玄関を確認してください。",
+      "exampleTranslation": "현관을(를) 확인해 주세요."
+    },
+    {
+      "id": "v735",
+      "word": "天井",
+      "reading": "てんじょう",
+      "meaning": "천장",
+      "pos": "명사",
+      "example": "天井を確認してください。",
+      "exampleTranslation": "천장을(를) 확인해 주세요."
+    },
+    {
+      "id": "v736",
+      "word": "床",
+      "reading": "ゆか",
+      "meaning": "바닥",
+      "pos": "명사",
+      "example": "床を確認してください。",
+      "exampleTranslation": "바닥을(를) 확인해 주세요."
+    },
+    {
+      "id": "v737",
+      "word": "壁",
+      "reading": "かべ",
+      "meaning": "벽",
+      "pos": "명사",
+      "example": "壁を確認してください。",
+      "exampleTranslation": "벽을(를) 확인해 주세요."
+    },
+    {
+      "id": "v738",
+      "word": "留守",
+      "reading": "るす",
+      "meaning": "부재중",
+      "pos": "동사",
+      "example": "毎日留守ようにしています。",
+      "exampleTranslation": "매일 부재중려고 하고 있어요."
+    },
+    {
+      "id": "v739",
+      "word": "留守番",
+      "reading": "るすばん",
+      "meaning": "집 지키기",
+      "pos": "명사",
+      "example": "留守番を確認してください。",
+      "exampleTranslation": "집 지키기을(를) 확인해 주세요."
+    },
+    {
+      "id": "v740",
+      "word": "日当たり",
+      "reading": "ひあたり",
+      "meaning": "채광",
+      "pos": "명사",
+      "example": "日当たりを確認してください。",
+      "exampleTranslation": "채광을(를) 확인해 주세요."
+    },
+    {
+      "id": "v741",
+      "word": "暮らし",
+      "reading": "くらし",
+      "meaning": "생활",
+      "pos": "명사",
+      "example": "暮らしを確認してください。",
+      "exampleTranslation": "생활을(를) 확인해 주세요."
+    },
+    {
+      "id": "v742",
+      "word": "気温",
+      "reading": "きおん",
+      "meaning": "기온",
+      "pos": "명사",
+      "example": "気温を確認してください。",
+      "exampleTranslation": "기온을(를) 확인해 주세요."
+    },
+    {
+      "id": "v743",
+      "word": "湿度",
+      "reading": "しつど",
+      "meaning": "습도",
+      "pos": "명사",
+      "example": "湿度を確認してください。",
+      "exampleTranslation": "습도을(를) 확인해 주세요."
+    },
+    {
+      "id": "v744",
+      "word": "予報",
+      "reading": "よほう",
+      "meaning": "예보",
+      "pos": "동사",
+      "example": "毎日予報ようにしています。",
+      "exampleTranslation": "매일 예보려고 하고 있어요."
+    },
+    {
+      "id": "v745",
+      "word": "曇り",
+      "reading": "くもり",
+      "meaning": "흐림",
+      "pos": "명사",
+      "example": "曇りを確認してください。",
+      "exampleTranslation": "흐림을(를) 확인해 주세요."
+    },
+    {
+      "id": "v746",
+      "word": "快晴",
+      "reading": "かいせい",
+      "meaning": "쾌청",
+      "pos": "명사",
+      "example": "快晴を確認してください。",
+      "exampleTranslation": "쾌청을(를) 확인해 주세요."
+    },
+    {
+      "id": "v747",
+      "word": "雷",
+      "reading": "かみなり",
+      "meaning": "천둥",
+      "pos": "명사",
+      "example": "雷を確認してください。",
+      "exampleTranslation": "천둥을(를) 확인해 주세요."
+    },
+    {
+      "id": "v748",
+      "word": "強風",
+      "reading": "きょうふう",
+      "meaning": "강풍",
+      "pos": "명사",
+      "example": "強風を確認してください。",
+      "exampleTranslation": "강풍을(를) 확인해 주세요."
+    },
+    {
+      "id": "v749",
+      "word": "積もる",
+      "reading": "つもる",
+      "meaning": "쌓이다",
+      "pos": "동사",
+      "example": "毎日積もるようにしています。",
+      "exampleTranslation": "매일 쌓이다려고 하고 있어요."
+    },
+    {
+      "id": "v750",
+      "word": "冷える",
+      "reading": "ひえる",
+      "meaning": "차가워지다",
+      "pos": "동사",
+      "example": "毎日冷えるようにしています。",
+      "exampleTranslation": "매일 차가워지다려고 하고 있어요."
+    },
+    {
+      "id": "v751",
+      "word": "暖まる",
+      "reading": "あたたまる",
+      "meaning": "따뜻해지다",
+      "pos": "명사",
+      "example": "暖まるを確認してください。",
+      "exampleTranslation": "따뜻해지다을(를) 확인해 주세요."
+    },
+    {
+      "id": "v752",
+      "word": "乾燥",
+      "reading": "かんそう",
+      "meaning": "건조",
+      "pos": "동사",
+      "example": "毎日乾燥ようにしています。",
+      "exampleTranslation": "매일 건조려고 하고 있어요."
+    },
+    {
+      "id": "v753",
+      "word": "揺れる",
+      "reading": "ゆれる",
+      "meaning": "흔들리다",
+      "pos": "동사",
+      "example": "毎日揺れるようにしています。",
+      "exampleTranslation": "매일 흔들리다려고 하고 있어요."
+    },
+    {
+      "id": "v754",
+      "word": "避難",
+      "reading": "ひなん",
+      "meaning": "피난",
+      "pos": "명사",
+      "example": "避難を確認してください。",
+      "exampleTranslation": "피난을(를) 확인해 주세요."
+    },
+    {
+      "id": "v755",
+      "word": "災害",
+      "reading": "さいがい",
+      "meaning": "재해",
+      "pos": "명사",
+      "example": "災害を確認してください。",
+      "exampleTranslation": "재해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v756",
+      "word": "被害",
+      "reading": "ひがい",
+      "meaning": "피해",
+      "pos": "명사",
+      "example": "被害を確認してください。",
+      "exampleTranslation": "피해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v757",
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "자연",
+      "pos": "명사",
+      "example": "自然を確認してください。",
+      "exampleTranslation": "자연을(를) 확인해 주세요."
+    },
+    {
+      "id": "v758",
+      "word": "島",
+      "reading": "しま",
+      "meaning": "섬",
+      "pos": "명사",
+      "example": "島を確認してください。",
+      "exampleTranslation": "섬을(를) 확인해 주세요."
+    },
+    {
+      "id": "v759",
+      "word": "森",
+      "reading": "もり",
+      "meaning": "숲",
+      "pos": "명사",
+      "example": "森を確認してください。",
+      "exampleTranslation": "숲을(를) 확인해 주세요."
+    },
+    {
+      "id": "v760",
+      "word": "景色",
+      "reading": "けしき",
+      "meaning": "경치",
+      "pos": "명사",
+      "example": "景色を確認してください。",
+      "exampleTranslation": "경치을(를) 확인해 주세요."
+    },
+    {
+      "id": "v761",
+      "word": "空気",
+      "reading": "くうき",
+      "meaning": "공기",
+      "pos": "명사",
+      "example": "空気を確認してください。",
+      "exampleTranslation": "공기을(를) 확인해 주세요."
+    },
+    {
+      "id": "v762",
+      "word": "記事",
+      "reading": "きじ",
+      "meaning": "기사",
+      "pos": "명사",
+      "example": "記事を確認してください。",
+      "exampleTranslation": "기사을(를) 확인해 주세요."
+    },
+    {
+      "id": "v763",
+      "word": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "프로그램",
+      "pos": "명사",
+      "example": "番組を確認してください。",
+      "exampleTranslation": "프로그램을(를) 확인해 주세요."
+    },
+    {
+      "id": "v764",
+      "word": "放送",
+      "reading": "ほうそう",
+      "meaning": "방송",
+      "pos": "동사",
+      "example": "毎日放送ようにしています。",
+      "exampleTranslation": "매일 방송려고 하고 있어요."
+    },
+    {
+      "id": "v765",
+      "word": "見出し",
+      "reading": "みだし",
+      "meaning": "제목",
+      "pos": "명사",
+      "example": "見出しを確認してください。",
+      "exampleTranslation": "제목을(를) 확인해 주세요."
+    },
+    {
+      "id": "v766",
+      "word": "情報",
+      "reading": "じょうほう",
+      "meaning": "정보",
+      "pos": "명사",
+      "example": "情報を確認してください。",
+      "exampleTranslation": "정보을(를) 확인해 주세요."
+    },
+    {
+      "id": "v767",
+      "word": "知らせ",
+      "reading": "しらせ",
+      "meaning": "알림",
+      "pos": "명사",
+      "example": "知らせを確認してください。",
+      "exampleTranslation": "알림을(를) 확인해 주세요."
+    },
+    {
+      "id": "v768",
+      "word": "調査",
+      "reading": "ちょうさ",
+      "meaning": "조사",
+      "pos": "명사",
+      "example": "調査を確認してください。",
+      "exampleTranslation": "조사을(를) 확인해 주세요."
+    },
+    {
+      "id": "v769",
+      "word": "増える",
+      "reading": "ふえる",
+      "meaning": "늘다",
+      "pos": "동사",
+      "example": "毎日増えるようにしています。",
+      "exampleTranslation": "매일 늘다려고 하고 있어요."
+    },
+    {
+      "id": "v770",
+      "word": "減る",
+      "reading": "へる",
+      "meaning": "줄다",
+      "pos": "동사",
+      "example": "毎日減るようにしています。",
+      "exampleTranslation": "매일 줄다려고 하고 있어요."
+    },
+    {
+      "id": "v771",
+      "word": "広がる",
+      "reading": "ひろがる",
+      "meaning": "확산되다",
+      "pos": "동사",
+      "example": "毎日広がるようにしています。",
+      "exampleTranslation": "매일 확산되다려고 하고 있어요."
+    },
+    {
+      "id": "v772",
+      "word": "比べる",
+      "reading": "くらべる",
+      "meaning": "비교하다",
+      "pos": "동사",
+      "example": "毎日比べるようにしています。",
+      "exampleTranslation": "매일 비교하다려고 하고 있어요."
+    },
+    {
+      "id": "v773",
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "주목",
+      "pos": "명사",
+      "example": "注目を確認してください。",
+      "exampleTranslation": "주목을(를) 확인해 주세요."
+    },
+    {
+      "id": "v774",
+      "word": "人気",
+      "reading": "にんき",
+      "meaning": "인기",
+      "pos": "명사",
+      "example": "人気を確認してください。",
+      "exampleTranslation": "인기을(를) 확인해 주세요."
+    },
+    {
+      "id": "v775",
+      "word": "流行",
+      "reading": "りゅうこう",
+      "meaning": "유행",
+      "pos": "명사",
+      "example": "流行を確認してください。",
+      "exampleTranslation": "유행을(를) 확인해 주세요."
+    },
+    {
+      "id": "v776",
+      "word": "感想",
+      "reading": "かんそう",
+      "meaning": "감상",
+      "pos": "동사",
+      "example": "毎日感想ようにしています。",
+      "exampleTranslation": "매일 감상려고 하고 있어요."
+    },
+    {
+      "id": "v777",
+      "word": "連載",
+      "reading": "れんさい",
+      "meaning": "연재",
+      "pos": "명사",
+      "example": "連載を確認してください。",
+      "exampleTranslation": "연재을(를) 확인해 주세요."
+    },
+    {
+      "id": "v778",
+      "word": "広告",
+      "reading": "こうこく",
+      "meaning": "광고",
+      "pos": "동사",
+      "example": "毎日広告ようにしています。",
+      "exampleTranslation": "매일 광고려고 하고 있어요."
+    },
+    {
+      "id": "v779",
+      "word": "案内文",
+      "reading": "あんないぶん",
+      "meaning": "안내문",
+      "pos": "명사",
+      "example": "案内文を確認してください。",
+      "exampleTranslation": "안내문을(를) 확인해 주세요."
+    },
+    {
+      "id": "v780",
+      "word": "注意書き",
+      "reading": "ちゅういがき",
+      "meaning": "주의 문구",
+      "pos": "명사",
+      "example": "注意書きを確認してください。",
+      "exampleTranslation": "주의 문구을(를) 확인해 주세요."
+    },
+    {
+      "id": "v781",
+      "word": "受付中",
+      "reading": "うけつけちゅう",
+      "meaning": "접수 중",
+      "pos": "명사",
+      "example": "受付中を確認してください。",
+      "exampleTranslation": "접수 중을(를) 확인해 주세요."
+    },
+    {
+      "id": "v782",
+      "word": "中止",
+      "reading": "ちゅうし",
+      "meaning": "중지",
+      "pos": "명사",
+      "example": "中止を確認してください。",
+      "exampleTranslation": "중지을(를) 확인해 주세요."
+    },
+    {
+      "id": "v783",
+      "word": "付き合う",
+      "reading": "つきあう",
+      "meaning": "사귀다, 교제하다",
+      "pos": "동사",
+      "example": "毎日付き合うようにしています。",
+      "exampleTranslation": "매일 사귀다려고 하고 있어요."
+    },
+    {
+      "id": "v784",
+      "word": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "화해",
+      "pos": "명사",
+      "example": "仲直りを確認してください。",
+      "exampleTranslation": "화해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v785",
+      "word": "けんか",
+      "reading": "けんか",
+      "meaning": "싸움",
+      "pos": "명사",
+      "example": "けんかを確認してください。",
+      "exampleTranslation": "싸움을(를) 확인해 주세요."
+    },
+    {
+      "id": "v786",
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaning": "초대",
+      "pos": "명사",
+      "example": "招待を確認してください。",
+      "exampleTranslation": "초대을(를) 확인해 주세요."
+    },
+    {
+      "id": "v787",
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaning": "방문",
+      "pos": "명사",
+      "example": "訪問を確認してください。",
+      "exampleTranslation": "방문을(를) 확인해 주세요."
+    },
+    {
+      "id": "v788",
+      "word": "見送り",
+      "reading": "みおくり",
+      "meaning": "배웅",
+      "pos": "명사",
+      "example": "見送りを確認してください。",
+      "exampleTranslation": "배웅을(를) 확인해 주세요."
+    },
+    {
+      "id": "v789",
+      "word": "出迎え",
+      "reading": "でむかえ",
+      "meaning": "마중",
+      "pos": "명사",
+      "example": "出迎えを確認してください。",
+      "exampleTranslation": "마중을(를) 확인해 주세요."
+    },
+    {
+      "id": "v790",
+      "word": "世話",
+      "reading": "せわ",
+      "meaning": "돌봄, 신세",
+      "pos": "명사",
+      "example": "世話を確認してください。",
+      "exampleTranslation": "돌봄을(를) 확인해 주세요."
+    },
+    {
+      "id": "v791",
+      "word": "恩",
+      "reading": "おん",
+      "meaning": "은혜",
+      "pos": "명사",
+      "example": "恩を確認してください。",
+      "exampleTranslation": "은혜을(를) 확인해 주세요."
+    },
+    {
+      "id": "v792",
+      "word": "礼",
+      "reading": "れい",
+      "meaning": "감사, 예의",
+      "pos": "명사",
+      "example": "礼を確認してください。",
+      "exampleTranslation": "감사을(를) 확인해 주세요."
+    },
+    {
+      "id": "v793",
+      "word": "遠慮",
+      "reading": "えんりょ",
+      "meaning": "사양, 거리낌",
+      "pos": "명사",
+      "example": "遠慮を確認してください。",
+      "exampleTranslation": "사양을(를) 확인해 주세요."
+    },
+    {
+      "id": "v794",
+      "word": "失礼",
+      "reading": "しつれい",
+      "meaning": "실례",
+      "pos": "명사",
+      "example": "失礼を確認してください。",
+      "exampleTranslation": "실례을(를) 확인해 주세요."
+    },
+    {
+      "id": "v795",
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaning": "친절",
+      "pos": "な형용사",
+      "example": "この問題は親切です。",
+      "exampleTranslation": "이 문제는 친절."
+    },
+    {
+      "id": "v796",
+      "word": "冷たい",
+      "reading": "つめたい",
+      "meaning": "차갑다",
+      "pos": "い형용사",
+      "example": "今日はとても冷たいです。",
+      "exampleTranslation": "오늘은 매우 차갑다."
+    },
+    {
+      "id": "v797",
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "정직",
+      "pos": "명사",
+      "example": "正直を確認してください。",
+      "exampleTranslation": "정직을(를) 확인해 주세요."
+    },
+    {
+      "id": "v798",
+      "word": "わがまま",
+      "reading": "わがまま",
+      "meaning": "제멋대로임",
+      "pos": "명사",
+      "example": "わがままを確認してください。",
+      "exampleTranslation": "제멋대로임을(를) 확인해 주세요."
+    },
+    {
+      "id": "v799",
+      "word": "遠回し",
+      "reading": "とおまわし",
+      "meaning": "완곡함",
+      "pos": "명사",
+      "example": "遠回しを確認してください。",
+      "exampleTranslation": "완곡함을(를) 확인해 주세요."
+    },
+    {
+      "id": "v800",
+      "word": "誤解",
+      "reading": "ごかい",
+      "meaning": "오해",
+      "pos": "명사",
+      "example": "誤解を確認してください。",
+      "exampleTranslation": "오해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v801",
+      "word": "理解",
+      "reading": "りかい",
+      "meaning": "이해",
+      "pos": "명사",
+      "example": "理解を確認してください。",
+      "exampleTranslation": "이해을(를) 확인해 주세요."
+    },
+    {
+      "id": "v802",
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaning": "신뢰",
+      "pos": "명사",
+      "example": "信頼を確認してください。",
+      "exampleTranslation": "신뢰을(를) 확인해 주세요."
+    },
+    {
+      "id": "v803",
+      "word": "約束を守る",
+      "reading": "やくそくをまもる",
+      "meaning": "약속을 지키다",
+      "pos": "명사",
+      "example": "約束を守るを確認してください。",
+      "exampleTranslation": "약속을 지키다을(를) 확인해 주세요."
+    },
+    {
+      "id": "v804",
+      "word": "助け合う",
+      "reading": "たすけあう",
+      "meaning": "서로 돕다",
+      "pos": "명사",
+      "example": "助け合うを確認してください。",
+      "exampleTranslation": "서로 돕다을(를) 확인해 주세요."
+    },
+    {
+      "id": "v805",
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaning": "협력",
+      "pos": "명사",
+      "example": "協力を確認してください。",
+      "exampleTranslation": "협력을(를) 확인해 주세요."
+    }
   ]
 }
