@@ -7389,6 +7389,4682 @@
           "meaning": "—"
         }
       ]
+    },
+    {
+      "char": "積",
+      "onyomi": [
+        "セキ"
+      ],
+      "kunyomi": [
+        "つ-む"
+      ],
+      "koreanReading": "적",
+      "meanings": [
+        "쌓다"
+      ],
+      "strokes": 16,
+      "radical": "禾",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "積雪",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "被",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "こうむ-る"
+      ],
+      "koreanReading": "피",
+      "meanings": [
+        "입다",
+        "쓰다"
+      ],
+      "strokes": 10,
+      "radical": "衤",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "被害",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "流",
+      "onyomi": [
+        "リュウ"
+      ],
+      "kunyomi": [
+        "なが-れる"
+      ],
+      "koreanReading": "류",
+      "meanings": [
+        "흐르다"
+      ],
+      "strokes": 10,
+      "radical": "氵",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "流行",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "節",
+      "onyomi": [
+        "セツ"
+      ],
+      "kunyomi": [
+        "ふし"
+      ],
+      "koreanReading": "절",
+      "meanings": [
+        "절",
+        "절약"
+      ],
+      "strokes": 13,
+      "radical": "竹",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "節約",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "収",
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "おさ-める"
+      ],
+      "koreanReading": "수",
+      "meanings": [
+        "거두다"
+      ],
+      "strokes": 4,
+      "radical": "又",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "収入",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "支",
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "ささ-える"
+      ],
+      "koreanReading": "지",
+      "meanings": [
+        "지탱하다"
+      ],
+      "strokes": 4,
+      "radical": "支",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "支出",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "貯",
+      "onyomi": [
+        "チョ"
+      ],
+      "kunyomi": [
+        "た-める"
+      ],
+      "koreanReading": "저",
+      "meanings": [
+        "저축하다"
+      ],
+      "strokes": 12,
+      "radical": "貝",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "貯金",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "振",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "ふ-る"
+      ],
+      "koreanReading": "진",
+      "meanings": [
+        "흔들다"
+      ],
+      "strokes": 10,
+      "radical": "扌",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "振込",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "込",
+      "onyomi": [],
+      "kunyomi": [
+        "こ-む"
+      ],
+      "koreanReading": "입",
+      "meanings": [
+        "들어가다",
+        "붐비다"
+      ],
+      "strokes": 5,
+      "radical": "辶",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "振込",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "領",
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "령",
+      "meanings": [
+        "수령"
+      ],
+      "strokes": 14,
+      "radical": "頁",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "領収書",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "庫",
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "고",
+      "meanings": [
+        "창고"
+      ],
+      "strokes": 10,
+      "radical": "广",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "在庫",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "売",
+      "onyomi": [
+        "バイ"
+      ],
+      "kunyomi": [
+        "う-る"
+      ],
+      "koreanReading": "매",
+      "meanings": [
+        "팔다"
+      ],
+      "strokes": 7,
+      "radical": "士",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "売切れ",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "現",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "あらわ-れる"
+      ],
+      "koreanReading": "현",
+      "meanings": [
+        "나타나다",
+        "현재"
+      ],
+      "strokes": 11,
+      "radical": "王",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "現金",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "費",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "つい-やす"
+      ],
+      "koreanReading": "비",
+      "meanings": [
+        "비용"
+      ],
+      "strokes": 12,
+      "radical": "貝",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "交通費",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "交",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "まじ-わる"
+      ],
+      "koreanReading": "교",
+      "meanings": [
+        "사귀다",
+        "교차"
+      ],
+      "strokes": 6,
+      "radical": "亠",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "交通",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "勤",
+      "onyomi": [
+        "キン"
+      ],
+      "kunyomi": [
+        "つと-める"
+      ],
+      "koreanReading": "근",
+      "meanings": [
+        "근무하다"
+      ],
+      "strokes": 12,
+      "radical": "力",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "通勤",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "職",
+      "onyomi": [
+        "ショク"
+      ],
+      "kunyomi": [],
+      "koreanReading": "직",
+      "meanings": [
+        "직업"
+      ],
+      "strokes": 18,
+      "radical": "耳",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "職場",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "場",
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "ば"
+      ],
+      "koreanReading": "장",
+      "meanings": [
+        "장소"
+      ],
+      "strokes": 12,
+      "radical": "土",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "職場",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "採",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "と-る"
+      ],
+      "koreanReading": "채",
+      "meanings": [
+        "채택하다"
+      ],
+      "strokes": 11,
+      "radical": "扌",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "採用",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "用",
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "もち-いる"
+      ],
+      "koreanReading": "용",
+      "meanings": [
+        "쓰다"
+      ],
+      "strokes": 5,
+      "radical": "用",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "採用",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "研",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "と-ぐ"
+      ],
+      "koreanReading": "연",
+      "meanings": [
+        "연구하다"
+      ],
+      "strokes": 9,
+      "radical": "石",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "研究",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "修",
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "おさ-める"
+      ],
+      "koreanReading": "수",
+      "meanings": [
+        "닦다",
+        "수습하다"
+      ],
+      "strokes": 10,
+      "radical": "亻",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "研修",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "休",
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "やす-む"
+      ],
+      "koreanReading": "휴",
+      "meanings": [
+        "쉬다"
+      ],
+      "strokes": 6,
+      "radical": "亻",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "休暇",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "暇",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひま"
+      ],
+      "koreanReading": "가",
+      "meanings": [
+        "틈",
+        "한가함"
+      ],
+      "strokes": 13,
+      "radical": "日",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "休暇",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "転",
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "ころ-がる"
+      ],
+      "koreanReading": "전",
+      "meanings": [
+        "구르다",
+        "전환"
+      ],
+      "strokes": 11,
+      "radical": "車",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "転勤",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "換",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "か-える"
+      ],
+      "koreanReading": "환",
+      "meanings": [
+        "바꾸다"
+      ],
+      "strokes": 12,
+      "radical": "扌",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "乗換",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "泊",
+      "onyomi": [
+        "ハク"
+      ],
+      "kunyomi": [
+        "と-まる"
+      ],
+      "koreanReading": "박",
+      "meanings": [
+        "묵다"
+      ],
+      "strokes": 8,
+      "radical": "氵",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "宿泊",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "順",
+      "onyomi": [
+        "ジュン"
+      ],
+      "kunyomi": [],
+      "koreanReading": "순",
+      "meanings": [
+        "순서"
+      ],
+      "strokes": 12,
+      "radical": "頁",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "順番",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "症",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "증",
+      "meanings": [
+        "증상"
+      ],
+      "strokes": 10,
+      "radical": "疒",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "症状",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "状",
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "상",
+      "meanings": [
+        "상태"
+      ],
+      "strokes": 7,
+      "radical": "犬",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "症状",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "処",
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "처",
+      "meanings": [
+        "처리"
+      ],
+      "strokes": 5,
+      "radical": "几",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "処方",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "方",
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "かた"
+      ],
+      "koreanReading": "방",
+      "meanings": [
+        "방향",
+        "방법"
+      ],
+      "strokes": 4,
+      "radical": "方",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "処方",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "看",
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "み-る"
+      ],
+      "koreanReading": "간",
+      "meanings": [
+        "보다",
+        "간호하다"
+      ],
+      "strokes": 9,
+      "radical": "目",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "看護",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "護",
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "まも-る"
+      ],
+      "koreanReading": "호",
+      "meanings": [
+        "보호하다"
+      ],
+      "strokes": 20,
+      "radical": "言",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "看護",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "胃",
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "위",
+      "meanings": [
+        "위"
+      ],
+      "strokes": 9,
+      "radical": "田",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "胃",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "胸",
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "むね"
+      ],
+      "koreanReading": "흉",
+      "meanings": [
+        "가슴"
+      ],
+      "strokes": 10,
+      "radical": "月",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "胸",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "肩",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "かた"
+      ],
+      "koreanReading": "견",
+      "meanings": [
+        "어깨"
+      ],
+      "strokes": 8,
+      "radical": "月",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "肩",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "痛",
+      "onyomi": [
+        "ツウ"
+      ],
+      "kunyomi": [
+        "いた-い"
+      ],
+      "koreanReading": "통",
+      "meanings": [
+        "아프다"
+      ],
+      "strokes": 12,
+      "radical": "疒",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "痛み",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "眠",
+      "onyomi": [
+        "ミン"
+      ],
+      "kunyomi": [
+        "ねむ-い"
+      ],
+      "koreanReading": "면",
+      "meanings": [
+        "졸리다"
+      ],
+      "strokes": 10,
+      "radical": "目",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "眠気",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "欲",
+      "onyomi": [
+        "ヨク"
+      ],
+      "kunyomi": [
+        "ほっ-する"
+      ],
+      "koreanReading": "욕",
+      "meanings": [
+        "욕망하다"
+      ],
+      "strokes": 11,
+      "radical": "欠",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "食欲",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "防",
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": [
+        "ふせ-ぐ"
+      ],
+      "koreanReading": "방",
+      "meanings": [
+        "막다"
+      ],
+      "strokes": 7,
+      "radical": "阝",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "予防",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "障",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "さわ-る"
+      ],
+      "koreanReading": "장",
+      "meanings": [
+        "장애",
+        "고장"
+      ],
+      "strokes": 14,
+      "radical": "阝",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "故障",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "故",
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "ゆえ"
+      ],
+      "koreanReading": "고",
+      "meanings": [
+        "고장",
+        "이유"
+      ],
+      "strokes": 9,
+      "radical": "攵",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "故障",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "玄",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [],
+      "koreanReading": "현",
+      "meanings": [
+        "현묘하다"
+      ],
+      "strokes": 5,
+      "radical": "玄",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "玄関",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "壁",
+      "onyomi": [
+        "ヘキ"
+      ],
+      "kunyomi": [
+        "かべ"
+      ],
+      "koreanReading": "벽",
+      "meanings": [
+        "벽"
+      ],
+      "strokes": 16,
+      "radical": "土",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "壁",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "床",
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "ゆか"
+      ],
+      "koreanReading": "상",
+      "meanings": [
+        "바닥"
+      ],
+      "strokes": 7,
+      "radical": "广",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "床",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "暮",
+      "onyomi": [
+        "ボ"
+      ],
+      "kunyomi": [
+        "く-れる"
+      ],
+      "koreanReading": "모",
+      "meanings": [
+        "살다",
+        "저물다"
+      ],
+      "strokes": 14,
+      "radical": "日",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "暮らし",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "燃",
+      "onyomi": [
+        "ネン"
+      ],
+      "kunyomi": [
+        "も-える"
+      ],
+      "koreanReading": "연",
+      "meanings": [
+        "타다"
+      ],
+      "strokes": 16,
+      "radical": "火",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "燃える",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "資",
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "자",
+      "meanings": [
+        "자원"
+      ],
+      "strokes": 13,
+      "radical": "貝",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "資源",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "源",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "みなもと"
+      ],
+      "koreanReading": "원",
+      "meanings": [
+        "근원"
+      ],
+      "strokes": 13,
+      "radical": "氵",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "資源",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "設",
+      "onyomi": [
+        "セツ"
+      ],
+      "kunyomi": [
+        "もう-ける"
+      ],
+      "koreanReading": "설",
+      "meanings": [
+        "설치하다"
+      ],
+      "strokes": 11,
+      "radical": "言",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "設備",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "不",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "불",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "不安",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "並",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "병",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "アルバイト募集",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "乾",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "건",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "乾く",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "了",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "료",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "スマホアプリの更新",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "事",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "用事",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "井",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "정",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "天井",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "京",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "경",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "旅行の感想",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "仕",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "アルバイト募集",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "付",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "부",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "片付ける",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "佐",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "좌",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "会社の電話",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "体",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "체",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "大体",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "価",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "가",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "定価",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "便",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "편",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "引っ越しの相談",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "保",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "보",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "商品の説明",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "倒",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "도",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "面倒",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "借",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "차",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "図書館のお知らせ",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "値",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "치",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "値段",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "停",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "정",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "駅の案内放送",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "傘",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "산",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "天気予報の記事",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "働",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "동",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "アルバイト募集",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "僚",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "료",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "同僚",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "優",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "우",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "優先席",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "具",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "구",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "具合",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "冊",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "책",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "図書館の案内",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "冷",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "랭",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "冷える",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "列",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "열",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "電車の案内文",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "初",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "초",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "市民講座",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "判",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "판",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "判断",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "別",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "별",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "別々",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "利",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "리",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "利点",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "到",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "도",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "到着",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "刷",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "쇄",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "先生の説明",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "刻",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "각",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "遅刻",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "剤",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "제",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "洗剤",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "割",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "할",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "割引",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "力",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "력",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "努力",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "功",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "공",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "成功",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "努",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "노",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "努力",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "動",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "동",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "行動",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "募",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "모",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "応募",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "包",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "포",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "包装",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "午",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "오",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "面接時間の変更メール",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "半",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "반",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "友達との会話",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "協",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "협",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "協力",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "印",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "인",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "印象",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "却",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "각",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "図書館のお知らせ",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "参",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "참",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "参加",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "受",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "수",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "受付",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "台",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "대",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "台所",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "号",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "호",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "信号",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "司",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "上司",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "各",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "각",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "サークル紹介",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "同",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "동",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "同僚",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "吐",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "토",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "吐き気",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "向",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "향",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "向かう",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "含",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "함",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "サークル紹介",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "周",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "주",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "引っ越しの広告",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "員",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "원",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "満員",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "回",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "회",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "遠回り",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "困",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "곤",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "困る",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "図",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "도",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "地図",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "在",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "재",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "在庫",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "壊",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "괴",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "壊れる",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "夕",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "석",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "夕食を確認する",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "天",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "천",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "天井",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "夫",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "부",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "工夫",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "失",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "실",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "失敗",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "嫌",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "혐",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "機嫌",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "季",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "계",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "季節",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "守",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "수",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "留守",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "容",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "용",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "内容",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "察",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "찰",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "診察",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "寮",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "료",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "寮のルール",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "寺",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "旅行の感想",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "射",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "注射",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "局",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "국",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "結局",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "届",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "계",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "届ける",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "屋",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "옥",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "部屋を確認する",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "履",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "리",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "面接時間の変更メール",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "工",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "공",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "工夫",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "差",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "차",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "交差点",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "市",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "시",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "図書館のお知らせ",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "布",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "포",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "財布",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "希",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "희",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "アルバイト募集",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "師",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "看護師",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "席",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "석",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "出席",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "常",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "상",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "店の休業案内",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "平",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "평",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "平気",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "広",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "광",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "広がる",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "座",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "좌",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "口座",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "庭",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "정",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "サークル紹介",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "引",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "인",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "引き受ける",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "張",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "장",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "出張",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "強",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "강",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "強風",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "当",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "당",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "担当",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "影",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "영",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "電車の案内文",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "役",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "역",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "バスの放送",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "往",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "왕",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "往復",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "徒",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "도",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "引っ越しの広告",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "得",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "득",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "得意",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "復",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "복",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "往復",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "心",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "심",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "安心",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "忘",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "망",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "申込みを忘れる",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "応",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "응",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "応募",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "快",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "쾌",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "快晴",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "怒",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "노",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "怒る",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "思",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "사",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "引っ越しの相談",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "性",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "성",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "性格",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "恐",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "공",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "恐ろしい",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "恥",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "치",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "恥ずかしい",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "悩",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "뇌",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "悩む",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "悪",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "악",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "面接時間の変更メール",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "情",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "정",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "感情",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "惑",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "혹",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "店の休業案内",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "想",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "상",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "感想",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "意",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "의",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "得意",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "態",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "태",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "態度",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "成",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "성",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "成長",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "戦",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "전",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "挑戦",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "戻",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "려",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "払戻し",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "所",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "소",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "台所",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "払",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "불",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "支払う",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "承",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "승",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "承知",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "折",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "절",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "天気予報の記事",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "押",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "압",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "バスの放送",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "担",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "담",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "担当",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "挑",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "도",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "挑戦",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "掃",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "소",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "掃除機",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "授",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "수",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "授業を確認する",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "接",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "접",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "面接",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "揺",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "요",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "揺れる",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "改",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "개",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "改札",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "放",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "방",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "放送",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "敗",
+      "onyomi": [],
+      "kunyomi": [],
+      "koreanReading": "패",
+      "meanings": [],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "失敗",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "券",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [],
+      "koreanReading": "권",
+      "meanings": [
+        "표",
+        "권"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "航空券",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "航",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "항",
+      "meanings": [
+        "항해하다",
+        "항공"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "航空",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "港",
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "みなと"
+      ],
+      "koreanReading": "항",
+      "meanings": [
+        "항구"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "空港",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "機",
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "はた"
+      ],
+      "koreanReading": "기",
+      "meanings": [
+        "기계",
+        "기회"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "飛行機",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "飛",
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "と-ぶ"
+      ],
+      "koreanReading": "비",
+      "meanings": [
+        "날다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "飛行機",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "留",
+      "onyomi": [
+        "リュウ"
+      ],
+      "kunyomi": [
+        "と-める"
+      ],
+      "koreanReading": "류",
+      "meanings": [
+        "머무르다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "留学",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "旅",
+      "onyomi": [
+        "リョ"
+      ],
+      "kunyomi": [
+        "たび"
+      ],
+      "koreanReading": "려",
+      "meanings": [
+        "여행"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "旅行",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "貸",
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "か-す"
+      ],
+      "koreanReading": "대",
+      "meanings": [
+        "빌려주다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "貸出",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "枚",
+      "onyomi": [
+        "マイ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "매",
+      "meanings": [
+        "장의 단위"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "三枚",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "箱",
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "はこ"
+      ],
+      "koreanReading": "상",
+      "meanings": [
+        "상자"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "箱",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "皿",
+      "onyomi": [],
+      "kunyomi": [
+        "さら"
+      ],
+      "koreanReading": "명",
+      "meanings": [
+        "접시"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "皿",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "段",
+      "onyomi": [
+        "ダン"
+      ],
+      "kunyomi": [],
+      "koreanReading": "단",
+      "meanings": [
+        "계단",
+        "단계"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "階段",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "坂",
+      "onyomi": [],
+      "kunyomi": [
+        "さか"
+      ],
+      "koreanReading": "판",
+      "meanings": [
+        "비탈길"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "坂",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "路",
+      "onyomi": [
+        "ロ"
+      ],
+      "kunyomi": [
+        "じ"
+      ],
+      "koreanReading": "로",
+      "meanings": [
+        "길"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "道路",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "登",
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "のぼ-る"
+      ],
+      "koreanReading": "등",
+      "meanings": [
+        "오르다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "登山",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "海",
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "うみ"
+      ],
+      "koreanReading": "해",
+      "meanings": [
+        "바다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "海外",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "岸",
+      "onyomi": [
+        "ガン"
+      ],
+      "kunyomi": [
+        "きし"
+      ],
+      "koreanReading": "안",
+      "meanings": [
+        "기슭",
+        "해안"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "海岸",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "湖",
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "みずうみ"
+      ],
+      "koreanReading": "호",
+      "meanings": [
+        "호수"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "湖",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "島",
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "しま"
+      ],
+      "koreanReading": "도",
+      "meanings": [
+        "섬"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "島",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "林",
+      "onyomi": [
+        "リン"
+      ],
+      "kunyomi": [
+        "はやし"
+      ],
+      "koreanReading": "림",
+      "meanings": [
+        "수풀"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "森林",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "原",
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "はら"
+      ],
+      "koreanReading": "원",
+      "meanings": [
+        "들판",
+        "원"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "原因",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "畑",
+      "onyomi": [],
+      "kunyomi": [
+        "はたけ"
+      ],
+      "koreanReading": "전",
+      "meanings": [
+        "밭"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "畑",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "農",
+      "onyomi": [
+        "ノウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "농",
+      "meanings": [
+        "농업"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "農業",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "建",
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "た-てる"
+      ],
+      "koreanReading": "건",
+      "meanings": [
+        "세우다",
+        "건물"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "建物",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "窓",
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "まど"
+      ],
+      "koreanReading": "창",
+      "meanings": [
+        "창문"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "窓",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "門",
+      "onyomi": [
+        "モン"
+      ],
+      "kunyomi": [
+        "かど"
+      ],
+      "koreanReading": "문",
+      "meanings": [
+        "문"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "門",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "柱",
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "はしら"
+      ],
+      "koreanReading": "주",
+      "meanings": [
+        "기둥"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "柱",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "戸",
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "と"
+      ],
+      "koreanReading": "호",
+      "meanings": [
+        "문짝"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "井戸",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "畳",
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "たたみ"
+      ],
+      "koreanReading": "첩",
+      "meanings": [
+        "다다미"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "畳",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "団",
+      "onyomi": [
+        "ダン"
+      ],
+      "kunyomi": [],
+      "koreanReading": "단",
+      "meanings": [
+        "단체",
+        "덩어리"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "布団",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "洋",
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "양",
+      "meanings": [
+        "서양",
+        "바다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "洋服",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "帽",
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "모",
+      "meanings": [
+        "모자"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "帽子",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "靴",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "くつ"
+      ],
+      "koreanReading": "화",
+      "meanings": [
+        "신발"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "靴",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "荷",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "に"
+      ],
+      "koreanReading": "하",
+      "meanings": [
+        "짐"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "荷物",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "軽",
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "かる-い"
+      ],
+      "koreanReading": "경",
+      "meanings": [
+        "가볍다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "軽い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "暗",
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [
+        "くら-い"
+      ],
+      "koreanReading": "암",
+      "meanings": [
+        "어둡다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "暗い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "明",
+      "onyomi": [
+        "メイ"
+      ],
+      "kunyomi": [
+        "あか-るい"
+      ],
+      "koreanReading": "명",
+      "meanings": [
+        "밝다",
+        "분명"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "説明",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "低",
+      "onyomi": [
+        "テイ"
+      ],
+      "kunyomi": [
+        "ひく-い"
+      ],
+      "koreanReading": "저",
+      "meanings": [
+        "낮다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "最低",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "深",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "ふか-い"
+      ],
+      "koreanReading": "심",
+      "meanings": [
+        "깊다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "深い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "浅",
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "あさ-い"
+      ],
+      "koreanReading": "천",
+      "meanings": [
+        "얕다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "浅い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "狭",
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "せま-い"
+      ],
+      "koreanReading": "협",
+      "meanings": [
+        "좁다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "狭い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "弱",
+      "onyomi": [
+        "ジャク"
+      ],
+      "kunyomi": [
+        "よわ-い"
+      ],
+      "koreanReading": "약",
+      "meanings": [
+        "약하다"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "弱い",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "薬",
+      "onyomi": [
+        "ヤク"
+      ],
+      "kunyomi": [
+        "くすり"
+      ],
+      "koreanReading": "약",
+      "meanings": [
+        "약"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "薬局",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "写",
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "うつ-す"
+      ],
+      "koreanReading": "사",
+      "meanings": [
+        "베끼다",
+        "사진"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "写真",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "真",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "ま"
+      ],
+      "koreanReading": "진",
+      "meanings": [
+        "진실",
+        "참"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "写真",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "有",
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "あ-る"
+      ],
+      "koreanReading": "유",
+      "meanings": [
+        "있다",
+        "유"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "有名",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "神",
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "かみ"
+      ],
+      "koreanReading": "신",
+      "meanings": [
+        "신"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "神社",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "社",
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "やしろ"
+      ],
+      "koreanReading": "사",
+      "meanings": [
+        "회사",
+        "신사"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "神社",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "祭",
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "まつ-り"
+      ],
+      "koreanReading": "제",
+      "meanings": [
+        "축제"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "祭り",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "文",
+      "onyomi": [
+        "ブン"
+      ],
+      "kunyomi": [
+        "ふみ"
+      ],
+      "koreanReading": "문",
+      "meanings": [
+        "글월"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "文房具",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "房",
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": [
+        "ふさ"
+      ],
+      "koreanReading": "방",
+      "meanings": [
+        "방",
+        "다발"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "文房具",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "筆",
+      "onyomi": [
+        "ヒツ"
+      ],
+      "kunyomi": [
+        "ふで"
+      ],
+      "koreanReading": "필",
+      "meanings": [
+        "붓",
+        "필기"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "筆記",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "科",
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "과",
+      "meanings": [
+        "과목",
+        "과"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "科学",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
+    },
+    {
+      "char": "術",
+      "onyomi": [
+        "ジュツ"
+      ],
+      "kunyomi": [],
+      "koreanReading": "술",
+      "meanings": [
+        "기술",
+        "방법"
+      ],
+      "strokes": 0,
+      "radical": "?",
+      "level": "N3",
+      "examples": [
+        {
+          "word": "技術",
+          "reading": "—",
+          "meaning": "—"
+        }
+      ]
     }
   ]
 }

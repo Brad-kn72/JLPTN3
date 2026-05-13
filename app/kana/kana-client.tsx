@@ -19,10 +19,25 @@ type KanaSet = {
 export function KanaClient({ hiragana, katakana }: { hiragana: KanaSet; katakana: KanaSet }) {
   return (
     <Tabs defaultValue="hiragana">
-      <TabsList>
-        <TabsTrigger value="hiragana">히라가나</TabsTrigger>
-        <TabsTrigger value="katakana">가타카나</TabsTrigger>
-        <TabsTrigger value="quiz">발음 퀴즈</TabsTrigger>
+      <TabsList className="h-auto p-1.5 bg-secondary/70 dark:bg-secondary/40 grid grid-cols-3 w-full md:w-auto md:inline-grid gap-1">
+        <TabsTrigger
+          value="hiragana"
+          className="text-base md:text-lg font-semibold py-2.5 px-5 text-foreground/70 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground data-[state=active]:shadow-md transition-all"
+        >
+          히라가나
+        </TabsTrigger>
+        <TabsTrigger
+          value="katakana"
+          className="text-base md:text-lg font-semibold py-2.5 px-5 text-foreground/70 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground data-[state=active]:shadow-md transition-all"
+        >
+          가타카나
+        </TabsTrigger>
+        <TabsTrigger
+          value="quiz"
+          className="text-base md:text-lg font-semibold py-2.5 px-5 text-foreground/70 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground data-[state=active]:shadow-md transition-all"
+        >
+          발음 퀴즈
+        </TabsTrigger>
       </TabsList>
 
       <TabsContent value="hiragana" className="space-y-6">
