@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.css");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap");
+
+@layer base {
+  :root {
+    --background: 350 100% 99%;
+    --foreground: 340 30% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 340 30% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 340 30% 12%;
+    --primary: 340 82% 65%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 340 60% 96%;
+    --secondary-foreground: 340 50% 30%;
+    --muted: 340 30% 96%;
+    --muted-foreground: 340 10% 45%;
+    --accent: 340 60% 94%;
+    --accent-foreground: 340 50% 30%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 340 30% 90%;
+    --input: 340 30% 90%;
+    --ring: 340 82% 65%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 340 25% 8%;
+    --foreground: 340 20% 95%;
+    --card: 340 22% 11%;
+    --card-foreground: 340 20% 95%;
+    --popover: 340 22% 11%;
+    --popover-foreground: 340 20% 95%;
+    --primary: 340 80% 70%;
+    --primary-foreground: 340 30% 10%;
+    --secondary: 340 20% 18%;
+    --secondary-foreground: 340 20% 92%;
+    --muted: 340 15% 18%;
+    --muted-foreground: 340 10% 65%;
+    --accent: 340 25% 22%;
+    --accent-foreground: 340 20% 95%;
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 340 20% 22%;
+    --input: 340 20% 22%;
+    --ring: 340 80% 70%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  .jp {
+    font-family: "Noto Sans JP", "Pretendard Variable", "Pretendard", sans-serif;
+  }
+}
+
+/* Flashcard 3D flip */
+.perspective {
+  perspective: 1200px;
+}
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Sakura petal decoration */
+.petal {
+  position: fixed;
+  top: -10vh;
+  width: 12px;
+  height: 12px;
+  background: radial-gradient(circle at 30% 30%, #ffd2dd, #ff9ab4);
+  border-radius: 150% 0 150% 0;
+  pointer-events: none;
+  opacity: 0.6;
+  animation: petal-fall linear infinite;
+  z-index: 0;
+}
+.dark .petal {
+  opacity: 0.25;
+}
