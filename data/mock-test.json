@@ -2,7 +2,7 @@
   "tests": [
     {
       "id": "mock1",
-      "title": "모의고사 1회 (단축형)",
+      "title": "모의고사 1회 — 기초 점검",
       "duration": 30,
       "sections": [
         {
@@ -104,13 +104,145 @@
               "answerIndex": 0,
               "explanation": "「傘を持って出かけたほうがいい」"
             },
-            {
-              "id": "m1q10",
-              "prompt": "스크립트: 「お出口は右側です」 → 출구는?",
-              "choices": ["왼쪽", "오른쪽", "양쪽", "정면"],
-              "answerIndex": 1,
-              "explanation": "「右側」 = 오른쪽."
-            }
+            {"id":"m1q10","prompt":"스크립트: 「お出口は右側です」 → 출구는?","choices":["왼쪽","오른쪽","양쪽","정면"],"answerIndex":1,"explanation":"「右側」 = 오른쪽."}
+          ]
+        }
+      ]
+    },
+    {
+      "id":"mock2",
+      "title":"모의고사 2회 — 어휘 강화",
+      "duration":30,
+      "sections":[
+        {
+          "id":"s1","title":"언어지식 - 어휘","type":"vocabulary","questions":[
+            {"id":"m2q1","prompt":"「___ をひいて、学校を休んだ」 빈칸은?","choices":["風邪","熱","頭","薬"],"answerIndex":0,"explanation":"「風邪をひく」 = 감기에 걸리다 (관용 표현)."},
+            {"id":"m2q2","prompt":"「会議の ___ は明日です」","choices":["環境","予定","記念","運転"],"answerIndex":1,"explanation":"予定 = 예정."},
+            {"id":"m2q3","prompt":"「___ 説明してくれてありがとう」","choices":["丁寧に","急に","絶対に","必ず"],"answerIndex":0,"explanation":"丁寧に = 정성스럽게 / 꼼꼼히."},
+            {"id":"m2q4","prompt":"「友達に本を ___ 」 빌렸다는 의미는?","choices":["貸した","借りた","渡した","届けた"],"answerIndex":1,"explanation":"借りる = 빌리다 (받는 쪽)."},
+            {"id":"m2q5","prompt":"「彼女は ___ 性格だ」 밝다는 의미의 형용사는?","choices":["明るい","暗い","厳しい","複雑な"],"answerIndex":0,"explanation":"明るい性格 = 밝은 성격."}
+          ]
+        },
+        {
+          "id":"s2","title":"언어지식 - 문법","type":"grammar","questions":[
+            {"id":"m2q6","prompt":"「もっと勉強 ___ よかった」 후회 표현은?","choices":["すれば","したら","するなら","しても"],"answerIndex":0,"explanation":"～ばよかった = ~할 걸 (후회)."},
+            {"id":"m2q7","prompt":"「日本語が話せる ___ になった」","choices":["こと","よう","そう","らしい"],"answerIndex":1,"explanation":"ようになる = 능력 변화."},
+            {"id":"m2q8","prompt":"「雨 ___ 試合は中止になった」 원인은?","choices":["のせいで","のおかげで","のために","によって"],"answerIndex":0,"explanation":"せいで = 부정적 원인."},
+            {"id":"m2q9","prompt":"「子どもにご飯を食べ ___ 」 사역은?","choices":["られる","させる","せる","する"],"answerIndex":1,"explanation":"食べる(2그룹) 사역: 食べさせる."},
+            {"id":"m2q10","prompt":"「先生が ___ 」 言う의 존경어는?","choices":["申す","おっしゃる","拝見する","致す"],"answerIndex":1,"explanation":"おっしゃる = 言う의 존경어."}
+          ]
+        },
+        {
+          "id":"s3","title":"독해","type":"reading","questions":[
+            {"id":"m2q11","prompt":"본문: 「来週の月曜日にテストがあります。範囲は50ページから80ページまでです」 → 시험 범위는 몇 페이지?","choices":["30페이지","31페이지","50페이지","80페이지"],"answerIndex":1,"explanation":"50~80페이지 = 31페이지."},
+            {"id":"m2q12","prompt":"「3日前までに連絡してください」 의 의미는?","choices":["3일 후에 연락","3일 전까지 연락","3일 전에만 연락","3일 동안 연락"],"answerIndex":1,"explanation":"までに = ~까지(기한)."}
+          ]
+        },
+        {
+          "id":"s4","title":"청해","type":"listening","questions":[
+            {"id":"m2q13","prompt":"스크립트: 「午後2時から4時、または4時から6時、どちらがよろしいでしょうか」 → 가능 시간대 수는?","choices":["1개","2개","3개","4개"],"answerIndex":1,"explanation":"두 시간대 제시."},
+            {"id":"m2q14","prompt":"스크립트: 「明日伺います」 의 의미는?","choices":["내일 옵니다","내일 찾아뵙겠습니다","내일 묻겠습니다","둘 다 가능"],"answerIndex":3,"explanation":"伺う는 行く·訪ねる·聞く 의 겸양어."},
+            {"id":"m2q15","prompt":"스크립트: 「出発時刻が30分遅れる見込みです」 → 지연 시간은?","choices":["15분","30분","1시간","미정"],"answerIndex":1,"explanation":"30분."}
+          ]
+        }
+      ]
+    },
+    {
+      "id":"mock3",
+      "title":"모의고사 3회 — 문법 강화",
+      "duration":30,
+      "sections":[
+        {
+          "id":"s1","title":"언어지식 - 문법","type":"grammar","questions":[
+            {"id":"m3q1","prompt":"「日本に行った ___ がある」 경험은?","choices":["こと","もの","とき","の"],"answerIndex":0,"explanation":"～たことがある = 경험."},
+            {"id":"m3q2","prompt":"「考えれば考える ___ 分からなくなる」 비례는?","choices":["より","だけ","ほど","くらい"],"answerIndex":2,"explanation":"～ば～ほど = ~할수록."},
+            {"id":"m3q3","prompt":"「子どもさえ知っている」 의 의미는?","choices":["어린이만 안다","어린이는 모른다","어린이조차 안다","어린이가 모를 리 없다"],"answerIndex":2,"explanation":"さえ = ~조차 (강조)."},
+            {"id":"m3q4","prompt":"「彼は嘘をついている ___ 」 확신적 추측은?","choices":["かもしれない","にちがいない","ようだ","らしい"],"answerIndex":1,"explanation":"にちがいない = 분명히 ~이다."},
+            {"id":"m3q5","prompt":"「行く ___ 早く決めて」 화제 한정 조건은?","choices":["ば","たら","なら","と"],"answerIndex":2,"explanation":"なら = 화제 한정."},
+            {"id":"m3q6","prompt":"「先生に褒め ___ 嬉しい」 수동은?","choices":["させて","られて","せて","して"],"answerIndex":1,"explanation":"수동 て형."},
+            {"id":"m3q7","prompt":"「電気を消して ___ ください」 사전 준비는?","choices":["しまって","おいて","みて","しまった"],"answerIndex":1,"explanation":"～ておく = 사전 준비."},
+            {"id":"m3q8","prompt":"「無理しなく ___ いいよ」 불필요는?","choices":["ても","ては","ないで","てから"],"answerIndex":0,"explanation":"なくてもいい = 안 해도 된다."}
+          ]
+        },
+        {
+          "id":"s2","title":"독해","type":"reading","questions":[
+            {"id":"m3q9","prompt":"본문: 「初心者から上級者まで、レベル別のクラスを用意しています」 → 옳은 것은?","choices":["초보자만 수강 가능","상급자만 수강 가능","레벨에 따라 클래스가 있다","모두 같은 클래스"],"answerIndex":2,"explanation":"レベル別 = 레벨별."},
+            {"id":"m3q10","prompt":"본문: 「体験レッスンは無料です」 의 의미는?","choices":["체험은 1000엔","체험은 무료","체험은 유료","체험은 불가"],"answerIndex":1,"explanation":"無料 = 무료."},
+            {"id":"m3q11","prompt":"「夏より冬のほうが好きだ」 화자의 선호는?","choices":["여름","겨울","둘 다 같음","둘 다 싫음"],"answerIndex":1,"explanation":"冬のほうが好き = 겨울을 더 좋아함."}
+          ]
+        },
+        {
+          "id":"s3","title":"청해","type":"listening","questions":[
+            {"id":"m3q12","prompt":"「明日の同じ時間に変更してもらってもいい?」 → 변경되는 것은?","choices":["장소","날짜","요일과 시간","사람"],"answerIndex":1,"explanation":"날짜만 내일로 변경, 시간 그대로."},
+            {"id":"m3q13","prompt":"「お寺の中は写真撮影が禁止されています」 → 금지는?","choices":["식사","대화","사진","휴대전화"],"answerIndex":2,"explanation":"写真撮影 = 사진 촬영."},
+            {"id":"m3q14","prompt":"「内科の予約をお願いしたい」 → 예약 부서는?","choices":["내과","외과","치과","피부과"],"answerIndex":0,"explanation":"内科 = 내과."}
+          ]
+        }
+      ]
+    },
+    {
+      "id":"mock4",
+      "title":"모의고사 4회 — 독해 강화",
+      "duration":35,
+      "sections":[
+        {
+          "id":"s1","title":"독해 - 짧은 글","type":"reading","questions":[
+            {"id":"m4q1","prompt":"본문: 「ペットを連れて入る場合は、必ずひもをつけてください」 → 줄을 채우지 않으면?","choices":["벌금","입장 불가","경고","제한 없음"],"answerIndex":1,"explanation":"必ず = 반드시. 못 들어감."},
+            {"id":"m4q2","prompt":"본문: 「会議室は3階の大会議室に変わります」 → 회의실 이동 층은?","choices":["1층","2층","3층","4층"],"answerIndex":2,"explanation":"3階."},
+            {"id":"m4q3","prompt":"본문: 「お昼ご飯は会社から提供されます」 → 점심을?","choices":["각자 준비","사다 먹기","회사 제공","근처 식당"],"answerIndex":2,"explanation":"提供される = 제공된다."},
+            {"id":"m4q4","prompt":"본문: 「カードは無料でお作りいただけます」 → 카드 발급비는?","choices":["100엔","500엔","무료","연 1000엔"],"answerIndex":2,"explanation":"無料 = 무료."},
+            {"id":"m4q5","prompt":"본문: 「返却期限を過ぎると、1日につき10円の延滞料」 → 5일 늦으면 연체료?","choices":["10엔","30엔","50엔","100엔"],"answerIndex":2,"explanation":"10엔 × 5 = 50엔."}
+          ]
+        },
+        {
+          "id":"s2","title":"독해 - 글 흐름","type":"reading","questions":[
+            {"id":"m4q6","prompt":"「桜は短い期間しか咲かないが、その美しさは多くの人を魅了する」 → 필자의 의도는?","choices":["벚꽃은 별로다","짧지만 매력적이다","오래 핀다","피지 않는다"],"answerIndex":1,"explanation":"역접 후 긍정 — 짧아도 아름답다."},
+            {"id":"m4q7","prompt":"「最近は外国でも日本のラーメンが人気で、世界中にお店が増えています」 → 필자의 관점은?","choices":["일본 라멘은 일본에만","해외 라멘이 더 좋다","일본 라멘은 세계화되고 있다","라멘 인기는 줄고 있다"],"answerIndex":2,"explanation":"世界中に増えている."},
+            {"id":"m4q8","prompt":"「最初は慣れなくて大変だったけど、最近は少し楽になってきたよ」 → 현재 상태는?","choices":["여전히 힘들다","점점 좋아지고 있다","완전히 적응","불만"],"answerIndex":1,"explanation":"楽になってきた = 편해지고 있다."}
+          ]
+        },
+        {
+          "id":"s3","title":"언어지식","type":"vocabulary","questions":[
+            {"id":"m4q9","prompt":"「___ を解決する」 빈칸은?","choices":["問題","原因","結果","意味"],"answerIndex":0,"explanation":"問題を解決する = 문제를 해결하다."},
+            {"id":"m4q10","prompt":"「履歴書を送って ___ 」 면접의 다음은?","choices":["面接","発表","卒業","合格"],"answerIndex":0,"explanation":"이력서 → 면접."}
+          ]
+        }
+      ]
+    },
+    {
+      "id":"mock5",
+      "title":"모의고사 5회 — 종합",
+      "duration":40,
+      "sections":[
+        {
+          "id":"s1","title":"어휘","type":"vocabulary","questions":[
+            {"id":"m5q1","prompt":"「___ ながら音楽を聞く」 운전?","choices":["運転し","食べ","歩き","寝"],"answerIndex":0,"explanation":"運転しながら音楽を聞く."},
+            {"id":"m5q2","prompt":"「彼女はゲームに ___ だ」","choices":["夢中","熱","親切","残念"],"answerIndex":0,"explanation":"夢中だ = 열중하다."},
+            {"id":"m5q3","prompt":"「お土産を ___ 」 사다?","choices":["買う","売る","作る","届ける"],"answerIndex":0,"explanation":"買う = 사다."},
+            {"id":"m5q4","prompt":"「___ をつけて、ペットを連れる」","choices":["ひも","かばん","切符","眼鏡"],"answerIndex":0,"explanation":"ひも = 줄."}
+          ]
+        },
+        {
+          "id":"s2","title":"문법","type":"grammar","questions":[
+            {"id":"m5q5","prompt":"「お先に失礼 ___ 」 겸양?","choices":["される","します","致します","なる"],"answerIndex":2,"explanation":"致します = 겸양어."},
+            {"id":"m5q6","prompt":"「私こそ お礼を 言わなければ ___ 」","choices":["なくてもいい","ならない","なる","する"],"answerIndex":1,"explanation":"なければならない = 의무."},
+            {"id":"m5q7","prompt":"「明日 試験 ___ 緊張する」 시간적 근접?","choices":["の前に","の後に","のたびに","のせいで"],"answerIndex":0,"explanation":"の前に = 전에."},
+            {"id":"m5q8","prompt":"「歌っ ___ 踊っ ___ した」 열거?","choices":["て、て","たり、たり","ても、ても","ば、ば"],"answerIndex":1,"explanation":"～たり～たり = 열거."}
+          ]
+        },
+        {
+          "id":"s3","title":"독해","type":"reading","questions":[
+            {"id":"m5q9","prompt":"본문: 「同僚もみんな親切で、毎日が楽しいです」 → 화자의 직장 분위기는?","choices":["나쁘다","좋다","평범","무관심"],"answerIndex":1,"explanation":"親切·楽しい."},
+            {"id":"m5q10","prompt":"「日本のラーメンは地域によって味が違う」 → 「~によって」 의 의미는?","choices":["~덕분에","~따라","~때문에","~대신"],"answerIndex":1,"explanation":"によって = 따라(차이)."},
+            {"id":"m5q11","prompt":"본문: 「研修当日は普段着で構いません」 → 복장은?","choices":["반드시 정장","평상복도 됨","유니폼","규정 없음"],"answerIndex":1,"explanation":"普段着で構わない = 평상복으로 OK."}
+          ]
+        },
+        {
+          "id":"s4","title":"청해","type":"listening","questions":[
+            {"id":"m5q12","prompt":"「機材到着の遅れにより、出発時刻が30分遅れる」 → 원인은?","choices":["날씨","기체 도착 지연","승객 지각","수속 문제"],"answerIndex":1,"explanation":"機材到着の遅れ."},
+            {"id":"m5q13","prompt":"「出発は午後4時です。それまでに必ずバスにお戻りください」 → 4시까지 어디로?","choices":["호텔","절","버스","역"],"answerIndex":2,"explanation":"バスにお戻りください."},
+            {"id":"m5q14","prompt":"「鉛筆と消しゴムは持ってきてください」 → 가져갈 것?","choices":["사전","연필과 지우개","계산기","교과서"],"answerIndex":1,"explanation":"鉛筆と消しゴム."},
+            {"id":"m5q15","prompt":"「卵がだめなんです」 의 의미는?","choices":["계란은 안 먹는다","계란이 좋다","계란을 좋아한다","계란이 필요하다"],"answerIndex":0,"explanation":"だめ = 안 됨."}
           ]
         }
       ]

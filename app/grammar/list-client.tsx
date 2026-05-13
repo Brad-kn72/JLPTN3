@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import type { GrammarItem } from "@/lib/types";
 import { Search } from "lucide-react";
 
-const CATEGORIES = ["전체", "추측", "원인이유", "역접양보", "변화", "수동사역", "조건", "시간", "기타"] as const;
+const CATEGORIES = ["전체", "추측", "원인이유", "역접양보", "변화", "수동사역", "조건", "시간", "경어", "의지희망", "비교", "명령금지", "강조", "예시열거", "기타"] as const;
 
 export function GrammarListClient({ items }: { items: GrammarItem[] }) {
   const [q, setQ] = useState("");

@@ -36,7 +36,7 @@ export interface GrammarItem {
   explanation: string;   // 한국어 해설
   examples: { jp: string; reading?: string; ko: string }[];
   similar?: string[];    // 유사 문형 id
-  category: "추측" | "원인이유" | "역접양보" | "변화" | "수동사역" | "조건" | "시간" | "기타";
+  category: "추측" | "원인이유" | "역접양보" | "변화" | "수동사역" | "조건" | "시간" | "경어" | "의지희망" | "비교" | "명령금지" | "강조" | "예시열거" | "기타";
 }
 
 export type JlptLevel = "N5" | "N4" | "N3";
