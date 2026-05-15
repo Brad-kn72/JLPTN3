@@ -7,6 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Progress } from "@/components/ui/progress";
 import { cn, shuffle } from "@/lib/utils";
 import { speakJa } from "@/lib/speak";
+import { KANA_EXAMPLES } from "@/lib/kana-examples";
 import { Volume2, RotateCw, Check, X } from "lucide-react";
 
 type KanaCell = { k: string; r: string; ko: string };
@@ -93,11 +94,14 @@ function KanaSection({
   return (
     <Card>
       <CardHeader>
-        <CardTitle className="text-base">{title}</CardTitle>
+        <CardTitle className="text-base md:text-lg">{title}</CardTitle>
       </CardHeader>
       <CardContent>
         <div
-          className={cn("grid gap-1.5", cols === 3 ? "grid-cols-3" : "grid-cols-5")}
+          className={cn(
+            "grid gap-2 md:gap-3",
+            cols === 3 ? "grid-cols-2 sm:grid-cols-3" : "grid-cols-3 sm:grid-cols-5"
+          )}
         >
           {rows.flat().map((c, i) => (
             <KanaCellTile key={`${title}-${i}`} cell={c} />
@@ -110,18 +114,62 @@ function KanaSection({
 
 function KanaCellTile({ cell }: { cell: KanaCell }) {
   if (!cell.k) {
-    return <div className="aspect-square rounded-lg bg-muted/30" />;
+    return <div className="rounded-lg bg-muted/20 min-h-[120px]" />;
   }
+  const example = KANA_EXAMPLES[cell.k];
+
+  function playKana(e: React.MouseEvent) {
+    e.preventDefault();
+    e.stopPropagation();
+    speakJa(cell.k, { rate: 0.85 });
+  }
+  function playExample(e: React.MouseEvent) {
+    e.preventDefault();
+    e.stopPropagation();
+    if (example) speakJa(example.word, { rate: 0.9 });
+  }
+
   return (
     <button
       type="button"
-      onClick={() => speakJa(cell.k, { rate: 0.85 })}
-      className="group aspect-square rounded-lg border border-border bg-card flex flex-col items-center justify-center transition-all hover:border-primary hover:bg-primary/5 hover:-translate-y-0.5"
-      title={`${cell.r} (${cell.ko})`}
+      onClick={playKana}
+      className="group relative rounded-xl border-2 border-border bg-card hover:border-primary hover:bg-primary/5 active:bg-primary/10 transition-all p-3 md:p-4 flex flex-col items-center text-center touch-manipulation min-h-[140px] md:min-h-[170px] select-none"
+      title={`${cell.r} (${cell.ko}) — 탭하면 발음 재생`}
+      aria-label={`${cell.k} ${cell.r} 발음 듣기`}
     >
-      <div className="text-2xl md:text-3xl jp font-bold leading-none">{cell.k}</div>
-      <div className="mt-1 text-[10px] text-muted-foreground">{cell.r}</div>
-      <Volume2 className="h-2.5 w-2.5 mt-0.5 text-primary opacity-0 group-hover:opacity-100" />
+      {/* 큰 가나 글자 */}
+      <div className="text-5xl md:text-7xl jp font-bold leading-none mt-1">
+        {cell.k}
+      </div>
+
+      {/* 로마자 + 한국어 발음 */}
+      <div className="mt-2 flex items-center gap-1.5 text-xs md:text-sm">
+        <span className="font-mono font-semibold text-primary">{cell.r}</span>
+        <span className="text-muted-foreground">·</span>
+        <span className="text-foreground/80 font-medium">{cell.ko}</span>
+      </div>
+
+      {/* 예시 단어 (탭하면 별도 발음) */}
+      {example && (
+        <div
+          role="button"
+          tabIndex={0}
+          onClick={playExample}
+          onKeyDown={(e) => { if (e.key === "Enter" || e.key === " ") playExample(e as any); }}
+          className="mt-2 md:mt-3 w-full px-2 py-1.5 rounded-md bg-secondary/60 dark:bg-secondary/40 hover:bg-secondary active:bg-secondary cursor-pointer transition-colors"
+          aria-label={`예시 단어 ${example.word} 발음 듣기`}
+        >
+          <div className="text-xs md:text-sm jp font-semibold truncate">
+            {example.word}
+          </div>
+          <div className="text-[10px] md:text-xs text-muted-foreground truncate mt-0.5">
+            {example.meaning}
+          </div>
+        </div>
+      )}
+
+      {/* 발음 아이콘 - 탭 가능 영역임을 시각적으로 알림 */}
+      <Volume2 className="absolute top-2 right-2 h-3.5 w-3.5 md:h-4 md:w-4 text-primary/40 group-hover:text-primary transition-colors" />
     </button>
   );
 }
