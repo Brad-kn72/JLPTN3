@@ -27,10 +27,16 @@ export function SpeakButton({
         e.stopPropagation();
         speakJa(text, { rate });
       }}
-      className={cn("text-primary hover:text-primary hover:bg-primary/10", className)}
+      className={cn(
+        "text-primary hover:text-primary hover:bg-primary/10",
+        // 모바일에서 충분한 터치 타깃 (최소 44x44)
+        size === "icon" && "h-11 w-11 md:h-10 md:w-10",
+        size === "sm" && "h-10 md:h-9 px-3 md:px-2.5",
+        className
+      )}
     >
-      <Volume2 className={size === "sm" ? "h-3.5 w-3.5" : "h-4 w-4"} />
-      {size === "sm" && <span className="ml-1 text-xs">발음</span>}
+      <Volume2 className={size === "sm" ? "h-4 w-4" : "h-5 w-5 md:h-4 md:w-4"} />
+      {size === "sm" && <span className="ml-1.5 text-sm md:text-xs">발음</span>}
     </Button>
   );
 }
