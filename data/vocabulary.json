@@ -2909,6 +2909,228 @@
         "v2965",
         "v2966"
       ]
+    },
+    {
+      "id": "foundation-numbers-extended",
+      "title": "기초 숫자 확장",
+      "description": "0~100, 큰 수, 기본 숫자 읽기 보강",
+      "emoji": "🔢",
+      "items": [
+        "v2967",
+        "v2968",
+        "v2969",
+        "v2970",
+        "v2971",
+        "v2972",
+        "v2973",
+        "v2974",
+        "v2975",
+        "v2976",
+        "v2977",
+        "v2978",
+        "v2979",
+        "v2980",
+        "v2981",
+        "v2982",
+        "v2983",
+        "v2984",
+        "v2985",
+        "v2986",
+        "v2987",
+        "v2988",
+        "v2989",
+        "v2990",
+        "v2991",
+        "v2992",
+        "v2993",
+        "v2994",
+        "v2995",
+        "v2996",
+        "v2997",
+        "v2998",
+        "v2999",
+        "v3000",
+        "v3001"
+      ]
+    },
+    {
+      "id": "foundation-time-clock",
+      "title": "기초 시각·분",
+      "description": "몇 시, 몇 분, 오전/오후, 전후 표현",
+      "emoji": "🕒",
+      "items": [
+        "v3002",
+        "v3003",
+        "v3004",
+        "v3005",
+        "v3006",
+        "v3007",
+        "v3008",
+        "v3009",
+        "v3010",
+        "v3011",
+        "v3012",
+        "v3013",
+        "v3014",
+        "v3015",
+        "v3016",
+        "v3017",
+        "v3018",
+        "v3019",
+        "v3020",
+        "v3021",
+        "v3022",
+        "v3023",
+        "v3024",
+        "v3025",
+        "v3026",
+        "v3027",
+        "v3028",
+        "v3029",
+        "v3030",
+        "v3031",
+        "v3032",
+        "v3033",
+        "v3034",
+        "v3035",
+        "v3036",
+        "v3037"
+      ]
+    },
+    {
+      "id": "foundation-calendar",
+      "title": "기초 날짜·요일·달",
+      "description": "요일, 날짜, 월, 상대 날짜 표현",
+      "emoji": "📅",
+      "items": [
+        "v3038",
+        "v3039",
+        "v3040",
+        "v3041",
+        "v3042",
+        "v3043",
+        "v3044",
+        "v3045",
+        "v3046",
+        "v3047",
+        "v3048",
+        "v3049",
+        "v3050",
+        "v3051",
+        "v3052",
+        "v3053",
+        "v3054",
+        "v3055"
+      ]
+    },
+    {
+      "id": "foundation-duration-frequency",
+      "title": "기초 기간·빈도",
+      "description": "얼마나, 몇 번, 자주/가끔/항상 표현",
+      "emoji": "⏳",
+      "items": [
+        "v3056",
+        "v3057",
+        "v3058",
+        "v3059",
+        "v3060",
+        "v3061",
+        "v3062",
+        "v3063",
+        "v3064",
+        "v3065",
+        "v3066",
+        "v3067",
+        "v3068",
+        "v3069",
+        "v3070",
+        "v3071",
+        "v3072",
+        "v3073",
+        "v3074",
+        "v3075",
+        "v3076",
+        "v3077",
+        "v3078",
+        "v3079",
+        "v3080",
+        "v3081",
+        "v3082",
+        "v3083",
+        "v3084"
+      ]
+    },
+    {
+      "id": "foundation-counters-quantity",
+      "title": "기초 수량·조수사",
+      "description": "개수, 사람 수, 장수, 권수 등 기본 세기 표현",
+      "emoji": "🧮",
+      "items": [
+        "v3085",
+        "v3086",
+        "v3087",
+        "v3088",
+        "v3089",
+        "v3090",
+        "v3091",
+        "v3092",
+        "v3093",
+        "v3094",
+        "v3095",
+        "v3096",
+        "v3097",
+        "v3098",
+        "v3099",
+        "v3100",
+        "v3101",
+        "v3102",
+        "v3103",
+        "v3104",
+        "v3105",
+        "v3106",
+        "v3107",
+        "v3108",
+        "v3109",
+        "v3110",
+        "v3111",
+        "v3112",
+        "v3113",
+        "v3114",
+        "v3115",
+        "v3116",
+        "v3117",
+        "v3118",
+        "v3119",
+        "v3120",
+        "v3121"
+      ]
+    },
+    {
+      "id": "foundation-order-sequence",
+      "title": "기초 순서·정도",
+      "description": "첫째, 다음, 마지막, 정도 표현",
+      "emoji": "➡️",
+      "items": [
+        "v3122",
+        "v3123",
+        "v3124",
+        "v3125",
+        "v3126",
+        "v3127",
+        "v3128",
+        "v3129",
+        "v3130",
+        "v3131",
+        "v3132",
+        "v3133",
+        "v3134",
+        "v3135",
+        "v3136",
+        "v3137",
+        "v3138",
+        "v3139",
+        "v3140"
+      ]
     }
   ],
   "items": [
@@ -25096,6 +25318,1572 @@
       "pos": "명사",
       "example": "これは色です。",
       "exampleTranslation": "이것은 색입니다."
+    },
+    {
+      "id": "v2967",
+      "word": "零",
+      "reading": "れい",
+      "meaning": "0, 영",
+      "pos": "명사",
+      "example": "零から始めます。",
+      "exampleTranslation": "0부터 시작합니다."
+    },
+    {
+      "id": "v2968",
+      "word": "ゼロ",
+      "reading": "ゼロ",
+      "meaning": "0, 제로",
+      "pos": "명사",
+      "example": "番号はゼロからです。",
+      "exampleTranslation": "번호는 0부터입니다."
+    },
+    {
+      "id": "v2969",
+      "word": "十一",
+      "reading": "じゅういち",
+      "meaning": "11",
+      "pos": "명사",
+      "example": "十一時です。",
+      "exampleTranslation": "11시입니다."
+    },
+    {
+      "id": "v2970",
+      "word": "十二",
+      "reading": "じゅうに",
+      "meaning": "12",
+      "pos": "명사",
+      "example": "十二月です。",
+      "exampleTranslation": "12월입니다."
+    },
+    {
+      "id": "v2971",
+      "word": "十三",
+      "reading": "じゅうさん",
+      "meaning": "13",
+      "pos": "명사",
+      "example": "十三番です。",
+      "exampleTranslation": "13번입니다."
+    },
+    {
+      "id": "v2972",
+      "word": "十四",
+      "reading": "じゅうよん",
+      "meaning": "14",
+      "pos": "명사",
+      "example": "十四日です。",
+      "exampleTranslation": "14일입니다."
+    },
+    {
+      "id": "v2973",
+      "word": "十五",
+      "reading": "じゅうご",
+      "meaning": "15",
+      "pos": "명사",
+      "example": "十五分です。",
+      "exampleTranslation": "15분입니다."
+    },
+    {
+      "id": "v2974",
+      "word": "十六",
+      "reading": "じゅうろく",
+      "meaning": "16",
+      "pos": "명사",
+      "example": "十六人います。",
+      "exampleTranslation": "16명 있습니다."
+    },
+    {
+      "id": "v2975",
+      "word": "十七",
+      "reading": "じゅうなな",
+      "meaning": "17",
+      "pos": "명사",
+      "example": "十七番です。",
+      "exampleTranslation": "17번입니다."
+    },
+    {
+      "id": "v2976",
+      "word": "十八",
+      "reading": "じゅうはち",
+      "meaning": "18",
+      "pos": "명사",
+      "example": "十八歳です。",
+      "exampleTranslation": "18살입니다."
+    },
+    {
+      "id": "v2977",
+      "word": "十九",
+      "reading": "じゅうきゅう",
+      "meaning": "19",
+      "pos": "명사",
+      "example": "十九日です。",
+      "exampleTranslation": "19일입니다."
+    },
+    {
+      "id": "v2978",
+      "word": "二十",
+      "reading": "にじゅう",
+      "meaning": "20",
+      "pos": "명사",
+      "example": "二十分かかります。",
+      "exampleTranslation": "20분 걸립니다."
+    },
+    {
+      "id": "v2979",
+      "word": "三十",
+      "reading": "さんじゅう",
+      "meaning": "30",
+      "pos": "명사",
+      "example": "三十分待ちます。",
+      "exampleTranslation": "30분 기다립니다."
+    },
+    {
+      "id": "v2980",
+      "word": "四十",
+      "reading": "よんじゅう",
+      "meaning": "40",
+      "pos": "명사",
+      "example": "四十分です。",
+      "exampleTranslation": "40분입니다."
+    },
+    {
+      "id": "v2981",
+      "word": "五十",
+      "reading": "ごじゅう",
+      "meaning": "50",
+      "pos": "명사",
+      "example": "五十円です。",
+      "exampleTranslation": "50엔입니다."
+    },
+    {
+      "id": "v2982",
+      "word": "六十",
+      "reading": "ろくじゅう",
+      "meaning": "60",
+      "pos": "명사",
+      "example": "六十分です。",
+      "exampleTranslation": "60분입니다."
+    },
+    {
+      "id": "v2983",
+      "word": "七十",
+      "reading": "ななじゅう",
+      "meaning": "70",
+      "pos": "명사",
+      "example": "七十円です。",
+      "exampleTranslation": "70엔입니다."
+    },
+    {
+      "id": "v2984",
+      "word": "八十",
+      "reading": "はちじゅう",
+      "meaning": "80",
+      "pos": "명사",
+      "example": "八十ページです。",
+      "exampleTranslation": "80페이지입니다."
+    },
+    {
+      "id": "v2985",
+      "word": "九十",
+      "reading": "きゅうじゅう",
+      "meaning": "90",
+      "pos": "명사",
+      "example": "九十分です。",
+      "exampleTranslation": "90분입니다."
+    },
+    {
+      "id": "v2986",
+      "word": "百",
+      "reading": "ひゃく",
+      "meaning": "100",
+      "pos": "명사",
+      "example": "百円です。",
+      "exampleTranslation": "100엔입니다."
+    },
+    {
+      "id": "v2987",
+      "word": "二百",
+      "reading": "にひゃく",
+      "meaning": "200",
+      "pos": "명사",
+      "example": "二百円です。",
+      "exampleTranslation": "200엔입니다."
+    },
+    {
+      "id": "v2988",
+      "word": "三百",
+      "reading": "さんびゃく",
+      "meaning": "300",
+      "pos": "명사",
+      "example": "三百円です。",
+      "exampleTranslation": "300엔입니다."
+    },
+    {
+      "id": "v2989",
+      "word": "四百",
+      "reading": "よんひゃく",
+      "meaning": "400",
+      "pos": "명사",
+      "example": "四百円です。",
+      "exampleTranslation": "400엔입니다."
+    },
+    {
+      "id": "v2990",
+      "word": "五百",
+      "reading": "ごひゃく",
+      "meaning": "500",
+      "pos": "명사",
+      "example": "五百円です。",
+      "exampleTranslation": "500엔입니다."
+    },
+    {
+      "id": "v2991",
+      "word": "六百",
+      "reading": "ろっぴゃく",
+      "meaning": "600",
+      "pos": "명사",
+      "example": "六百円です。",
+      "exampleTranslation": "600엔입니다."
+    },
+    {
+      "id": "v2992",
+      "word": "七百",
+      "reading": "ななひゃく",
+      "meaning": "700",
+      "pos": "명사",
+      "example": "七百円です。",
+      "exampleTranslation": "700엔입니다."
+    },
+    {
+      "id": "v2993",
+      "word": "八百",
+      "reading": "はっぴゃく",
+      "meaning": "800",
+      "pos": "명사",
+      "example": "八百円です。",
+      "exampleTranslation": "800엔입니다."
+    },
+    {
+      "id": "v2994",
+      "word": "九百",
+      "reading": "きゅうひゃく",
+      "meaning": "900",
+      "pos": "명사",
+      "example": "九百円です。",
+      "exampleTranslation": "900엔입니다."
+    },
+    {
+      "id": "v2995",
+      "word": "千",
+      "reading": "せん",
+      "meaning": "1000",
+      "pos": "명사",
+      "example": "千円です。",
+      "exampleTranslation": "1000엔입니다."
+    },
+    {
+      "id": "v2996",
+      "word": "一万",
+      "reading": "いちまん",
+      "meaning": "10000",
+      "pos": "명사",
+      "example": "一万円です。",
+      "exampleTranslation": "1만 엔입니다."
+    },
+    {
+      "id": "v2997",
+      "word": "何番",
+      "reading": "なんばん",
+      "meaning": "몇 번",
+      "pos": "명사",
+      "example": "何番ですか。",
+      "exampleTranslation": "몇 번입니까?"
+    },
+    {
+      "id": "v2998",
+      "word": "何人",
+      "reading": "なんにん",
+      "meaning": "몇 명",
+      "pos": "명사",
+      "example": "何人いますか。",
+      "exampleTranslation": "몇 명 있습니까?"
+    },
+    {
+      "id": "v2999",
+      "word": "何個",
+      "reading": "なんこ",
+      "meaning": "몇 개",
+      "pos": "명사",
+      "example": "何個ありますか。",
+      "exampleTranslation": "몇 개 있습니까?"
+    },
+    {
+      "id": "v3000",
+      "word": "何円",
+      "reading": "なんえん",
+      "meaning": "몇 엔",
+      "pos": "명사",
+      "example": "何円ですか。",
+      "exampleTranslation": "몇 엔입니까?"
+    },
+    {
+      "id": "v3001",
+      "word": "何歳",
+      "reading": "なんさい",
+      "meaning": "몇 살",
+      "pos": "명사",
+      "example": "何歳ですか。",
+      "exampleTranslation": "몇 살입니까?"
+    },
+    {
+      "id": "v3002",
+      "word": "一時",
+      "reading": "いちじ",
+      "meaning": "1시",
+      "pos": "명사",
+      "example": "一時に会います。",
+      "exampleTranslation": "1시에 만납니다."
+    },
+    {
+      "id": "v3003",
+      "word": "二時",
+      "reading": "にじ",
+      "meaning": "2시",
+      "pos": "명사",
+      "example": "二時からです。",
+      "exampleTranslation": "2시부터입니다."
+    },
+    {
+      "id": "v3004",
+      "word": "三時",
+      "reading": "さんじ",
+      "meaning": "3시",
+      "pos": "명사",
+      "example": "三時に始まります。",
+      "exampleTranslation": "3시에 시작합니다."
+    },
+    {
+      "id": "v3005",
+      "word": "四時",
+      "reading": "よじ",
+      "meaning": "4시",
+      "pos": "명사",
+      "example": "四時に終わります。",
+      "exampleTranslation": "4시에 끝납니다."
+    },
+    {
+      "id": "v3006",
+      "word": "五時",
+      "reading": "ごじ",
+      "meaning": "5시",
+      "pos": "명사",
+      "example": "五時までです。",
+      "exampleTranslation": "5시까지입니다."
+    },
+    {
+      "id": "v3007",
+      "word": "六時",
+      "reading": "ろくじ",
+      "meaning": "6시",
+      "pos": "명사",
+      "example": "六時に起きます。",
+      "exampleTranslation": "6시에 일어납니다."
+    },
+    {
+      "id": "v3008",
+      "word": "七時",
+      "reading": "しちじ",
+      "meaning": "7시",
+      "pos": "명사",
+      "example": "七時に出ます。",
+      "exampleTranslation": "7시에 나갑니다."
+    },
+    {
+      "id": "v3009",
+      "word": "八時",
+      "reading": "はちじ",
+      "meaning": "8시",
+      "pos": "명사",
+      "example": "八時に学校へ行きます。",
+      "exampleTranslation": "8시에 학교에 갑니다."
+    },
+    {
+      "id": "v3010",
+      "word": "九時",
+      "reading": "くじ",
+      "meaning": "9시",
+      "pos": "명사",
+      "example": "九時から働きます。",
+      "exampleTranslation": "9시부터 일합니다."
+    },
+    {
+      "id": "v3011",
+      "word": "十時",
+      "reading": "じゅうじ",
+      "meaning": "10시",
+      "pos": "명사",
+      "example": "十時に寝ます。",
+      "exampleTranslation": "10시에 잡니다."
+    },
+    {
+      "id": "v3012",
+      "word": "十一時",
+      "reading": "じゅういちじ",
+      "meaning": "11시",
+      "pos": "명사",
+      "example": "十一時まで勉強します。",
+      "exampleTranslation": "11시까지 공부합니다."
+    },
+    {
+      "id": "v3013",
+      "word": "十二時",
+      "reading": "じゅうにじ",
+      "meaning": "12시",
+      "pos": "명사",
+      "example": "十二時に昼ご飯を食べます。",
+      "exampleTranslation": "12시에 점심을 먹습니다."
+    },
+    {
+      "id": "v3014",
+      "word": "正午",
+      "reading": "しょうご",
+      "meaning": "정오",
+      "pos": "명사",
+      "example": "正午に会います。",
+      "exampleTranslation": "정오에 만납니다."
+    },
+    {
+      "id": "v3015",
+      "word": "深夜",
+      "reading": "しんや",
+      "meaning": "심야",
+      "pos": "명사",
+      "example": "深夜に帰りました。",
+      "exampleTranslation": "심야에 돌아왔습니다."
+    },
+    {
+      "id": "v3016",
+      "word": "半",
+      "reading": "はん",
+      "meaning": "반, 30분",
+      "pos": "명사",
+      "example": "七時半です。",
+      "exampleTranslation": "7시 반입니다."
+    },
+    {
+      "id": "v3017",
+      "word": "一分",
+      "reading": "いっぷん",
+      "meaning": "1분",
+      "pos": "명사",
+      "example": "一分待ってください。",
+      "exampleTranslation": "1분 기다려 주세요."
+    },
+    {
+      "id": "v3018",
+      "word": "二分",
+      "reading": "にふん",
+      "meaning": "2분",
+      "pos": "명사",
+      "example": "二分かかります。",
+      "exampleTranslation": "2분 걸립니다."
+    },
+    {
+      "id": "v3019",
+      "word": "三分",
+      "reading": "さんぷん",
+      "meaning": "3분",
+      "pos": "명사",
+      "example": "三分待ちます。",
+      "exampleTranslation": "3분 기다립니다."
+    },
+    {
+      "id": "v3020",
+      "word": "四分",
+      "reading": "よんぷん",
+      "meaning": "4분",
+      "pos": "명사",
+      "example": "四分です。",
+      "exampleTranslation": "4분입니다."
+    },
+    {
+      "id": "v3021",
+      "word": "五分",
+      "reading": "ごふん",
+      "meaning": "5분",
+      "pos": "명사",
+      "example": "五分後に来ます。",
+      "exampleTranslation": "5분 뒤에 옵니다."
+    },
+    {
+      "id": "v3022",
+      "word": "六分",
+      "reading": "ろっぷん",
+      "meaning": "6분",
+      "pos": "명사",
+      "example": "六分かかります。",
+      "exampleTranslation": "6분 걸립니다."
+    },
+    {
+      "id": "v3023",
+      "word": "七分",
+      "reading": "ななふん",
+      "meaning": "7분",
+      "pos": "명사",
+      "example": "七分待ちました。",
+      "exampleTranslation": "7분 기다렸습니다."
+    },
+    {
+      "id": "v3024",
+      "word": "八分",
+      "reading": "はっぷん",
+      "meaning": "8분",
+      "pos": "명사",
+      "example": "八分です。",
+      "exampleTranslation": "8분입니다."
+    },
+    {
+      "id": "v3025",
+      "word": "九分",
+      "reading": "きゅうふん",
+      "meaning": "9분",
+      "pos": "명사",
+      "example": "九分かかります。",
+      "exampleTranslation": "9분 걸립니다."
+    },
+    {
+      "id": "v3026",
+      "word": "十分",
+      "reading": "じゅっぷん",
+      "meaning": "10분",
+      "pos": "명사",
+      "example": "十分待ってください。",
+      "exampleTranslation": "10분 기다려 주세요."
+    },
+    {
+      "id": "v3027",
+      "word": "十五分",
+      "reading": "じゅうごふん",
+      "meaning": "15분",
+      "pos": "명사",
+      "example": "十五分後です。",
+      "exampleTranslation": "15분 후입니다."
+    },
+    {
+      "id": "v3028",
+      "word": "三十分",
+      "reading": "さんじゅっぷん",
+      "meaning": "30분",
+      "pos": "명사",
+      "example": "三十分かかります。",
+      "exampleTranslation": "30분 걸립니다."
+    },
+    {
+      "id": "v3029",
+      "word": "四十五分",
+      "reading": "よんじゅうごふん",
+      "meaning": "45분",
+      "pos": "명사",
+      "example": "四十五分です。",
+      "exampleTranslation": "45분입니다."
+    },
+    {
+      "id": "v3030",
+      "word": "何時",
+      "reading": "なんじ",
+      "meaning": "몇 시",
+      "pos": "명사",
+      "example": "今、何時ですか。",
+      "exampleTranslation": "지금 몇 시입니까?"
+    },
+    {
+      "id": "v3031",
+      "word": "何分",
+      "reading": "なんぷん",
+      "meaning": "몇 분",
+      "pos": "명사",
+      "example": "何分かかりますか。",
+      "exampleTranslation": "몇 분 걸립니까?"
+    },
+    {
+      "id": "v3032",
+      "word": "今夜",
+      "reading": "こんや",
+      "meaning": "오늘 밤",
+      "pos": "명사",
+      "example": "今夜は勉強します。",
+      "exampleTranslation": "오늘 밤은 공부합니다."
+    },
+    {
+      "id": "v3033",
+      "word": "夜中",
+      "reading": "よなか",
+      "meaning": "한밤중",
+      "pos": "명사",
+      "example": "夜中に起きました。",
+      "exampleTranslation": "한밤중에 일어났습니다."
+    },
+    {
+      "id": "v3034",
+      "word": "前",
+      "reading": "まえ",
+      "meaning": "전, 앞",
+      "pos": "명사",
+      "example": "十時前に来てください。",
+      "exampleTranslation": "10시 전에 와 주세요."
+    },
+    {
+      "id": "v3035",
+      "word": "後",
+      "reading": "あと",
+      "meaning": "후, 뒤",
+      "pos": "명사",
+      "example": "五分後に始まります。",
+      "exampleTranslation": "5분 후에 시작합니다."
+    },
+    {
+      "id": "v3036",
+      "word": "頃",
+      "reading": "ごろ",
+      "meaning": "~쯤",
+      "pos": "접미사",
+      "example": "三時ごろに行きます。",
+      "exampleTranslation": "3시쯤에 갑니다."
+    },
+    {
+      "id": "v3037",
+      "word": "ちょうど",
+      "reading": "ちょうど",
+      "meaning": "정확히, 딱",
+      "pos": "부사",
+      "example": "ちょうど三時です。",
+      "exampleTranslation": "딱 3시입니다."
+    },
+    {
+      "id": "v3038",
+      "word": "平日",
+      "reading": "へいじつ",
+      "meaning": "평일",
+      "pos": "명사",
+      "example": "平日は仕事です。",
+      "exampleTranslation": "평일은 일합니다."
+    },
+    {
+      "id": "v3039",
+      "word": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "공휴일",
+      "pos": "명사",
+      "example": "明日は祝日です。",
+      "exampleTranslation": "내일은 공휴일입니다."
+    },
+    {
+      "id": "v3040",
+      "word": "一日",
+      "reading": "ついたち",
+      "meaning": "1일",
+      "pos": "명사",
+      "example": "一日に始まります。",
+      "exampleTranslation": "1일에 시작합니다."
+    },
+    {
+      "id": "v3041",
+      "word": "二日",
+      "reading": "ふつか",
+      "meaning": "2일/이틀",
+      "pos": "명사",
+      "example": "二日に行きます。",
+      "exampleTranslation": "2일에 갑니다."
+    },
+    {
+      "id": "v3042",
+      "word": "三日",
+      "reading": "みっか",
+      "meaning": "3일/사흘",
+      "pos": "명사",
+      "example": "三日かかります。",
+      "exampleTranslation": "3일 걸립니다."
+    },
+    {
+      "id": "v3043",
+      "word": "四日",
+      "reading": "よっか",
+      "meaning": "4일",
+      "pos": "명사",
+      "example": "四日に会います。",
+      "exampleTranslation": "4일에 만납니다."
+    },
+    {
+      "id": "v3044",
+      "word": "五日",
+      "reading": "いつか",
+      "meaning": "5일",
+      "pos": "명사",
+      "example": "五日までです。",
+      "exampleTranslation": "5일까지입니다."
+    },
+    {
+      "id": "v3045",
+      "word": "六日",
+      "reading": "むいか",
+      "meaning": "6일",
+      "pos": "명사",
+      "example": "六日に出発します。",
+      "exampleTranslation": "6일에 출발합니다."
+    },
+    {
+      "id": "v3046",
+      "word": "七日",
+      "reading": "なのか",
+      "meaning": "7일",
+      "pos": "명사",
+      "example": "七日に帰ります。",
+      "exampleTranslation": "7일에 돌아옵니다."
+    },
+    {
+      "id": "v3047",
+      "word": "八日",
+      "reading": "ようか",
+      "meaning": "8일",
+      "pos": "명사",
+      "example": "八日に来ます。",
+      "exampleTranslation": "8일에 옵니다."
+    },
+    {
+      "id": "v3048",
+      "word": "九日",
+      "reading": "ここのか",
+      "meaning": "9일",
+      "pos": "명사",
+      "example": "九日です。",
+      "exampleTranslation": "9일입니다."
+    },
+    {
+      "id": "v3049",
+      "word": "十日",
+      "reading": "とおか",
+      "meaning": "10일",
+      "pos": "명사",
+      "example": "十日に試験があります。",
+      "exampleTranslation": "10일에 시험이 있습니다."
+    },
+    {
+      "id": "v3050",
+      "word": "十四日",
+      "reading": "じゅうよっか",
+      "meaning": "14일",
+      "pos": "명사",
+      "example": "十四日に会います。",
+      "exampleTranslation": "14일에 만납니다."
+    },
+    {
+      "id": "v3051",
+      "word": "二十日",
+      "reading": "はつか",
+      "meaning": "20일",
+      "pos": "명사",
+      "example": "二十日までです。",
+      "exampleTranslation": "20일까지입니다."
+    },
+    {
+      "id": "v3052",
+      "word": "今年",
+      "reading": "ことし",
+      "meaning": "올해",
+      "pos": "명사",
+      "example": "今年、試験を受けます。",
+      "exampleTranslation": "올해 시험을 봅니다."
+    },
+    {
+      "id": "v3053",
+      "word": "去年",
+      "reading": "きょねん",
+      "meaning": "작년",
+      "pos": "명사",
+      "example": "去年、日本へ行きました。",
+      "exampleTranslation": "작년에 일본에 갔습니다."
+    },
+    {
+      "id": "v3054",
+      "word": "来年",
+      "reading": "らいねん",
+      "meaning": "내년",
+      "pos": "명사",
+      "example": "来年、引っ越します。",
+      "exampleTranslation": "내년에 이사합니다."
+    },
+    {
+      "id": "v3055",
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "매주",
+      "pos": "명사",
+      "example": "毎週、勉強します。",
+      "exampleTranslation": "매주 공부합니다."
+    },
+    {
+      "id": "v3056",
+      "word": "一回",
+      "reading": "いっかい",
+      "meaning": "1회",
+      "pos": "명사",
+      "example": "一回だけ見ました。",
+      "exampleTranslation": "한 번만 봤습니다."
+    },
+    {
+      "id": "v3057",
+      "word": "二回",
+      "reading": "にかい",
+      "meaning": "2회",
+      "pos": "명사",
+      "example": "二回行きました。",
+      "exampleTranslation": "두 번 갔습니다."
+    },
+    {
+      "id": "v3058",
+      "word": "三回",
+      "reading": "さんかい",
+      "meaning": "3회",
+      "pos": "명사",
+      "example": "三回読みます。",
+      "exampleTranslation": "세 번 읽습니다."
+    },
+    {
+      "id": "v3059",
+      "word": "何回",
+      "reading": "なんかい",
+      "meaning": "몇 회",
+      "pos": "명사",
+      "example": "何回行きましたか。",
+      "exampleTranslation": "몇 번 갔습니까?"
+    },
+    {
+      "id": "v3060",
+      "word": "一度",
+      "reading": "いちど",
+      "meaning": "한 번",
+      "pos": "명사",
+      "example": "一度、見てください。",
+      "exampleTranslation": "한 번 봐 주세요."
+    },
+    {
+      "id": "v3061",
+      "word": "もう一度",
+      "reading": "もういちど",
+      "meaning": "한 번 더",
+      "pos": "표현",
+      "example": "もう一度お願いします。",
+      "exampleTranslation": "한 번 더 부탁합니다."
+    },
+    {
+      "id": "v3062",
+      "word": "毎回",
+      "reading": "まいかい",
+      "meaning": "매번",
+      "pos": "명사/부사",
+      "example": "毎回、同じです。",
+      "exampleTranslation": "매번 같습니다."
+    },
+    {
+      "id": "v3063",
+      "word": "今回",
+      "reading": "こんかい",
+      "meaning": "이번",
+      "pos": "명사",
+      "example": "今回は大丈夫です。",
+      "exampleTranslation": "이번은 괜찮습니다."
+    },
+    {
+      "id": "v3064",
+      "word": "前回",
+      "reading": "ぜんかい",
+      "meaning": "지난번",
+      "pos": "명사",
+      "example": "前回は難しかったです。",
+      "exampleTranslation": "지난번은 어려웠습니다."
+    },
+    {
+      "id": "v3065",
+      "word": "次回",
+      "reading": "じかい",
+      "meaning": "다음번",
+      "pos": "명사",
+      "example": "次回、説明します。",
+      "exampleTranslation": "다음번에 설명합니다."
+    },
+    {
+      "id": "v3066",
+      "word": "一時間",
+      "reading": "いちじかん",
+      "meaning": "1시간",
+      "pos": "명사",
+      "example": "一時間かかります。",
+      "exampleTranslation": "1시간 걸립니다."
+    },
+    {
+      "id": "v3067",
+      "word": "二時間",
+      "reading": "にじかん",
+      "meaning": "2시간",
+      "pos": "명사",
+      "example": "二時間勉強します。",
+      "exampleTranslation": "2시간 공부합니다."
+    },
+    {
+      "id": "v3068",
+      "word": "三時間",
+      "reading": "さんじかん",
+      "meaning": "3시간",
+      "pos": "명사",
+      "example": "三時間待ちました。",
+      "exampleTranslation": "3시간 기다렸습니다."
+    },
+    {
+      "id": "v3069",
+      "word": "半時間",
+      "reading": "はんじかん",
+      "meaning": "30분, 반시간",
+      "pos": "명사",
+      "example": "半時間休みます。",
+      "exampleTranslation": "30분 쉽니다."
+    },
+    {
+      "id": "v3070",
+      "word": "一日中",
+      "reading": "いちにちじゅう",
+      "meaning": "하루 종일",
+      "pos": "명사/부사",
+      "example": "一日中、家にいました。",
+      "exampleTranslation": "하루 종일 집에 있었습니다."
+    },
+    {
+      "id": "v3071",
+      "word": "一週間",
+      "reading": "いっしゅうかん",
+      "meaning": "1주일",
+      "pos": "명사",
+      "example": "一週間休みます。",
+      "exampleTranslation": "1주일 쉽니다."
+    },
+    {
+      "id": "v3072",
+      "word": "二週間",
+      "reading": "にしゅうかん",
+      "meaning": "2주일",
+      "pos": "명사",
+      "example": "二週間かかります。",
+      "exampleTranslation": "2주일 걸립니다."
+    },
+    {
+      "id": "v3073",
+      "word": "一か月",
+      "reading": "いっかげつ",
+      "meaning": "1개월",
+      "pos": "명사",
+      "example": "一か月勉強しました。",
+      "exampleTranslation": "1개월 공부했습니다."
+    },
+    {
+      "id": "v3074",
+      "word": "二か月",
+      "reading": "にかげつ",
+      "meaning": "2개월",
+      "pos": "명사",
+      "example": "二か月待ちます。",
+      "exampleTranslation": "2개월 기다립니다."
+    },
+    {
+      "id": "v3075",
+      "word": "半年",
+      "reading": "はんとし",
+      "meaning": "반년",
+      "pos": "명사",
+      "example": "半年かかりました。",
+      "exampleTranslation": "반년 걸렸습니다."
+    },
+    {
+      "id": "v3076",
+      "word": "一年",
+      "reading": "いちねん",
+      "meaning": "1년",
+      "pos": "명사",
+      "example": "一年住みました。",
+      "exampleTranslation": "1년 살았습니다."
+    },
+    {
+      "id": "v3077",
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "매일 아침",
+      "pos": "명사/부사",
+      "example": "毎朝、走ります。",
+      "exampleTranslation": "매일 아침 달립니다."
+    },
+    {
+      "id": "v3078",
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meaning": "매일 밤",
+      "pos": "명사/부사",
+      "example": "毎晩、勉強します。",
+      "exampleTranslation": "매일 밤 공부합니다."
+    },
+    {
+      "id": "v3079",
+      "word": "毎年",
+      "reading": "まいとし",
+      "meaning": "매년",
+      "pos": "명사/부사",
+      "example": "毎年、旅行します。",
+      "exampleTranslation": "매년 여행합니다."
+    },
+    {
+      "id": "v3080",
+      "word": "たまに",
+      "reading": "たまに",
+      "meaning": "이따금",
+      "pos": "부사",
+      "example": "たまに外で食べます。",
+      "exampleTranslation": "이따금 밖에서 먹습니다."
+    },
+    {
+      "id": "v3081",
+      "word": "ずっと",
+      "reading": "ずっと",
+      "meaning": "계속",
+      "pos": "부사",
+      "example": "ずっと待っていました。",
+      "exampleTranslation": "계속 기다리고 있었습니다."
+    },
+    {
+      "id": "v3082",
+      "word": "さっき",
+      "reading": "さっき",
+      "meaning": "아까",
+      "pos": "부사",
+      "example": "さっき電話しました。",
+      "exampleTranslation": "아까 전화했습니다."
+    },
+    {
+      "id": "v3083",
+      "word": "これから",
+      "reading": "これから",
+      "meaning": "이제부터",
+      "pos": "부사",
+      "example": "これから勉強します。",
+      "exampleTranslation": "이제부터 공부합니다."
+    },
+    {
+      "id": "v3084",
+      "word": "もうすぐ",
+      "reading": "もうすぐ",
+      "meaning": "곧",
+      "pos": "부사",
+      "example": "もうすぐ始まります。",
+      "exampleTranslation": "곧 시작합니다."
+    },
+    {
+      "id": "v3085",
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meaning": "하나",
+      "pos": "명사",
+      "example": "一つください。",
+      "exampleTranslation": "하나 주세요."
+    },
+    {
+      "id": "v3086",
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meaning": "둘",
+      "pos": "명사",
+      "example": "二つあります。",
+      "exampleTranslation": "두 개 있습니다."
+    },
+    {
+      "id": "v3087",
+      "word": "三つ",
+      "reading": "みっつ",
+      "meaning": "셋",
+      "pos": "명사",
+      "example": "三つ買いました。",
+      "exampleTranslation": "세 개 샀습니다."
+    },
+    {
+      "id": "v3088",
+      "word": "四つ",
+      "reading": "よっつ",
+      "meaning": "넷",
+      "pos": "명사",
+      "example": "四つ必要です。",
+      "exampleTranslation": "네 개 필요합니다."
+    },
+    {
+      "id": "v3089",
+      "word": "五つ",
+      "reading": "いつつ",
+      "meaning": "다섯",
+      "pos": "명사",
+      "example": "五つ入っています。",
+      "exampleTranslation": "다섯 개 들어 있습니다."
+    },
+    {
+      "id": "v3090",
+      "word": "六つ",
+      "reading": "むっつ",
+      "meaning": "여섯",
+      "pos": "명사",
+      "example": "六つあります。",
+      "exampleTranslation": "여섯 개 있습니다."
+    },
+    {
+      "id": "v3091",
+      "word": "七つ",
+      "reading": "ななつ",
+      "meaning": "일곱",
+      "pos": "명사",
+      "example": "七つ選びます。",
+      "exampleTranslation": "일곱 개 고릅니다."
+    },
+    {
+      "id": "v3092",
+      "word": "八つ",
+      "reading": "やっつ",
+      "meaning": "여덟",
+      "pos": "명사",
+      "example": "八つください。",
+      "exampleTranslation": "여덟 개 주세요."
+    },
+    {
+      "id": "v3093",
+      "word": "九つ",
+      "reading": "ここのつ",
+      "meaning": "아홉",
+      "pos": "명사",
+      "example": "九つ見ました。",
+      "exampleTranslation": "아홉 개 봤습니다."
+    },
+    {
+      "id": "v3094",
+      "word": "一人",
+      "reading": "ひとり",
+      "meaning": "한 명",
+      "pos": "명사",
+      "example": "一人で行きます。",
+      "exampleTranslation": "혼자 갑니다."
+    },
+    {
+      "id": "v3095",
+      "word": "二人",
+      "reading": "ふたり",
+      "meaning": "두 명",
+      "pos": "명사",
+      "example": "二人で食べます。",
+      "exampleTranslation": "둘이서 먹습니다."
+    },
+    {
+      "id": "v3096",
+      "word": "三人",
+      "reading": "さんにん",
+      "meaning": "세 명",
+      "pos": "명사",
+      "example": "三人います。",
+      "exampleTranslation": "세 명 있습니다."
+    },
+    {
+      "id": "v3097",
+      "word": "四人",
+      "reading": "よにん",
+      "meaning": "네 명",
+      "pos": "명사",
+      "example": "四人で予約しました。",
+      "exampleTranslation": "네 명으로 예약했습니다."
+    },
+    {
+      "id": "v3098",
+      "word": "五人",
+      "reading": "ごにん",
+      "meaning": "다섯 명",
+      "pos": "명사",
+      "example": "五人来ます。",
+      "exampleTranslation": "다섯 명 옵니다."
+    },
+    {
+      "id": "v3099",
+      "word": "一枚",
+      "reading": "いちまい",
+      "meaning": "한 장",
+      "pos": "명사",
+      "example": "紙を一枚ください。",
+      "exampleTranslation": "종이 한 장 주세요."
+    },
+    {
+      "id": "v3100",
+      "word": "二枚",
+      "reading": "にまい",
+      "meaning": "두 장",
+      "pos": "명사",
+      "example": "切符を二枚ください。",
+      "exampleTranslation": "표 두 장 주세요."
+    },
+    {
+      "id": "v3101",
+      "word": "三枚",
+      "reading": "さんまい",
+      "meaning": "세 장",
+      "pos": "명사",
+      "example": "写真を三枚撮りました。",
+      "exampleTranslation": "사진을 세 장 찍었습니다."
+    },
+    {
+      "id": "v3102",
+      "word": "一冊",
+      "reading": "いっさつ",
+      "meaning": "한 권",
+      "pos": "명사",
+      "example": "本を一冊買いました。",
+      "exampleTranslation": "책 한 권을 샀습니다."
+    },
+    {
+      "id": "v3103",
+      "word": "二冊",
+      "reading": "にさつ",
+      "meaning": "두 권",
+      "pos": "명사",
+      "example": "辞書が二冊あります。",
+      "exampleTranslation": "사전이 두 권 있습니다."
+    },
+    {
+      "id": "v3104",
+      "word": "三冊",
+      "reading": "さんさつ",
+      "meaning": "세 권",
+      "pos": "명사",
+      "example": "ノートを三冊使います。",
+      "exampleTranslation": "공책 세 권을 씁니다."
+    },
+    {
+      "id": "v3105",
+      "word": "一台",
+      "reading": "いちだい",
+      "meaning": "한 대",
+      "pos": "명사",
+      "example": "車が一台あります。",
+      "exampleTranslation": "차가 한 대 있습니다."
+    },
+    {
+      "id": "v3106",
+      "word": "二台",
+      "reading": "にだい",
+      "meaning": "두 대",
+      "pos": "명사",
+      "example": "パソコンが二台あります。",
+      "exampleTranslation": "컴퓨터가 두 대 있습니다."
+    },
+    {
+      "id": "v3107",
+      "word": "一本",
+      "reading": "いっぽん",
+      "meaning": "한 병/한 자루/한 개 긴 물건",
+      "pos": "명사",
+      "example": "ペンを一本ください。",
+      "exampleTranslation": "펜 한 자루 주세요."
+    },
+    {
+      "id": "v3108",
+      "word": "二本",
+      "reading": "にほん",
+      "meaning": "두 병/두 자루",
+      "pos": "명사",
+      "example": "水を二本買いました。",
+      "exampleTranslation": "물 두 병을 샀습니다."
+    },
+    {
+      "id": "v3109",
+      "word": "三本",
+      "reading": "さんぼん",
+      "meaning": "세 병/세 자루",
+      "pos": "명사",
+      "example": "傘が三本あります。",
+      "exampleTranslation": "우산이 세 개 있습니다."
+    },
+    {
+      "id": "v3110",
+      "word": "一杯",
+      "reading": "いっぱい",
+      "meaning": "한 잔",
+      "pos": "명사",
+      "example": "水を一杯ください。",
+      "exampleTranslation": "물 한 잔 주세요."
+    },
+    {
+      "id": "v3111",
+      "word": "二杯",
+      "reading": "にはい",
+      "meaning": "두 잔",
+      "pos": "명사",
+      "example": "コーヒーを二杯飲みました。",
+      "exampleTranslation": "커피 두 잔을 마셨습니다."
+    },
+    {
+      "id": "v3112",
+      "word": "一匹",
+      "reading": "いっぴき",
+      "meaning": "한 마리",
+      "pos": "명사",
+      "example": "犬が一匹います。",
+      "exampleTranslation": "개 한 마리가 있습니다."
+    },
+    {
+      "id": "v3113",
+      "word": "二匹",
+      "reading": "にひき",
+      "meaning": "두 마리",
+      "pos": "명사",
+      "example": "猫が二匹います。",
+      "exampleTranslation": "고양이 두 마리가 있습니다."
+    },
+    {
+      "id": "v3114",
+      "word": "一足",
+      "reading": "いっそく",
+      "meaning": "한 켤레",
+      "pos": "명사",
+      "example": "靴を一足買いました。",
+      "exampleTranslation": "신발 한 켤레를 샀습니다."
+    },
+    {
+      "id": "v3115",
+      "word": "一着",
+      "reading": "いっちゃく",
+      "meaning": "한 벌",
+      "pos": "명사",
+      "example": "服を一着買いました。",
+      "exampleTranslation": "옷 한 벌을 샀습니다."
+    },
+    {
+      "id": "v3116",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meaning": "많이",
+      "pos": "부사/명사",
+      "example": "たくさん食べました。",
+      "exampleTranslation": "많이 먹었습니다."
+    },
+    {
+      "id": "v3117",
+      "word": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "전부",
+      "pos": "명사/부사",
+      "example": "全部ください。",
+      "exampleTranslation": "전부 주세요."
+    },
+    {
+      "id": "v3118",
+      "word": "半分",
+      "reading": "はんぶん",
+      "meaning": "절반",
+      "pos": "명사",
+      "example": "半分食べました。",
+      "exampleTranslation": "절반 먹었습니다."
+    },
+    {
+      "id": "v3119",
+      "word": "以上",
+      "reading": "いじょう",
+      "meaning": "이상",
+      "pos": "명사",
+      "example": "三人以上です。",
+      "exampleTranslation": "세 명 이상입니다."
+    },
+    {
+      "id": "v3120",
+      "word": "以下",
+      "reading": "いか",
+      "meaning": "이하",
+      "pos": "명사",
+      "example": "五百円以下です。",
+      "exampleTranslation": "500엔 이하입니다."
+    },
+    {
+      "id": "v3121",
+      "word": "以内",
+      "reading": "いない",
+      "meaning": "이내",
+      "pos": "명사",
+      "example": "十分以内に来てください。",
+      "exampleTranslation": "10분 이내에 와 주세요."
+    },
+    {
+      "id": "v3122",
+      "word": "初め",
+      "reading": "はじめ",
+      "meaning": "처음",
+      "pos": "명사",
+      "example": "初めは難しいです。",
+      "exampleTranslation": "처음은 어렵습니다."
+    },
+    {
+      "id": "v3123",
+      "word": "最初",
+      "reading": "さいしょ",
+      "meaning": "최초, 처음",
+      "pos": "명사",
+      "example": "最初に名前を書きます。",
+      "exampleTranslation": "처음에 이름을 씁니다."
+    },
+    {
+      "id": "v3124",
+      "word": "最後",
+      "reading": "さいご",
+      "meaning": "마지막",
+      "pos": "명사",
+      "example": "最後に確認します。",
+      "exampleTranslation": "마지막에 확인합니다."
+    },
+    {
+      "id": "v3125",
+      "word": "次",
+      "reading": "つぎ",
+      "meaning": "다음",
+      "pos": "명사",
+      "example": "次の問題を見ます。",
+      "exampleTranslation": "다음 문제를 봅니다."
+    },
+    {
+      "id": "v3126",
+      "word": "先",
+      "reading": "さき",
+      "meaning": "먼저, 앞",
+      "pos": "명사",
+      "example": "先に行ってください。",
+      "exampleTranslation": "먼저 가 주세요."
+    },
+    {
+      "id": "v3127",
+      "word": "二番",
+      "reading": "にばん",
+      "meaning": "2번",
+      "pos": "명사",
+      "example": "二番を選びます。",
+      "exampleTranslation": "2번을 고릅니다."
+    },
+    {
+      "id": "v3128",
+      "word": "三番",
+      "reading": "さんばん",
+      "meaning": "3번",
+      "pos": "명사",
+      "example": "三番です。",
+      "exampleTranslation": "3번입니다."
+    },
+    {
+      "id": "v3129",
+      "word": "番号",
+      "reading": "ばんごう",
+      "meaning": "번호",
+      "pos": "명사",
+      "example": "番号を書いてください。",
+      "exampleTranslation": "번호를 써 주세요."
+    },
+    {
+      "id": "v3130",
+      "word": "同じ",
+      "reading": "おなじ",
+      "meaning": "같음",
+      "pos": "な형용사",
+      "example": "同じです。",
+      "exampleTranslation": "같습니다."
+    },
+    {
+      "id": "v3131",
+      "word": "別",
+      "reading": "べつ",
+      "meaning": "다름, 별도",
+      "pos": "명사/な형용사",
+      "example": "別の紙に書きます。",
+      "exampleTranslation": "다른 종이에 씁니다."
+    },
+    {
+      "id": "v3132",
+      "word": "一緒",
+      "reading": "いっしょ",
+      "meaning": "함께",
+      "pos": "명사/な형용사",
+      "example": "一緒に行きます。",
+      "exampleTranslation": "함께 갑니다."
+    },
+    {
+      "id": "v3133",
+      "word": "普通",
+      "reading": "ふつう",
+      "meaning": "보통",
+      "pos": "명사/な형용사",
+      "example": "普通のサイズです。",
+      "exampleTranslation": "보통 사이즈입니다."
+    },
+    {
+      "id": "v3134",
+      "word": "特別",
+      "reading": "とくべつ",
+      "meaning": "특별",
+      "pos": "な형용사",
+      "example": "特別な日です。",
+      "exampleTranslation": "특별한 날입니다."
+    },
+    {
+      "id": "v3135",
+      "word": "約",
+      "reading": "やく",
+      "meaning": "약, 대략",
+      "pos": "부사",
+      "example": "約十分です。",
+      "exampleTranslation": "약 10분입니다."
+    },
+    {
+      "id": "v3136",
+      "word": "ぐらい",
+      "reading": "ぐらい",
+      "meaning": "정도",
+      "pos": "조사",
+      "example": "十分ぐらいです。",
+      "exampleTranslation": "10분 정도입니다."
+    },
+    {
+      "id": "v3137",
+      "word": "くらい",
+      "reading": "くらい",
+      "meaning": "정도",
+      "pos": "조사",
+      "example": "一時間くらいです。",
+      "exampleTranslation": "1시간 정도입니다."
+    },
+    {
+      "id": "v3138",
+      "word": "一番目",
+      "reading": "いちばんめ",
+      "meaning": "첫 번째",
+      "pos": "명사",
+      "example": "一番目の人です。",
+      "exampleTranslation": "첫 번째 사람입니다."
+    },
+    {
+      "id": "v3139",
+      "word": "二番目",
+      "reading": "にばんめ",
+      "meaning": "두 번째",
+      "pos": "명사",
+      "example": "二番目を選びます。",
+      "exampleTranslation": "두 번째를 고릅니다."
+    },
+    {
+      "id": "v3140",
+      "word": "三番目",
+      "reading": "さんばんめ",
+      "meaning": "세 번째",
+      "pos": "명사",
+      "example": "三番目です。",
+      "exampleTranslation": "세 번째입니다."
     }
   ]
 }
