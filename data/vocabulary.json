@@ -2576,6 +2576,339 @@
         "v1048",
         "v1049"
       ]
+    },
+    {
+      "id": "foundation-family-people",
+      "title": "기초 사람·가족 보강",
+      "description": "사람, 가족, 호칭 기초 어휘",
+      "emoji": "👨‍👩‍👧",
+      "items": [
+        "v2730",
+        "v2731",
+        "v2732",
+        "v2733",
+        "v2734",
+        "v2735",
+        "v2736",
+        "v2737",
+        "v2738",
+        "v2739",
+        "v2740",
+        "v2741",
+        "v2742",
+        "v2743",
+        "v2744",
+        "v2745",
+        "v2746"
+      ]
+    },
+    {
+      "id": "foundation-calendar-time",
+      "title": "기초 날짜·시간 보강",
+      "description": "월, 날짜, 시간대 기초 어휘",
+      "emoji": "📅",
+      "items": [
+        "v2747",
+        "v2748",
+        "v2749",
+        "v2750",
+        "v2751",
+        "v2752",
+        "v2753",
+        "v2754",
+        "v2755",
+        "v2756",
+        "v2757",
+        "v2758",
+        "v2759",
+        "v2760",
+        "v2761",
+        "v2762",
+        "v2763",
+        "v2764",
+        "v2765",
+        "v2766",
+        "v2767",
+        "v2768",
+        "v2769",
+        "v2770",
+        "v2771",
+        "v2772",
+        "v2773"
+      ]
+    },
+    {
+      "id": "foundation-home-life",
+      "title": "기초 집·생활 보강",
+      "description": "집 안 물건과 생활 동작",
+      "emoji": "🏠",
+      "items": [
+        "v2774",
+        "v2775",
+        "v2776",
+        "v2777",
+        "v2778",
+        "v2779",
+        "v2780",
+        "v2781",
+        "v2782",
+        "v2783",
+        "v2784",
+        "v2785",
+        "v2786",
+        "v2787",
+        "v2788",
+        "v2789",
+        "v2790",
+        "v2791",
+        "v2792",
+        "v2793",
+        "v2794"
+      ]
+    },
+    {
+      "id": "foundation-food-basics",
+      "title": "기초 음식·음료 보강",
+      "description": "기본 음식과 음료",
+      "emoji": "🍙",
+      "items": [
+        "v2795",
+        "v2796",
+        "v2797",
+        "v2798",
+        "v2799",
+        "v2800",
+        "v2801",
+        "v2802",
+        "v2803",
+        "v2804",
+        "v2805",
+        "v2806",
+        "v2807",
+        "v2808",
+        "v2809",
+        "v2810",
+        "v2811",
+        "v2812",
+        "v2813",
+        "v2814",
+        "v2815",
+        "v2816",
+        "v2817",
+        "v2818",
+        "v2819"
+      ]
+    },
+    {
+      "id": "foundation-clothes-body",
+      "title": "기초 옷·몸 보강",
+      "description": "옷차림과 신체 부위",
+      "emoji": "👕",
+      "items": [
+        "v2820",
+        "v2821",
+        "v2822",
+        "v2823",
+        "v2824",
+        "v2825",
+        "v2826",
+        "v2827",
+        "v2828",
+        "v2829",
+        "v2830",
+        "v2831",
+        "v2832",
+        "v2833",
+        "v2834"
+      ]
+    },
+    {
+      "id": "foundation-core-verbs-a",
+      "title": "기초 동사 보강 A",
+      "description": "초급 필수 동사 1",
+      "emoji": "🏃",
+      "items": [
+        "v2835",
+        "v2836",
+        "v2837",
+        "v2838",
+        "v2839",
+        "v2840",
+        "v2841",
+        "v2842",
+        "v2843",
+        "v2844",
+        "v2845",
+        "v2846",
+        "v2847",
+        "v2848",
+        "v2849",
+        "v2850",
+        "v2851",
+        "v2852",
+        "v2853",
+        "v2854",
+        "v2855",
+        "v2856"
+      ]
+    },
+    {
+      "id": "foundation-core-verbs-b",
+      "title": "기초 동사 보강 B",
+      "description": "초급 필수 동사 2",
+      "emoji": "⚙️",
+      "items": [
+        "v2857",
+        "v2858",
+        "v2859",
+        "v2860",
+        "v2861",
+        "v2862",
+        "v2863",
+        "v2864",
+        "v2865",
+        "v2866",
+        "v2867",
+        "v2868",
+        "v2869",
+        "v2870",
+        "v2871",
+        "v2872",
+        "v2873",
+        "v2874",
+        "v2875",
+        "v2876",
+        "v2877",
+        "v2878",
+        "v2879",
+        "v2880"
+      ]
+    },
+    {
+      "id": "foundation-adjectives",
+      "title": "기초 형용사 보강",
+      "description": "기본 상태·성질 표현",
+      "emoji": "✨",
+      "items": [
+        "v2881",
+        "v2882",
+        "v2883",
+        "v2884",
+        "v2885",
+        "v2886",
+        "v2887",
+        "v2888",
+        "v2889",
+        "v2890",
+        "v2891",
+        "v2892",
+        "v2893",
+        "v2894",
+        "v2895",
+        "v2896",
+        "v2897",
+        "v2898"
+      ]
+    },
+    {
+      "id": "foundation-adverbs-connectors",
+      "title": "기초 부사·연결어 보강",
+      "description": "문장 흐름에 필요한 기초 표현",
+      "emoji": "🔗",
+      "items": [
+        "v2899",
+        "v2900",
+        "v2901",
+        "v2902",
+        "v2903",
+        "v2904",
+        "v2905",
+        "v2906",
+        "v2907",
+        "v2908",
+        "v2909",
+        "v2910",
+        "v2911",
+        "v2912",
+        "v2913",
+        "v2914",
+        "v2915",
+        "v2916",
+        "v2917",
+        "v2918",
+        "v2919",
+        "v2920",
+        "v2921",
+        "v2922",
+        "v2923"
+      ]
+    },
+    {
+      "id": "foundation-classroom-study",
+      "title": "기초 학교·학습 보강",
+      "description": "수업과 학습에 필요한 단어",
+      "emoji": "📚",
+      "items": [
+        "v2924",
+        "v2925",
+        "v2926",
+        "v2927",
+        "v2928",
+        "v2929",
+        "v2930",
+        "v2931",
+        "v2932",
+        "v2933",
+        "v2934",
+        "v2935",
+        "v2936",
+        "v2937",
+        "v2938",
+        "v2939",
+        "v2940",
+        "v2941"
+      ]
+    },
+    {
+      "id": "foundation-travel-service",
+      "title": "기초 여행·서비스 보강",
+      "description": "초급 여행/서비스 상황 어휘",
+      "emoji": "🧳",
+      "items": [
+        "v2942",
+        "v2943",
+        "v2944",
+        "v2945",
+        "v2946",
+        "v2947",
+        "v2948",
+        "v2949",
+        "v2950",
+        "v2951",
+        "v2952",
+        "v2953",
+        "v2954"
+      ]
+    },
+    {
+      "id": "foundation-shopping-service",
+      "title": "기초 쇼핑·서비스 보강",
+      "description": "구매와 매장 상황 기초 어휘",
+      "emoji": "🛒",
+      "items": [
+        "v2955",
+        "v2956",
+        "v2957",
+        "v2958",
+        "v2959",
+        "v2960",
+        "v2961",
+        "v2962",
+        "v2963",
+        "v2964",
+        "v2965",
+        "v2966"
+      ]
     }
   ],
   "items": [
@@ -22630,6 +22963,2139 @@
       "pos": "동사",
       "example": "毎日成長を覚えるようにしています。",
       "exampleTranslation": "매일 성장을려고 하고 있어요."
+    },
+    {
+      "id": "v2730",
+      "word": "おじ",
+      "reading": "おじ",
+      "meaning": "삼촌/아저씨",
+      "pos": "명사",
+      "example": "これはおじです。",
+      "exampleTranslation": "이것은 삼촌/아저씨입니다."
+    },
+    {
+      "id": "v2731",
+      "word": "おば",
+      "reading": "おば",
+      "meaning": "이모/고모/아주머니",
+      "pos": "명사",
+      "example": "これはおばです。",
+      "exampleTranslation": "이것은 이모/고모/아주머니입니다."
+    },
+    {
+      "id": "v2732",
+      "word": "息子",
+      "reading": "むすこ",
+      "meaning": "아들",
+      "pos": "명사",
+      "example": "これは息子です。",
+      "exampleTranslation": "이것은 아들입니다."
+    },
+    {
+      "id": "v2733",
+      "word": "娘",
+      "reading": "むすめ",
+      "meaning": "딸",
+      "pos": "명사",
+      "example": "これは娘です。",
+      "exampleTranslation": "이것은 딸입니다."
+    },
+    {
+      "id": "v2734",
+      "word": "夫",
+      "reading": "おっと",
+      "meaning": "남편",
+      "pos": "명사",
+      "example": "これは夫です。",
+      "exampleTranslation": "이것은 남편입니다."
+    },
+    {
+      "id": "v2735",
+      "word": "妻",
+      "reading": "つま",
+      "meaning": "아내",
+      "pos": "명사",
+      "example": "これは妻です。",
+      "exampleTranslation": "이것은 아내입니다."
+    },
+    {
+      "id": "v2736",
+      "word": "主人",
+      "reading": "しゅじん",
+      "meaning": "남편/주인",
+      "pos": "명사",
+      "example": "これは主人です。",
+      "exampleTranslation": "이것은 남편/주인입니다."
+    },
+    {
+      "id": "v2737",
+      "word": "奥さん",
+      "reading": "おくさん",
+      "meaning": "부인/아내",
+      "pos": "명사",
+      "example": "これは奥さんです。",
+      "exampleTranslation": "이것은 부인/아내입니다."
+    },
+    {
+      "id": "v2738",
+      "word": "大人",
+      "reading": "おとな",
+      "meaning": "어른",
+      "pos": "명사",
+      "example": "これは大人です。",
+      "exampleTranslation": "이것은 어른입니다."
+    },
+    {
+      "id": "v2739",
+      "word": "赤ちゃん",
+      "reading": "あかちゃん",
+      "meaning": "아기",
+      "pos": "명사",
+      "example": "これは赤ちゃんです。",
+      "exampleTranslation": "이것은 아기입니다."
+    },
+    {
+      "id": "v2740",
+      "word": "若者",
+      "reading": "わかもの",
+      "meaning": "젊은이",
+      "pos": "명사",
+      "example": "これは若者です。",
+      "exampleTranslation": "이것은 젊은이입니다."
+    },
+    {
+      "id": "v2741",
+      "word": "後輩",
+      "reading": "こうはい",
+      "meaning": "후배",
+      "pos": "명사",
+      "example": "これは後輩です。",
+      "exampleTranslation": "이것은 후배입니다."
+    },
+    {
+      "id": "v2742",
+      "word": "友人",
+      "reading": "ゆうじん",
+      "meaning": "친구",
+      "pos": "명사",
+      "example": "これは友人です。",
+      "exampleTranslation": "이것은 친구입니다."
+    },
+    {
+      "id": "v2743",
+      "word": "同級生",
+      "reading": "どうきゅうせい",
+      "meaning": "동급생",
+      "pos": "명사",
+      "example": "これは同級生です。",
+      "exampleTranslation": "이것은 동급생입니다."
+    },
+    {
+      "id": "v2744",
+      "word": "クラスメート",
+      "reading": "クラスメート",
+      "meaning": "반 친구",
+      "pos": "명사",
+      "example": "これはクラスメートです。",
+      "exampleTranslation": "이것은 반 친구입니다."
+    },
+    {
+      "id": "v2745",
+      "word": "外国人",
+      "reading": "がいこくじん",
+      "meaning": "외국인",
+      "pos": "명사",
+      "example": "これは外国人です。",
+      "exampleTranslation": "이것은 외국인입니다."
+    },
+    {
+      "id": "v2746",
+      "word": "日本人",
+      "reading": "にほんじん",
+      "meaning": "일본인",
+      "pos": "명사",
+      "example": "これは日本人です。",
+      "exampleTranslation": "이것은 일본인입니다."
+    },
+    {
+      "id": "v2747",
+      "word": "一月",
+      "reading": "いちがつ",
+      "meaning": "1월",
+      "pos": "명사",
+      "example": "これは一月です。",
+      "exampleTranslation": "이것은 1월입니다."
+    },
+    {
+      "id": "v2748",
+      "word": "二月",
+      "reading": "にがつ",
+      "meaning": "2월",
+      "pos": "명사",
+      "example": "これは二月です。",
+      "exampleTranslation": "이것은 2월입니다."
+    },
+    {
+      "id": "v2749",
+      "word": "三月",
+      "reading": "さんがつ",
+      "meaning": "3월",
+      "pos": "명사",
+      "example": "これは三月です。",
+      "exampleTranslation": "이것은 3월입니다."
+    },
+    {
+      "id": "v2750",
+      "word": "四月",
+      "reading": "しがつ",
+      "meaning": "4월",
+      "pos": "명사",
+      "example": "これは四月です。",
+      "exampleTranslation": "이것은 4월입니다."
+    },
+    {
+      "id": "v2751",
+      "word": "五月",
+      "reading": "ごがつ",
+      "meaning": "5월",
+      "pos": "명사",
+      "example": "これは五月です。",
+      "exampleTranslation": "이것은 5월입니다."
+    },
+    {
+      "id": "v2752",
+      "word": "六月",
+      "reading": "ろくがつ",
+      "meaning": "6월",
+      "pos": "명사",
+      "example": "これは六月です。",
+      "exampleTranslation": "이것은 6월입니다."
+    },
+    {
+      "id": "v2753",
+      "word": "七月",
+      "reading": "しちがつ",
+      "meaning": "7월",
+      "pos": "명사",
+      "example": "これは七月です。",
+      "exampleTranslation": "이것은 7월입니다."
+    },
+    {
+      "id": "v2754",
+      "word": "八月",
+      "reading": "はちがつ",
+      "meaning": "8월",
+      "pos": "명사",
+      "example": "これは八月です。",
+      "exampleTranslation": "이것은 8월입니다."
+    },
+    {
+      "id": "v2755",
+      "word": "九月",
+      "reading": "くがつ",
+      "meaning": "9월",
+      "pos": "명사",
+      "example": "これは九月です。",
+      "exampleTranslation": "이것은 9월입니다."
+    },
+    {
+      "id": "v2756",
+      "word": "十月",
+      "reading": "じゅうがつ",
+      "meaning": "10월",
+      "pos": "명사",
+      "example": "これは十月です。",
+      "exampleTranslation": "이것은 10월입니다."
+    },
+    {
+      "id": "v2757",
+      "word": "十一月",
+      "reading": "じゅういちがつ",
+      "meaning": "11월",
+      "pos": "명사",
+      "example": "これは十一月です。",
+      "exampleTranslation": "이것은 11월입니다."
+    },
+    {
+      "id": "v2758",
+      "word": "十二月",
+      "reading": "じゅうにがつ",
+      "meaning": "12월",
+      "pos": "명사",
+      "example": "これは十二月です。",
+      "exampleTranslation": "이것은 12월입니다."
+    },
+    {
+      "id": "v2759",
+      "word": "火曜日",
+      "reading": "かようび",
+      "meaning": "화요일",
+      "pos": "명사",
+      "example": "これは火曜日です。",
+      "exampleTranslation": "이것은 화요일입니다."
+    },
+    {
+      "id": "v2760",
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meaning": "수요일",
+      "pos": "명사",
+      "example": "これは水曜日です。",
+      "exampleTranslation": "이것은 수요일입니다."
+    },
+    {
+      "id": "v2761",
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meaning": "목요일",
+      "pos": "명사",
+      "example": "これは木曜日です。",
+      "exampleTranslation": "이것은 목요일입니다."
+    },
+    {
+      "id": "v2762",
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meaning": "금요일",
+      "pos": "명사",
+      "example": "これは金曜日です。",
+      "exampleTranslation": "이것은 금요일입니다."
+    },
+    {
+      "id": "v2763",
+      "word": "土曜日",
+      "reading": "どようび",
+      "meaning": "토요일",
+      "pos": "명사",
+      "example": "これは土曜日です。",
+      "exampleTranslation": "이것은 토요일입니다."
+    },
+    {
+      "id": "v2764",
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meaning": "이번 주",
+      "pos": "명사",
+      "example": "これは今週です。",
+      "exampleTranslation": "이것은 이번 주입니다."
+    },
+    {
+      "id": "v2765",
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meaning": "다음 주",
+      "pos": "명사",
+      "example": "これは来週です。",
+      "exampleTranslation": "이것은 다음 주입니다."
+    },
+    {
+      "id": "v2766",
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meaning": "지난주",
+      "pos": "명사",
+      "example": "これは先週です。",
+      "exampleTranslation": "이것은 지난주입니다."
+    },
+    {
+      "id": "v2767",
+      "word": "今月",
+      "reading": "こんげつ",
+      "meaning": "이번 달",
+      "pos": "명사",
+      "example": "これは今月です。",
+      "exampleTranslation": "이것은 이번 달입니다."
+    },
+    {
+      "id": "v2768",
+      "word": "来月",
+      "reading": "らいげつ",
+      "meaning": "다음 달",
+      "pos": "명사",
+      "example": "これは来月です。",
+      "exampleTranslation": "이것은 다음 달입니다."
+    },
+    {
+      "id": "v2769",
+      "word": "先月",
+      "reading": "せんげつ",
+      "meaning": "지난달",
+      "pos": "명사",
+      "example": "これは先月です。",
+      "exampleTranslation": "이것은 지난달입니다."
+    },
+    {
+      "id": "v2770",
+      "word": "午前",
+      "reading": "ごぜん",
+      "meaning": "오전",
+      "pos": "명사",
+      "example": "これは午前です。",
+      "exampleTranslation": "이것은 오전입니다."
+    },
+    {
+      "id": "v2771",
+      "word": "午後",
+      "reading": "ごご",
+      "meaning": "오후",
+      "pos": "명사",
+      "example": "これは午後です。",
+      "exampleTranslation": "이것은 오후입니다."
+    },
+    {
+      "id": "v2772",
+      "word": "今朝",
+      "reading": "けさ",
+      "meaning": "오늘 아침",
+      "pos": "명사",
+      "example": "これは今朝です。",
+      "exampleTranslation": "이것은 오늘 아침입니다."
+    },
+    {
+      "id": "v2773",
+      "word": "今晩",
+      "reading": "こんばん",
+      "meaning": "오늘 밤",
+      "pos": "명사",
+      "example": "これは今晩です。",
+      "exampleTranslation": "이것은 오늘 밤입니다."
+    },
+    {
+      "id": "v2774",
+      "word": "窓",
+      "reading": "まど",
+      "meaning": "창문",
+      "pos": "명사",
+      "example": "これは窓です。",
+      "exampleTranslation": "이것은 창문입니다."
+    },
+    {
+      "id": "v2775",
+      "word": "ドア",
+      "reading": "ドア",
+      "meaning": "문",
+      "pos": "명사",
+      "example": "これはドアです。",
+      "exampleTranslation": "이것은 문입니다."
+    },
+    {
+      "id": "v2776",
+      "word": "電気",
+      "reading": "でんき",
+      "meaning": "전기/불",
+      "pos": "명사",
+      "example": "これは電気です。",
+      "exampleTranslation": "이것은 전기/불입니다."
+    },
+    {
+      "id": "v2777",
+      "word": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "냉장고",
+      "pos": "명사",
+      "example": "これは冷蔵庫です。",
+      "exampleTranslation": "이것은 냉장고입니다."
+    },
+    {
+      "id": "v2778",
+      "word": "洗濯機",
+      "reading": "せんたくき",
+      "meaning": "세탁기",
+      "pos": "명사",
+      "example": "これは洗濯機です。",
+      "exampleTranslation": "이것은 세탁기입니다."
+    },
+    {
+      "id": "v2779",
+      "word": "エアコン",
+      "reading": "エアコン",
+      "meaning": "에어컨",
+      "pos": "명사",
+      "example": "これはエアコンです。",
+      "exampleTranslation": "이것은 에어컨입니다."
+    },
+    {
+      "id": "v2780",
+      "word": "テレビ",
+      "reading": "テレビ",
+      "meaning": "텔레비전",
+      "pos": "명사",
+      "example": "これはテレビです。",
+      "exampleTranslation": "이것은 텔레비전입니다."
+    },
+    {
+      "id": "v2781",
+      "word": "ベッド",
+      "reading": "ベッド",
+      "meaning": "침대",
+      "pos": "명사",
+      "example": "これはベッドです。",
+      "exampleTranslation": "이것은 침대입니다."
+    },
+    {
+      "id": "v2782",
+      "word": "布団",
+      "reading": "ふとん",
+      "meaning": "이불",
+      "pos": "명사",
+      "example": "これは布団です。",
+      "exampleTranslation": "이것은 이불입니다."
+    },
+    {
+      "id": "v2783",
+      "word": "枕",
+      "reading": "まくら",
+      "meaning": "베개",
+      "pos": "명사",
+      "example": "これは枕です。",
+      "exampleTranslation": "이것은 베개입니다."
+    },
+    {
+      "id": "v2784",
+      "word": "棚",
+      "reading": "たな",
+      "meaning": "선반",
+      "pos": "명사",
+      "example": "これは棚です。",
+      "exampleTranslation": "이것은 선반입니다."
+    },
+    {
+      "id": "v2785",
+      "word": "皿",
+      "reading": "さら",
+      "meaning": "접시",
+      "pos": "명사",
+      "example": "これは皿です。",
+      "exampleTranslation": "이것은 접시입니다."
+    },
+    {
+      "id": "v2786",
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "밥그릇",
+      "pos": "명사",
+      "example": "これは茶碗です。",
+      "exampleTranslation": "이것은 밥그릇입니다."
+    },
+    {
+      "id": "v2787",
+      "word": "箸",
+      "reading": "はし",
+      "meaning": "젓가락",
+      "pos": "명사",
+      "example": "これは箸です。",
+      "exampleTranslation": "이것은 젓가락입니다."
+    },
+    {
+      "id": "v2788",
+      "word": "スプーン",
+      "reading": "スプーン",
+      "meaning": "숟가락",
+      "pos": "명사",
+      "example": "これはスプーンです。",
+      "exampleTranslation": "이것은 숟가락입니다."
+    },
+    {
+      "id": "v2789",
+      "word": "フォーク",
+      "reading": "フォーク",
+      "meaning": "포크",
+      "pos": "명사",
+      "example": "これはフォークです。",
+      "exampleTranslation": "이것은 포크입니다."
+    },
+    {
+      "id": "v2790",
+      "word": "洗濯",
+      "reading": "せんたく",
+      "meaning": "세탁",
+      "pos": "명사",
+      "example": "これは洗濯です。",
+      "exampleTranslation": "이것은 세탁입니다."
+    },
+    {
+      "id": "v2791",
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaning": "청소",
+      "pos": "명사",
+      "example": "これは掃除です。",
+      "exampleTranslation": "이것은 청소입니다."
+    },
+    {
+      "id": "v2792",
+      "word": "料理",
+      "reading": "りょうり",
+      "meaning": "요리",
+      "pos": "명사",
+      "example": "これは料理です。",
+      "exampleTranslation": "이것은 요리입니다."
+    },
+    {
+      "id": "v2793",
+      "word": "片付け",
+      "reading": "かたづけ",
+      "meaning": "정리",
+      "pos": "명사",
+      "example": "これは片付けです。",
+      "exampleTranslation": "이것은 정리입니다."
+    },
+    {
+      "id": "v2794",
+      "word": "ごみ",
+      "reading": "ごみ",
+      "meaning": "쓰레기",
+      "pos": "명사",
+      "example": "これはごみです。",
+      "exampleTranslation": "이것은 쓰레기입니다."
+    },
+    {
+      "id": "v2795",
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "아침밥",
+      "pos": "명사",
+      "example": "これは朝ご飯です。",
+      "exampleTranslation": "이것은 아침밥입니다."
+    },
+    {
+      "id": "v2796",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "점심밥",
+      "pos": "명사",
+      "example": "これは昼ご飯です。",
+      "exampleTranslation": "이것은 점심밥입니다."
+    },
+    {
+      "id": "v2797",
+      "word": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning": "저녁밥",
+      "pos": "명사",
+      "example": "これは晩ご飯です。",
+      "exampleTranslation": "이것은 저녁밥입니다."
+    },
+    {
+      "id": "v2798",
+      "word": "味噌汁",
+      "reading": "みそしる",
+      "meaning": "된장국",
+      "pos": "명사",
+      "example": "これは味噌汁です。",
+      "exampleTranslation": "이것은 된장국입니다."
+    },
+    {
+      "id": "v2799",
+      "word": "弁当",
+      "reading": "べんとう",
+      "meaning": "도시락",
+      "pos": "명사",
+      "example": "これは弁当です。",
+      "exampleTranslation": "이것은 도시락입니다."
+    },
+    {
+      "id": "v2800",
+      "word": "おにぎり",
+      "reading": "おにぎり",
+      "meaning": "주먹밥",
+      "pos": "명사",
+      "example": "これはおにぎりです。",
+      "exampleTranslation": "이것은 주먹밥입니다."
+    },
+    {
+      "id": "v2801",
+      "word": "ラーメン",
+      "reading": "ラーメン",
+      "meaning": "라멘",
+      "pos": "명사",
+      "example": "これはラーメンです。",
+      "exampleTranslation": "이것은 라멘입니다."
+    },
+    {
+      "id": "v2802",
+      "word": "うどん",
+      "reading": "うどん",
+      "meaning": "우동",
+      "pos": "명사",
+      "example": "これはうどんです。",
+      "exampleTranslation": "이것은 우동입니다."
+    },
+    {
+      "id": "v2803",
+      "word": "そば",
+      "reading": "そば",
+      "meaning": "소바",
+      "pos": "명사",
+      "example": "これはそばです。",
+      "exampleTranslation": "이것은 소바입니다."
+    },
+    {
+      "id": "v2804",
+      "word": "カレー",
+      "reading": "カレー",
+      "meaning": "카레",
+      "pos": "명사",
+      "example": "これはカレーです。",
+      "exampleTranslation": "이것은 카레입니다."
+    },
+    {
+      "id": "v2805",
+      "word": "寿司",
+      "reading": "すし",
+      "meaning": "초밥",
+      "pos": "명사",
+      "example": "これは寿司です。",
+      "exampleTranslation": "이것은 초밥입니다."
+    },
+    {
+      "id": "v2806",
+      "word": "サラダ",
+      "reading": "サラダ",
+      "meaning": "샐러드",
+      "pos": "명사",
+      "example": "これはサラダです。",
+      "exampleTranslation": "이것은 샐러드입니다."
+    },
+    {
+      "id": "v2807",
+      "word": "スープ",
+      "reading": "スープ",
+      "meaning": "수프",
+      "pos": "명사",
+      "example": "これはスープです。",
+      "exampleTranslation": "이것은 수프입니다."
+    },
+    {
+      "id": "v2808",
+      "word": "砂糖",
+      "reading": "さとう",
+      "meaning": "설탕",
+      "pos": "명사",
+      "example": "これは砂糖です。",
+      "exampleTranslation": "이것은 설탕입니다."
+    },
+    {
+      "id": "v2809",
+      "word": "塩",
+      "reading": "しお",
+      "meaning": "소금",
+      "pos": "명사",
+      "example": "これは塩です。",
+      "exampleTranslation": "이것은 소금입니다."
+    },
+    {
+      "id": "v2810",
+      "word": "醤油",
+      "reading": "しょうゆ",
+      "meaning": "간장",
+      "pos": "명사",
+      "example": "これは醤油です。",
+      "exampleTranslation": "이것은 간장입니다."
+    },
+    {
+      "id": "v2811",
+      "word": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "소고기",
+      "pos": "명사",
+      "example": "これは牛肉です。",
+      "exampleTranslation": "이것은 소고기입니다."
+    },
+    {
+      "id": "v2812",
+      "word": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "돼지고기",
+      "pos": "명사",
+      "example": "これは豚肉です。",
+      "exampleTranslation": "이것은 돼지고기입니다."
+    },
+    {
+      "id": "v2813",
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "닭고기",
+      "pos": "명사",
+      "example": "これは鶏肉です。",
+      "exampleTranslation": "이것은 닭고기입니다."
+    },
+    {
+      "id": "v2814",
+      "word": "米",
+      "reading": "こめ",
+      "meaning": "쌀",
+      "pos": "명사",
+      "example": "これは米です。",
+      "exampleTranslation": "이것은 쌀입니다."
+    },
+    {
+      "id": "v2815",
+      "word": "りんご",
+      "reading": "りんご",
+      "meaning": "사과",
+      "pos": "명사",
+      "example": "これはりんごです。",
+      "exampleTranslation": "이것은 사과입니다."
+    },
+    {
+      "id": "v2816",
+      "word": "みかん",
+      "reading": "みかん",
+      "meaning": "귤",
+      "pos": "명사",
+      "example": "これはみかんです。",
+      "exampleTranslation": "이것은 귤입니다."
+    },
+    {
+      "id": "v2817",
+      "word": "バナナ",
+      "reading": "バナナ",
+      "meaning": "바나나",
+      "pos": "명사",
+      "example": "これはバナナです。",
+      "exampleTranslation": "이것은 바나나입니다."
+    },
+    {
+      "id": "v2818",
+      "word": "ジュース",
+      "reading": "ジュース",
+      "meaning": "주스",
+      "pos": "명사",
+      "example": "これはジュースです。",
+      "exampleTranslation": "이것은 주스입니다."
+    },
+    {
+      "id": "v2819",
+      "word": "コーヒー",
+      "reading": "コーヒー",
+      "meaning": "커피",
+      "pos": "명사",
+      "example": "これはコーヒーです。",
+      "exampleTranslation": "이것은 커피입니다."
+    },
+    {
+      "id": "v2820",
+      "word": "シャツ",
+      "reading": "シャツ",
+      "meaning": "셔츠",
+      "pos": "명사",
+      "example": "これはシャツです。",
+      "exampleTranslation": "이것은 셔츠입니다."
+    },
+    {
+      "id": "v2821",
+      "word": "ズボン",
+      "reading": "ズボン",
+      "meaning": "바지",
+      "pos": "명사",
+      "example": "これはズボンです。",
+      "exampleTranslation": "이것은 바지입니다."
+    },
+    {
+      "id": "v2822",
+      "word": "スカート",
+      "reading": "スカート",
+      "meaning": "치마",
+      "pos": "명사",
+      "example": "これはスカートです。",
+      "exampleTranslation": "이것은 치마입니다."
+    },
+    {
+      "id": "v2823",
+      "word": "コート",
+      "reading": "コート",
+      "meaning": "코트",
+      "pos": "명사",
+      "example": "これはコートです。",
+      "exampleTranslation": "이것은 코트입니다."
+    },
+    {
+      "id": "v2824",
+      "word": "セーター",
+      "reading": "セーター",
+      "meaning": "스웨터",
+      "pos": "명사",
+      "example": "これはセーターです。",
+      "exampleTranslation": "이것은 스웨터입니다."
+    },
+    {
+      "id": "v2825",
+      "word": "靴下",
+      "reading": "くつした",
+      "meaning": "양말",
+      "pos": "명사",
+      "example": "これは靴下です。",
+      "exampleTranslation": "이것은 양말입니다."
+    },
+    {
+      "id": "v2826",
+      "word": "下着",
+      "reading": "したぎ",
+      "meaning": "속옷",
+      "pos": "명사",
+      "example": "これは下着です。",
+      "exampleTranslation": "이것은 속옷입니다."
+    },
+    {
+      "id": "v2827",
+      "word": "手袋",
+      "reading": "てぶくろ",
+      "meaning": "장갑",
+      "pos": "명사",
+      "example": "これは手袋です。",
+      "exampleTranslation": "이것은 장갑입니다."
+    },
+    {
+      "id": "v2828",
+      "word": "鼻",
+      "reading": "はな",
+      "meaning": "코",
+      "pos": "명사",
+      "example": "これは鼻です。",
+      "exampleTranslation": "이것은 코입니다."
+    },
+    {
+      "id": "v2829",
+      "word": "歯",
+      "reading": "は",
+      "meaning": "이",
+      "pos": "명사",
+      "example": "これは歯です。",
+      "exampleTranslation": "이것은 이입니다."
+    },
+    {
+      "id": "v2830",
+      "word": "首",
+      "reading": "くび",
+      "meaning": "목",
+      "pos": "명사",
+      "example": "これは首です。",
+      "exampleTranslation": "이것은 목입니다."
+    },
+    {
+      "id": "v2831",
+      "word": "指",
+      "reading": "ゆび",
+      "meaning": "손가락/발가락",
+      "pos": "명사",
+      "example": "これは指です。",
+      "exampleTranslation": "이것은 손가락/발가락입니다."
+    },
+    {
+      "id": "v2832",
+      "word": "背中",
+      "reading": "せなか",
+      "meaning": "등",
+      "pos": "명사",
+      "example": "これは背中です。",
+      "exampleTranslation": "이것은 등입니다."
+    },
+    {
+      "id": "v2833",
+      "word": "お腹",
+      "reading": "おなか",
+      "meaning": "배",
+      "pos": "명사",
+      "example": "これはお腹です。",
+      "exampleTranslation": "이것은 배입니다."
+    },
+    {
+      "id": "v2834",
+      "word": "体",
+      "reading": "からだ",
+      "meaning": "몸",
+      "pos": "명사",
+      "example": "これは体です。",
+      "exampleTranslation": "이것은 몸입니다."
+    },
+    {
+      "id": "v2835",
+      "word": "言う",
+      "reading": "いう",
+      "meaning": "말하다",
+      "pos": "동사",
+      "example": "明日、言うつもりです。",
+      "exampleTranslation": "내일 말하다 예정입니다."
+    },
+    {
+      "id": "v2836",
+      "word": "持って行く",
+      "reading": "もっていく",
+      "meaning": "가지고 가다",
+      "pos": "동사",
+      "example": "明日、持って行くつもりです。",
+      "exampleTranslation": "내일 가지고 가다 예정입니다."
+    },
+    {
+      "id": "v2837",
+      "word": "持って来る",
+      "reading": "もってくる",
+      "meaning": "가지고 오다",
+      "pos": "동사",
+      "example": "明日、持って来るつもりです。",
+      "exampleTranslation": "내일 가지고 오다 예정입니다."
+    },
+    {
+      "id": "v2838",
+      "word": "取る",
+      "reading": "とる",
+      "meaning": "잡다/집다",
+      "pos": "동사",
+      "example": "明日、取るつもりです。",
+      "exampleTranslation": "내일 잡다/집다 예정입니다."
+    },
+    {
+      "id": "v2839",
+      "word": "撮る",
+      "reading": "とる",
+      "meaning": "찍다",
+      "pos": "동사",
+      "example": "明日、撮るつもりです。",
+      "exampleTranslation": "내일 찍다 예정입니다."
+    },
+    {
+      "id": "v2840",
+      "word": "開く",
+      "reading": "ひらく",
+      "meaning": "열리다/열다",
+      "pos": "동사",
+      "example": "明日、開くつもりです。",
+      "exampleTranslation": "내일 열리다/열다 예정입니다."
+    },
+    {
+      "id": "v2841",
+      "word": "閉まる",
+      "reading": "しまる",
+      "meaning": "닫히다",
+      "pos": "동사",
+      "example": "明日、閉まるつもりです。",
+      "exampleTranslation": "내일 닫히다 예정입니다."
+    },
+    {
+      "id": "v2842",
+      "word": "消す",
+      "reading": "けす",
+      "meaning": "끄다/지우다",
+      "pos": "동사",
+      "example": "明日、消すつもりです。",
+      "exampleTranslation": "내일 끄다/지우다 예정입니다."
+    },
+    {
+      "id": "v2843",
+      "word": "つける",
+      "reading": "つける",
+      "meaning": "켜다/붙이다",
+      "pos": "동사",
+      "example": "明日、つけるつもりです。",
+      "exampleTranslation": "내일 켜다/붙이다 예정입니다."
+    },
+    {
+      "id": "v2844",
+      "word": "止める",
+      "reading": "とめる",
+      "meaning": "멈추게 하다",
+      "pos": "동사",
+      "example": "明日、止めるつもりです。",
+      "exampleTranslation": "내일 멈추게 하다 예정입니다."
+    },
+    {
+      "id": "v2845",
+      "word": "動く",
+      "reading": "うごく",
+      "meaning": "움직이다",
+      "pos": "동사",
+      "example": "明日、動くつもりです。",
+      "exampleTranslation": "내일 움직이다 예정입니다."
+    },
+    {
+      "id": "v2846",
+      "word": "動かす",
+      "reading": "うごかす",
+      "meaning": "움직이다/옮기다",
+      "pos": "동사",
+      "example": "明日、動かすつもりです。",
+      "exampleTranslation": "내일 움직이다/옮기다 예정입니다."
+    },
+    {
+      "id": "v2847",
+      "word": "並べる",
+      "reading": "ならべる",
+      "meaning": "나란히 놓다",
+      "pos": "동사",
+      "example": "明日、並べるつもりです。",
+      "exampleTranslation": "내일 나란히 놓다 예정입니다."
+    },
+    {
+      "id": "v2848",
+      "word": "入れる",
+      "reading": "いれる",
+      "meaning": "넣다",
+      "pos": "동사",
+      "example": "明日、入れるつもりです。",
+      "exampleTranslation": "내일 넣다 예정입니다."
+    },
+    {
+      "id": "v2849",
+      "word": "出す",
+      "reading": "だす",
+      "meaning": "꺼내다/내다",
+      "pos": "동사",
+      "example": "明日、出すつもりです。",
+      "exampleTranslation": "내일 꺼내다/내다 예정입니다."
+    },
+    {
+      "id": "v2850",
+      "word": "集める",
+      "reading": "あつめる",
+      "meaning": "모으다",
+      "pos": "동사",
+      "example": "明日、集めるつもりです。",
+      "exampleTranslation": "내일 모으다 예정입니다."
+    },
+    {
+      "id": "v2851",
+      "word": "始める",
+      "reading": "はじめる",
+      "meaning": "시작하다",
+      "pos": "동사",
+      "example": "明日、始めるつもりです。",
+      "exampleTranslation": "내일 시작하다 예정입니다."
+    },
+    {
+      "id": "v2852",
+      "word": "終える",
+      "reading": "おえる",
+      "meaning": "끝내다",
+      "pos": "동사",
+      "example": "明日、終えるつもりです。",
+      "exampleTranslation": "내일 끝내다 예정입니다."
+    },
+    {
+      "id": "v2853",
+      "word": "変わる",
+      "reading": "かわる",
+      "meaning": "바뀌다",
+      "pos": "동사",
+      "example": "明日、変わるつもりです。",
+      "exampleTranslation": "내일 바뀌다 예정입니다."
+    },
+    {
+      "id": "v2854",
+      "word": "変える",
+      "reading": "かえる",
+      "meaning": "바꾸다",
+      "pos": "동사",
+      "example": "明日、変えるつもりです。",
+      "exampleTranslation": "내일 바꾸다 예정입니다."
+    },
+    {
+      "id": "v2855",
+      "word": "増やす",
+      "reading": "ふやす",
+      "meaning": "늘리다",
+      "pos": "동사",
+      "example": "明日、増やすつもりです。",
+      "exampleTranslation": "내일 늘리다 예정입니다."
+    },
+    {
+      "id": "v2856",
+      "word": "減らす",
+      "reading": "へらす",
+      "meaning": "줄이다",
+      "pos": "동사",
+      "example": "明日、減らすつもりです。",
+      "exampleTranslation": "내일 줄이다 예정입니다."
+    },
+    {
+      "id": "v2857",
+      "word": "着る",
+      "reading": "きる",
+      "meaning": "입다",
+      "pos": "동사",
+      "example": "明日、着るつもりです。",
+      "exampleTranslation": "내일 입다 예정입니다."
+    },
+    {
+      "id": "v2858",
+      "word": "履く",
+      "reading": "はく",
+      "meaning": "신다/입다",
+      "pos": "동사",
+      "example": "明日、履くつもりです。",
+      "exampleTranslation": "내일 신다/입다 예정입니다."
+    },
+    {
+      "id": "v2859",
+      "word": "脱ぐ",
+      "reading": "ぬぐ",
+      "meaning": "벗다",
+      "pos": "동사",
+      "example": "明日、脱ぐつもりです。",
+      "exampleTranslation": "내일 벗다 예정입니다."
+    },
+    {
+      "id": "v2860",
+      "word": "かぶる",
+      "reading": "かぶる",
+      "meaning": "쓰다",
+      "pos": "동사",
+      "example": "明日、かぶるつもりです。",
+      "exampleTranslation": "내일 쓰다 예정입니다."
+    },
+    {
+      "id": "v2861",
+      "word": "かける",
+      "reading": "かける",
+      "meaning": "걸다/쓰다",
+      "pos": "동사",
+      "example": "明日、かけるつもりです。",
+      "exampleTranslation": "내일 걸다/쓰다 예정입니다."
+    },
+    {
+      "id": "v2862",
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "태어나다",
+      "pos": "동사",
+      "example": "明日、生まれるつもりです。",
+      "exampleTranslation": "내일 태어나다 예정입니다."
+    },
+    {
+      "id": "v2863",
+      "word": "死ぬ",
+      "reading": "しぬ",
+      "meaning": "죽다",
+      "pos": "동사",
+      "example": "明日、死ぬつもりです。",
+      "exampleTranslation": "내일 죽다 예정입니다."
+    },
+    {
+      "id": "v2864",
+      "word": "笑う",
+      "reading": "わらう",
+      "meaning": "웃다",
+      "pos": "동사",
+      "example": "明日、笑うつもりです。",
+      "exampleTranslation": "내일 웃다 예정입니다."
+    },
+    {
+      "id": "v2865",
+      "word": "泣く",
+      "reading": "なく",
+      "meaning": "울다",
+      "pos": "동사",
+      "example": "明日、泣くつもりです。",
+      "exampleTranslation": "내일 울다 예정입니다."
+    },
+    {
+      "id": "v2866",
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meaning": "놀다",
+      "pos": "동사",
+      "example": "明日、遊ぶつもりです。",
+      "exampleTranslation": "내일 놀다 예정입니다."
+    },
+    {
+      "id": "v2867",
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meaning": "수영하다",
+      "pos": "동사",
+      "example": "明日、泳ぐつもりです。",
+      "exampleTranslation": "내일 수영하다 예정입니다."
+    },
+    {
+      "id": "v2868",
+      "word": "歌う",
+      "reading": "うたう",
+      "meaning": "노래하다",
+      "pos": "동사",
+      "example": "明日、歌うつもりです。",
+      "exampleTranslation": "내일 노래하다 예정입니다."
+    },
+    {
+      "id": "v2869",
+      "word": "踊る",
+      "reading": "おどる",
+      "meaning": "춤추다",
+      "pos": "동사",
+      "example": "明日、踊るつもりです。",
+      "exampleTranslation": "내일 춤추다 예정입니다."
+    },
+    {
+      "id": "v2870",
+      "word": "旅行する",
+      "reading": "りょこうする",
+      "meaning": "여행하다",
+      "pos": "동사",
+      "example": "毎日、旅行する練習をします。",
+      "exampleTranslation": "매일 여행하다 연습을 합니다."
+    },
+    {
+      "id": "v2871",
+      "word": "練習する",
+      "reading": "れんしゅうする",
+      "meaning": "연습하다",
+      "pos": "동사",
+      "example": "毎日、練習する練習をします。",
+      "exampleTranslation": "매일 연습하다 연습을 합니다."
+    },
+    {
+      "id": "v2872",
+      "word": "連絡する",
+      "reading": "れんらくする",
+      "meaning": "연락하다",
+      "pos": "동사",
+      "example": "毎日、連絡する練習をします。",
+      "exampleTranslation": "매일 연락하다 연습을 합니다."
+    },
+    {
+      "id": "v2873",
+      "word": "相談する",
+      "reading": "そうだんする",
+      "meaning": "상담하다",
+      "pos": "동사",
+      "example": "毎日、相談する練習をします。",
+      "exampleTranslation": "매일 상담하다 연습을 합니다."
+    },
+    {
+      "id": "v2874",
+      "word": "紹介する",
+      "reading": "しょうかいする",
+      "meaning": "소개하다",
+      "pos": "동사",
+      "example": "毎日、紹介する練習をします。",
+      "exampleTranslation": "매일 소개하다 연습을 합니다."
+    },
+    {
+      "id": "v2875",
+      "word": "案内する",
+      "reading": "あんないする",
+      "meaning": "안내하다",
+      "pos": "동사",
+      "example": "毎日、案内する練習をします。",
+      "exampleTranslation": "매일 안내하다 연습을 합니다."
+    },
+    {
+      "id": "v2876",
+      "word": "運転する",
+      "reading": "うんてんする",
+      "meaning": "운전하다",
+      "pos": "동사",
+      "example": "毎日、運転する練習をします。",
+      "exampleTranslation": "매일 운전하다 연습을 합니다."
+    },
+    {
+      "id": "v2877",
+      "word": "出発する",
+      "reading": "しゅっぱつする",
+      "meaning": "출발하다",
+      "pos": "동사",
+      "example": "毎日、出発する練習をします。",
+      "exampleTranslation": "매일 출발하다 연습을 합니다."
+    },
+    {
+      "id": "v2878",
+      "word": "到着する",
+      "reading": "とうちゃくする",
+      "meaning": "도착하다",
+      "pos": "동사",
+      "example": "毎日、到着する練習をします。",
+      "exampleTranslation": "매일 도착하다 연습을 합니다."
+    },
+    {
+      "id": "v2879",
+      "word": "利用する",
+      "reading": "りようする",
+      "meaning": "이용하다",
+      "pos": "동사",
+      "example": "毎日、利用する練習をします。",
+      "exampleTranslation": "매일 이용하다 연습을 합니다."
+    },
+    {
+      "id": "v2880",
+      "word": "注意する",
+      "reading": "ちゅういする",
+      "meaning": "주의하다",
+      "pos": "동사",
+      "example": "毎日、注意する練習をします。",
+      "exampleTranslation": "매일 주의하다 연습을 합니다."
+    },
+    {
+      "id": "v2881",
+      "word": "苦い",
+      "reading": "にがい",
+      "meaning": "쓰다",
+      "pos": "い형용사",
+      "example": "この言葉は苦いです。",
+      "exampleTranslation": "이 말은 '쓰다'라는 뜻입니다."
+    },
+    {
+      "id": "v2882",
+      "word": "酸っぱい",
+      "reading": "すっぱい",
+      "meaning": "시다",
+      "pos": "い형용사",
+      "example": "この言葉は酸っぱいです。",
+      "exampleTranslation": "이 말은 '시다'라는 뜻입니다."
+    },
+    {
+      "id": "v2883",
+      "word": "太い",
+      "reading": "ふとい",
+      "meaning": "굵다",
+      "pos": "い형용사",
+      "example": "この言葉は太いです。",
+      "exampleTranslation": "이 말은 '굵다'라는 뜻입니다."
+    },
+    {
+      "id": "v2884",
+      "word": "細い",
+      "reading": "ほそい",
+      "meaning": "가늘다",
+      "pos": "い형용사",
+      "example": "この言葉は細いです。",
+      "exampleTranslation": "이 말은 '가늘다'라는 뜻입니다."
+    },
+    {
+      "id": "v2885",
+      "word": "厚い",
+      "reading": "あつい",
+      "meaning": "두껍다",
+      "pos": "い형용사",
+      "example": "この言葉は厚いです。",
+      "exampleTranslation": "이 말은 '두껍다'라는 뜻입니다."
+    },
+    {
+      "id": "v2886",
+      "word": "薄い",
+      "reading": "うすい",
+      "meaning": "얇다/연하다",
+      "pos": "い형용사",
+      "example": "この言葉は薄いです。",
+      "exampleTranslation": "이 말은 '얇다/연하다'라는 뜻입니다."
+    },
+    {
+      "id": "v2887",
+      "word": "丸い",
+      "reading": "まるい",
+      "meaning": "둥글다",
+      "pos": "い형용사",
+      "example": "この言葉は丸いです。",
+      "exampleTranslation": "이 말은 '둥글다'라는 뜻입니다."
+    },
+    {
+      "id": "v2888",
+      "word": "眠い",
+      "reading": "ねむい",
+      "meaning": "졸리다",
+      "pos": "い형용사",
+      "example": "この言葉は眠いです。",
+      "exampleTranslation": "이 말은 '졸리다'라는 뜻입니다."
+    },
+    {
+      "id": "v2889",
+      "word": "痛い",
+      "reading": "いたい",
+      "meaning": "아프다",
+      "pos": "い형용사",
+      "example": "この言葉は痛いです。",
+      "exampleTranslation": "이 말은 '아프다'라는 뜻입니다."
+    },
+    {
+      "id": "v2890",
+      "word": "かゆい",
+      "reading": "かゆい",
+      "meaning": "가렵다",
+      "pos": "い형용사",
+      "example": "この言葉はかゆいです。",
+      "exampleTranslation": "이 말은 '가렵다'라는 뜻입니다."
+    },
+    {
+      "id": "v2891",
+      "word": "うるさい",
+      "reading": "うるさい",
+      "meaning": "시끄럽다",
+      "pos": "い형용사",
+      "example": "この言葉はうるさいです。",
+      "exampleTranslation": "이 말은 '시끄럽다'라는 뜻입니다."
+    },
+    {
+      "id": "v2892",
+      "word": "寂しい",
+      "reading": "さびしい",
+      "meaning": "외롭다",
+      "pos": "い형용사",
+      "example": "この言葉は寂しいです。",
+      "exampleTranslation": "이 말은 '외롭다'라는 뜻입니다."
+    },
+    {
+      "id": "v2893",
+      "word": "怖い",
+      "reading": "こわい",
+      "meaning": "무섭다",
+      "pos": "い형용사",
+      "example": "この言葉は怖いです。",
+      "exampleTranslation": "이 말은 '무섭다'라는 뜻입니다."
+    },
+    {
+      "id": "v2894",
+      "word": "好き",
+      "reading": "すき",
+      "meaning": "좋아함",
+      "pos": "な형용사",
+      "example": "この言葉は好きです。",
+      "exampleTranslation": "이 말은 '좋아함'라는 뜻입니다."
+    },
+    {
+      "id": "v2895",
+      "word": "嫌い",
+      "reading": "きらい",
+      "meaning": "싫어함",
+      "pos": "な형용사",
+      "example": "この言葉は嫌いです。",
+      "exampleTranslation": "이 말은 '싫어함'라는 뜻입니다."
+    },
+    {
+      "id": "v2896",
+      "word": "上手",
+      "reading": "じょうず",
+      "meaning": "잘함",
+      "pos": "な형용사",
+      "example": "この言葉は上手です。",
+      "exampleTranslation": "이 말은 '잘함'라는 뜻입니다."
+    },
+    {
+      "id": "v2897",
+      "word": "下手",
+      "reading": "へた",
+      "meaning": "서투름",
+      "pos": "な형용사",
+      "example": "この言葉は下手です。",
+      "exampleTranslation": "이 말은 '서투름'라는 뜻입니다."
+    },
+    {
+      "id": "v2898",
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meaning": "유명함",
+      "pos": "な형용사",
+      "example": "この言葉は有名です。",
+      "exampleTranslation": "이 말은 '유명함'라는 뜻입니다."
+    },
+    {
+      "id": "v2899",
+      "word": "いつも",
+      "reading": "いつも",
+      "meaning": "항상",
+      "pos": "부사",
+      "example": "いつも、もう一度確認します。",
+      "exampleTranslation": "항상, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2900",
+      "word": "時々",
+      "reading": "ときどき",
+      "meaning": "가끔",
+      "pos": "부사",
+      "example": "時々、もう一度確認します。",
+      "exampleTranslation": "가끔, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2901",
+      "word": "よく",
+      "reading": "よく",
+      "meaning": "자주/잘",
+      "pos": "부사",
+      "example": "よく、もう一度確認します。",
+      "exampleTranslation": "자주/잘, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2902",
+      "word": "あまり",
+      "reading": "あまり",
+      "meaning": "별로",
+      "pos": "부사",
+      "example": "あまり、もう一度確認します。",
+      "exampleTranslation": "별로, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2903",
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "전혀",
+      "pos": "부사",
+      "example": "全然、もう一度確認します。",
+      "exampleTranslation": "전혀, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2904",
+      "word": "一番",
+      "reading": "いちばん",
+      "meaning": "가장",
+      "pos": "부사",
+      "example": "一番、もう一度確認します。",
+      "exampleTranslation": "가장, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2905",
+      "word": "もっと",
+      "reading": "もっと",
+      "meaning": "더",
+      "pos": "부사",
+      "example": "もっと、もう一度確認します。",
+      "exampleTranslation": "더, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2906",
+      "word": "少し",
+      "reading": "すこし",
+      "meaning": "조금",
+      "pos": "부사",
+      "example": "少し、もう一度確認します。",
+      "exampleTranslation": "조금, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2907",
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "meaning": "잠깐/조금",
+      "pos": "부사",
+      "example": "ちょっと、もう一度確認します。",
+      "exampleTranslation": "잠깐/조금, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2908",
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "meaning": "천천히",
+      "pos": "부사",
+      "example": "ゆっくり、もう一度確認します。",
+      "exampleTranslation": "천천히, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2909",
+      "word": "早く",
+      "reading": "はやく",
+      "meaning": "빨리/일찍",
+      "pos": "부사",
+      "example": "早く、もう一度確認します。",
+      "exampleTranslation": "빨리/일찍, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2910",
+      "word": "まっすぐ",
+      "reading": "まっすぐ",
+      "meaning": "똑바로",
+      "pos": "부사",
+      "example": "まっすぐ、もう一度確認します。",
+      "exampleTranslation": "똑바로, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2911",
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "meaning": "함께",
+      "pos": "부사",
+      "example": "一緒に、もう一度確認します。",
+      "exampleTranslation": "함께, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2912",
+      "word": "別々に",
+      "reading": "べつべつに",
+      "meaning": "따로따로",
+      "pos": "부사",
+      "example": "別々に、もう一度確認します。",
+      "exampleTranslation": "따로따로, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2913",
+      "word": "初めて",
+      "reading": "はじめて",
+      "meaning": "처음으로",
+      "pos": "부사",
+      "example": "初めて、もう一度確認します。",
+      "exampleTranslation": "처음으로, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2914",
+      "word": "先に",
+      "reading": "さきに",
+      "meaning": "먼저",
+      "pos": "부사",
+      "example": "先に、もう一度確認します。",
+      "exampleTranslation": "먼저, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2915",
+      "word": "後で",
+      "reading": "あとで",
+      "meaning": "나중에",
+      "pos": "부사",
+      "example": "後で、もう一度確認します。",
+      "exampleTranslation": "나중에, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2916",
+      "word": "すぐに",
+      "reading": "すぐに",
+      "meaning": "곧/바로",
+      "pos": "부사",
+      "example": "すぐに、もう一度確認します。",
+      "exampleTranslation": "곧/바로, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2917",
+      "word": "急に",
+      "reading": "きゅうに",
+      "meaning": "갑자기",
+      "pos": "부사",
+      "example": "急に、もう一度確認します。",
+      "exampleTranslation": "갑자기, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2918",
+      "word": "たぶん",
+      "reading": "たぶん",
+      "meaning": "아마",
+      "pos": "부사",
+      "example": "たぶん、もう一度確認します。",
+      "exampleTranslation": "아마, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2919",
+      "word": "そして",
+      "reading": "そして",
+      "meaning": "그리고",
+      "pos": "접속사",
+      "example": "そして、もう一度確認します。",
+      "exampleTranslation": "그리고, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2920",
+      "word": "それから",
+      "reading": "それから",
+      "meaning": "그 다음에",
+      "pos": "접속사",
+      "example": "それから、もう一度確認します。",
+      "exampleTranslation": "그 다음에, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2921",
+      "word": "でも",
+      "reading": "でも",
+      "meaning": "하지만",
+      "pos": "접속사",
+      "example": "でも、もう一度確認します。",
+      "exampleTranslation": "하지만, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2922",
+      "word": "だから",
+      "reading": "だから",
+      "meaning": "그러니까",
+      "pos": "접속사",
+      "example": "だから、もう一度確認します。",
+      "exampleTranslation": "그러니까, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2923",
+      "word": "では",
+      "reading": "では",
+      "meaning": "그러면",
+      "pos": "접속사",
+      "example": "では、もう一度確認します。",
+      "exampleTranslation": "그러면, 한 번 더 확인합니다."
+    },
+    {
+      "id": "v2924",
+      "word": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "수업",
+      "pos": "명사",
+      "example": "これは授業です。",
+      "exampleTranslation": "이것은 수업입니다."
+    },
+    {
+      "id": "v2925",
+      "word": "答え",
+      "reading": "こたえ",
+      "meaning": "답",
+      "pos": "명사",
+      "example": "これは答えです。",
+      "exampleTranslation": "이것은 답입니다."
+    },
+    {
+      "id": "v2926",
+      "word": "質問",
+      "reading": "しつもん",
+      "meaning": "질문",
+      "pos": "명사",
+      "example": "これは質問です。",
+      "exampleTranslation": "이것은 질문입니다."
+    },
+    {
+      "id": "v2927",
+      "word": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "교과서",
+      "pos": "명사",
+      "example": "これは教科書です。",
+      "exampleTranslation": "이것은 교과서입니다."
+    },
+    {
+      "id": "v2928",
+      "word": "黒板",
+      "reading": "こくばん",
+      "meaning": "칠판",
+      "pos": "명사",
+      "example": "これは黒板です。",
+      "exampleTranslation": "이것은 칠판입니다."
+    },
+    {
+      "id": "v2929",
+      "word": "漢字",
+      "reading": "かんじ",
+      "meaning": "한자",
+      "pos": "명사",
+      "example": "これは漢字です。",
+      "exampleTranslation": "이것은 한자입니다."
+    },
+    {
+      "id": "v2930",
+      "word": "ひらがな",
+      "reading": "ひらがな",
+      "meaning": "히라가나",
+      "pos": "명사",
+      "example": "これはひらがなです。",
+      "exampleTranslation": "이것은 히라가나입니다."
+    },
+    {
+      "id": "v2931",
+      "word": "カタカナ",
+      "reading": "カタカナ",
+      "meaning": "가타카나",
+      "pos": "명사",
+      "example": "これはカタカナです。",
+      "exampleTranslation": "이것은 가타카나입니다."
+    },
+    {
+      "id": "v2932",
+      "word": "文法",
+      "reading": "ぶんぽう",
+      "meaning": "문법",
+      "pos": "명사",
+      "example": "これは文法です。",
+      "exampleTranslation": "이것은 문법입니다."
+    },
+    {
+      "id": "v2933",
+      "word": "単語",
+      "reading": "たんご",
+      "meaning": "단어",
+      "pos": "명사",
+      "example": "これは単語です。",
+      "exampleTranslation": "이것은 단어입니다."
+    },
+    {
+      "id": "v2934",
+      "word": "発音",
+      "reading": "はつおん",
+      "meaning": "발음",
+      "pos": "명사",
+      "example": "これは発音です。",
+      "exampleTranslation": "이것은 발음입니다."
+    },
+    {
+      "id": "v2935",
+      "word": "読み方",
+      "reading": "よみかた",
+      "meaning": "읽는 법",
+      "pos": "명사",
+      "example": "これは読み方です。",
+      "exampleTranslation": "이것은 읽는 법입니다."
+    },
+    {
+      "id": "v2936",
+      "word": "書き方",
+      "reading": "かきかた",
+      "meaning": "쓰는 법",
+      "pos": "명사",
+      "example": "これは書き方です。",
+      "exampleTranslation": "이것은 쓰는 법입니다."
+    },
+    {
+      "id": "v2937",
+      "word": "練習",
+      "reading": "れんしゅう",
+      "meaning": "연습",
+      "pos": "명사",
+      "example": "これは練習です。",
+      "exampleTranslation": "이것은 연습입니다."
+    },
+    {
+      "id": "v2938",
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "복습",
+      "pos": "명사",
+      "example": "これは復習です。",
+      "exampleTranslation": "이것은 복습입니다."
+    },
+    {
+      "id": "v2939",
+      "word": "予習",
+      "reading": "よしゅう",
+      "meaning": "예습",
+      "pos": "명사",
+      "example": "これは予習です。",
+      "exampleTranslation": "이것은 예습입니다."
+    },
+    {
+      "id": "v2940",
+      "word": "作文",
+      "reading": "さくぶん",
+      "meaning": "작문",
+      "pos": "명사",
+      "example": "これは作文です。",
+      "exampleTranslation": "이것은 작문입니다."
+    },
+    {
+      "id": "v2941",
+      "word": "会話",
+      "reading": "かいわ",
+      "meaning": "회화",
+      "pos": "명사",
+      "example": "これは会話です。",
+      "exampleTranslation": "이것은 회화입니다."
+    },
+    {
+      "id": "v2942",
+      "word": "船",
+      "reading": "ふね",
+      "meaning": "배",
+      "pos": "명사",
+      "example": "これは船です。",
+      "exampleTranslation": "이것은 배입니다."
+    },
+    {
+      "id": "v2943",
+      "word": "タクシー",
+      "reading": "タクシー",
+      "meaning": "택시",
+      "pos": "명사",
+      "example": "これはタクシーです。",
+      "exampleTranslation": "이것은 택시입니다."
+    },
+    {
+      "id": "v2944",
+      "word": "乗り場",
+      "reading": "のりば",
+      "meaning": "타는 곳",
+      "pos": "명사",
+      "example": "これは乗り場です。",
+      "exampleTranslation": "이것은 타는 곳입니다."
+    },
+    {
+      "id": "v2945",
+      "word": "降り場",
+      "reading": "おりば",
+      "meaning": "내리는 곳",
+      "pos": "명사",
+      "example": "これは降り場です。",
+      "exampleTranslation": "이것은 내리는 곳입니다."
+    },
+    {
+      "id": "v2946",
+      "word": "料金",
+      "reading": "りょうきん",
+      "meaning": "요금",
+      "pos": "명사",
+      "example": "これは料金です。",
+      "exampleTranslation": "이것은 요금입니다."
+    },
+    {
+      "id": "v2947",
+      "word": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "유료",
+      "pos": "명사",
+      "example": "これは有料です。",
+      "exampleTranslation": "이것은 유료입니다."
+    },
+    {
+      "id": "v2948",
+      "word": "窓側",
+      "reading": "まどがわ",
+      "meaning": "창가 쪽",
+      "pos": "명사",
+      "example": "これは窓側です。",
+      "exampleTranslation": "이것은 창가 쪽입니다."
+    },
+    {
+      "id": "v2949",
+      "word": "通路側",
+      "reading": "つうろがわ",
+      "meaning": "통로 쪽",
+      "pos": "명사",
+      "example": "これは通路側です。",
+      "exampleTranslation": "이것은 통로 쪽입니다."
+    },
+    {
+      "id": "v2950",
+      "word": "禁煙",
+      "reading": "きんえん",
+      "meaning": "금연",
+      "pos": "명사",
+      "example": "これは禁煙です。",
+      "exampleTranslation": "이것은 금연입니다."
+    },
+    {
+      "id": "v2951",
+      "word": "喫煙",
+      "reading": "きつえん",
+      "meaning": "흡연",
+      "pos": "명사",
+      "example": "これは喫煙です。",
+      "exampleTranslation": "이것은 흡연입니다."
+    },
+    {
+      "id": "v2952",
+      "word": "満席",
+      "reading": "まんせき",
+      "meaning": "만석",
+      "pos": "명사",
+      "example": "これは満席です。",
+      "exampleTranslation": "이것은 만석입니다."
+    },
+    {
+      "id": "v2953",
+      "word": "空席",
+      "reading": "くうせき",
+      "meaning": "빈자리",
+      "pos": "명사",
+      "example": "これは空席です。",
+      "exampleTranslation": "이것은 빈자리입니다."
+    },
+    {
+      "id": "v2954",
+      "word": "遅延",
+      "reading": "ちえん",
+      "meaning": "지연",
+      "pos": "명사",
+      "example": "これは遅延です。",
+      "exampleTranslation": "이것은 지연입니다."
+    },
+    {
+      "id": "v2955",
+      "word": "価格",
+      "reading": "かかく",
+      "meaning": "가격",
+      "pos": "명사",
+      "example": "これは価格です。",
+      "exampleTranslation": "이것은 가격입니다."
+    },
+    {
+      "id": "v2956",
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaning": "상품",
+      "pos": "명사",
+      "example": "これは商品です。",
+      "exampleTranslation": "이것은 상품입니다."
+    },
+    {
+      "id": "v2957",
+      "word": "品物",
+      "reading": "しなもの",
+      "meaning": "물건",
+      "pos": "명사",
+      "example": "これは品物です。",
+      "exampleTranslation": "이것은 물건입니다."
+    },
+    {
+      "id": "v2958",
+      "word": "売り場",
+      "reading": "うりば",
+      "meaning": "판매장",
+      "pos": "명사",
+      "example": "これは売り場です。",
+      "exampleTranslation": "이것은 판매장입니다."
+    },
+    {
+      "id": "v2959",
+      "word": "店員",
+      "reading": "てんいん",
+      "meaning": "점원",
+      "pos": "명사",
+      "example": "これは店員です。",
+      "exampleTranslation": "이것은 점원입니다."
+    },
+    {
+      "id": "v2960",
+      "word": "客",
+      "reading": "きゃく",
+      "meaning": "손님",
+      "pos": "명사",
+      "example": "これは客です。",
+      "exampleTranslation": "이것은 손님입니다."
+    },
+    {
+      "id": "v2961",
+      "word": "お釣り",
+      "reading": "おつり",
+      "meaning": "거스름돈",
+      "pos": "명사",
+      "example": "これはお釣りです。",
+      "exampleTranslation": "이것은 거스름돈입니다."
+    },
+    {
+      "id": "v2962",
+      "word": "安売り",
+      "reading": "やすうり",
+      "meaning": "할인 판매",
+      "pos": "명사",
+      "example": "これは安売りです。",
+      "exampleTranslation": "이것은 할인 판매입니다."
+    },
+    {
+      "id": "v2963",
+      "word": "半額",
+      "reading": "はんがく",
+      "meaning": "반값",
+      "pos": "명사",
+      "example": "これは半額です。",
+      "exampleTranslation": "이것은 반값입니다."
+    },
+    {
+      "id": "v2964",
+      "word": "箱",
+      "reading": "はこ",
+      "meaning": "상자",
+      "pos": "명사",
+      "example": "これは箱です。",
+      "exampleTranslation": "이것은 상자입니다."
+    },
+    {
+      "id": "v2965",
+      "word": "サイズ",
+      "reading": "サイズ",
+      "meaning": "사이즈",
+      "pos": "명사",
+      "example": "これはサイズです。",
+      "exampleTranslation": "이것은 사이즈입니다."
+    },
+    {
+      "id": "v2966",
+      "word": "色",
+      "reading": "いろ",
+      "meaning": "색",
+      "pos": "명사",
+      "example": "これは色です。",
+      "exampleTranslation": "이것은 색입니다."
     }
   ]
 }
