@@ -1,8 +1,9 @@
 "use client";
 import type { PersistedState, VocabProgress, ItemProgress, MockResult, Settings } from "./types";
 
-const KEY = "jlpt-n3:v1";
-const CURRENT_VERSION = 1;
+const KEY = "jlpt-n3:v2";
+const CURRENT_VERSION = 2;
+const LEGACY_KEY_V1 = "jlpt-n3:v1";
 
 const DEFAULT_STATE: PersistedState = {
   version: CURRENT_VERSION,
@@ -17,6 +18,12 @@ const DEFAULT_STATE: PersistedState = {
 export function loadState(): PersistedState {
   if (typeof window === "undefined") return DEFAULT_STATE;
   try {
+    // v2 부터는 deck 구조가 크게 바뀌어 기존 v1 진도는 호환 불가 — 정리
+    try {
+      if (window.localStorage.getItem(LEGACY_KEY_V1)) {
+        window.localStorage.removeItem(LEGACY_KEY_V1);
+      }
+    } catch {}
     const raw = window.localStorage.getItem(KEY);
     if (!raw) return DEFAULT_STATE;
     const parsed = JSON.parse(raw) as PersistedState;
