@@ -17,7 +17,26 @@ type KanaSet = {
   youon: KanaCell[][];
 };
 
-export function KanaClient({ hiragana, katakana }: { hiragana: KanaSet; katakana: KanaSet }) {
+interface KanaQuizQuestion {
+  id: string;
+  category: "hiragana_basic" | "katakana_basic" | "dakuten_handakuten" | "youon" | "word_pronunciation";
+  question: string;
+  options: string[];
+  answer_index: number;
+  answer_romaji: string;
+  meaning_ko?: string;
+  explanation_ko?: string;
+}
+
+export function KanaClient({
+  hiragana,
+  katakana,
+  quizQuestions,
+}: {
+  hiragana: KanaSet;
+  katakana: KanaSet;
+  quizQuestions: KanaQuizQuestion[];
+}) {
   return (
     <Tabs defaultValue="hiragana">
       <TabsList className="h-auto p-1.5 bg-secondary/70 dark:bg-secondary/40 grid grid-cols-3 w-full md:w-auto md:inline-grid gap-1">
@@ -62,7 +81,7 @@ export function KanaClient({ hiragana, katakana }: { hiragana: KanaSet; katakana
       </TabsContent>
 
       <TabsContent value="quiz">
-        <KanaQuiz hiragana={hiragana} katakana={katakana} />
+        <KanaQuiz questions={quizQuestions} />
       </TabsContent>
     </Tabs>
   );
@@ -174,111 +193,162 @@ function KanaCellTile({ cell }: { cell: KanaCell }) {
   );
 }
 
-/* ------------------ 가나 발음 퀴즈 ------------------ */
-function KanaQuiz({ hiragana, katakana }: { hiragana: KanaSet; katakana: KanaSet }) {
-  const pool = useMemo(() => {
-    const all: KanaCell[] = [];
-    for (const set of [hiragana, katakana]) {
-      for (const group of [set.gojuon, set.dakuten, set.youon]) {
-        for (const row of group) {
-          for (const c of row) if (c.k) all.push(c);
-        }
-      }
-    }
-    return all;
-  }, [hiragana, katakana]);
+/* ------------------ 가나 발음 퀴즈 (220 문제 풀) ------------------ */
+const CATEGORY_LABEL: Record<string, string> = {
+  all: "전체",
+  hiragana_basic: "히라가나 기본",
+  katakana_basic: "가타카나 기본",
+  dakuten_handakuten: "탁음·반탁음",
+  youon: "요음",
+  word_pronunciation: "단어 발음",
+};
 
+function KanaQuiz({ questions }: { questions: KanaQuizQuestion[] }) {
+  const [category, setCategory] = useState<string>("all");
   const [round, setRound] = useState(0);
   const [score, setScore] = useState({ ok: 0, ng: 0 });
   const [chosen, setChosen] = useState<number | null>(null);
+  const [orderRandom, setOrderRandom] = useState(true);
 
-  const quiz = useMemo(() => buildQuiz(pool), [pool, round]);
+  const pool = useMemo(() => {
+    let arr = category === "all" ? questions : questions.filter((q) => q.category === category);
+    if (orderRandom) arr = shuffle(arr);
+    return arr;
+  }, [questions, category, orderRandom, round === -1 ? 0 : 0]); // pool은 카테고리 변경 시 재구성
+
+  const current = pool[round % pool.length];
 
   function pick(i: number) {
-    if (chosen !== null) return;
+    if (chosen !== null || !current) return;
     setChosen(i);
-    const correct = quiz.choices[i].k === quiz.target.k;
+    const correct = i === current.answer_index;
     setScore((s) => (correct ? { ...s, ok: s.ok + 1 } : { ...s, ng: s.ng + 1 }));
     setTimeout(() => {
       setChosen(null);
       setRound((r) => r + 1);
-    }, 1200);
+    }, 1300);
+  }
+
+  function reset() {
+    setScore({ ok: 0, ng: 0 });
+    setRound(0);
+    setChosen(null);
   }
 
   const total = score.ok + score.ng;
   const pct = total > 0 ? Math.round((score.ok / total) * 100) : 0;
 
+  const cats = ["all", "hiragana_basic", "katakana_basic", "dakuten_handakuten", "youon", "word_pronunciation"];
+  const catCounts: Record<string, number> = { all: questions.length };
+  for (const q of questions) catCounts[q.category] = (catCounts[q.category] || 0) + 1;
+
   return (
     <div className="space-y-4">
       <Card>
-        <CardContent className="p-4 flex items-center justify-between flex-wrap gap-2">
+        <CardContent className="p-4 flex items-center justify-between flex-wrap gap-3">
           <div className="flex items-center gap-3">
             <Badge variant="secondary">정답률 {pct}%</Badge>
             <span className="text-sm text-muted-foreground">
-              ✅ {score.ok} · ❌ {score.ng}
+              ✅ {score.ok} · ❌ {score.ng} · 풀이 {total}
             </span>
           </div>
-          <Button variant="outline" size="sm" onClick={() => { setScore({ ok: 0, ng: 0 }); setRound((r) => r + 1); }}>
+          <Button variant="outline" size="sm" onClick={reset}>
             <RotateCw className="h-3.5 w-3.5 mr-1" /> 리셋
           </Button>
         </CardContent>
       </Card>
 
-      <Card>
-        <CardHeader>
-          <CardTitle className="text-base">아래 가나의 로마자 표기는?</CardTitle>
-        </CardHeader>
-        <CardContent className="space-y-4">
-          <div className="flex items-center justify-center gap-3 py-6 bg-primary/5 rounded-xl">
-            <div className="text-7xl jp font-bold">{quiz.target.k}</div>
-            <Button
-              variant="ghost"
-              size="icon"
-              onClick={() => speakJa(quiz.target.k, { rate: 0.85 })}
-              aria-label="발음"
-            >
-              <Volume2 className="h-5 w-5" />
-            </Button>
-          </div>
-          <div className="grid grid-cols-2 gap-2">
-            {quiz.choices.map((c, i) => {
-              const isAnswer = c.k === quiz.target.k;
-              const isChosen = i === chosen;
-              return (
-                <button
-                  key={i}
-                  onClick={() => pick(i)}
-                  disabled={chosen !== null}
-                  className={cn(
-                    "rounded-lg border px-4 py-3 text-left transition-colors",
-                    chosen === null && "hover:border-primary hover:bg-accent",
-                    chosen !== null && isAnswer && "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40",
-                    chosen !== null && isChosen && !isAnswer && "border-red-500 bg-red-50 dark:bg-red-950/40"
-                  )}
-                >
-                  <span className="flex items-center justify-between">
-                    <span className="text-base font-medium">{c.r}</span>
-                    {chosen !== null && isAnswer && <Check className="h-4 w-4 text-emerald-600" />}
-                    {chosen !== null && isChosen && !isAnswer && <X className="h-4 w-4 text-red-600" />}
-                  </span>
-                </button>
-              );
-            })}
-          </div>
-          {chosen !== null && (
-            <div className="text-center text-sm text-muted-foreground">
-              {quiz.target.k} = <span className="font-medium">{quiz.target.r}</span> ({quiz.target.ko})
+      {/* 카테고리 선택 */}
+      <div className="flex flex-wrap gap-2">
+        {cats.map((c) => (
+          <Button
+            key={c}
+            variant={category === c ? "default" : "outline"}
+            size="sm"
+            onClick={() => { setCategory(c); reset(); }}
+          >
+            {CATEGORY_LABEL[c]} <span className="ml-1.5 text-[10px] opacity-70">{catCounts[c] ?? 0}</span>
+          </Button>
+        ))}
+      </div>
+
+      {!current ? (
+        <Card>
+          <CardContent className="py-12 text-center text-muted-foreground">
+            문제가 준비되지 않았습니다.
+          </CardContent>
+        </Card>
+      ) : (
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-base">
+              {current.category === "word_pronunciation"
+                ? "아래 단어의 발음은?"
+                : "아래 가나의 로마자 표기는?"}
+            </CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            <div className="flex items-center justify-center gap-3 py-6 bg-primary/5 rounded-xl">
+              <div className={cn(
+                "jp font-bold",
+                current.category === "word_pronunciation" ? "text-4xl md:text-5xl" : "text-7xl md:text-8xl"
+              )}>
+                {current.question}
+              </div>
+              <Button
+                variant="ghost"
+                size="icon"
+                onClick={() => speakJa(current.question, { rate: 0.85 })}
+                aria-label="발음"
+                className="h-11 w-11"
+              >
+                <Volume2 className="h-5 w-5" />
+              </Button>
             </div>
-          )}
-        </CardContent>
-      </Card>
+            <div className="grid grid-cols-2 gap-2">
+              {current.options.map((c, i) => {
+                const isAnswer = i === current.answer_index;
+                const isChosen = i === chosen;
+                return (
+                  <button
+                    key={i}
+                    onClick={() => pick(i)}
+                    disabled={chosen !== null}
+                    className={cn(
+                      "rounded-lg border-2 px-4 py-3 text-left transition-colors min-h-[48px]",
+                      chosen === null && "hover:border-primary hover:bg-accent",
+                      chosen !== null && isAnswer && "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40",
+                      chosen !== null && isChosen && !isAnswer && "border-red-500 bg-red-50 dark:bg-red-950/40",
+                      chosen !== null && !isAnswer && !isChosen && "opacity-60",
+                      chosen === null && "border-border"
+                    )}
+                  >
+                    <span className="flex items-center justify-between">
+                      <span className="text-base font-mono font-medium">{c}</span>
+                      {chosen !== null && isAnswer && <Check className="h-4 w-4 text-emerald-600" />}
+                      {chosen !== null && isChosen && !isAnswer && <X className="h-4 w-4 text-red-600" />}
+                    </span>
+                  </button>
+                );
+              })}
+            </div>
+            {chosen !== null && (
+              <div className="rounded-lg bg-muted p-3 text-sm space-y-1">
+                <div>
+                  <span className="font-semibold">{current.question}</span> →{" "}
+                  <span className="font-mono text-primary">{current.answer_romaji}</span>
+                  {current.meaning_ko && (
+                    <span className="text-muted-foreground"> ({current.meaning_ko})</span>
+                  )}
+                </div>
+                {current.explanation_ko && (
+                  <div className="text-xs text-muted-foreground">{current.explanation_ko}</div>
+                )}
+              </div>
+            )}
+          </CardContent>
+        </Card>
+      )}
     </div>
   );
-}
-
-function buildQuiz(pool: KanaCell[]) {
-  const target = pool[Math.floor(Math.random() * pool.length)];
-  const distract = shuffle(pool.filter((c) => c.r !== target.r)).slice(0, 3);
-  const choices = shuffle([target, ...distract]);
-  return { target, choices };
 }

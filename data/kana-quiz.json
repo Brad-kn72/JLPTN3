@@ -1,0 +1,3757 @@
+{
+  "meta": {
+    "title": "Kana Pronunciation Quiz Extra Pack",
+    "created_at": "2026-06-04T04:09:18",
+    "count": 220,
+    "categories": {
+      "hiragana_basic": 46,
+      "katakana_basic": 46,
+      "dakuten_handakuten": 50,
+      "youon": 54,
+      "word_pronunciation": 24
+    },
+    "schema_note_ko": "문제는 가나를 보고 romaji 발음을 고르는 형식입니다. 사이트 스키마에 맞게 key만 조정해서 임포트하면 됩니다."
+  },
+  "kana_pronunciation_questions": [
+    {
+      "id": "KANA-PRON-0001",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "あ",
+      "options": [
+        "a",
+        "ka",
+        "su",
+        "ri"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "a",
+      "meaning_ko": "아",
+      "explanation_ko": "あ의 발음은 a입니다."
+    },
+    {
+      "id": "KANA-PRON-0002",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "い",
+      "options": [
+        "i",
+        "ri",
+        "wo",
+        "na"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "i",
+      "meaning_ko": "이",
+      "explanation_ko": "い의 발음은 i입니다."
+    },
+    {
+      "id": "KANA-PRON-0003",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "う",
+      "options": [
+        "ta",
+        "sa",
+        "ha",
+        "u"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "u",
+      "meaning_ko": "우",
+      "explanation_ko": "う의 발음은 u입니다."
+    },
+    {
+      "id": "KANA-PRON-0004",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "え",
+      "options": [
+        "a",
+        "ho",
+        "ma",
+        "e"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "e",
+      "meaning_ko": "에",
+      "explanation_ko": "え의 발음은 e입니다."
+    },
+    {
+      "id": "KANA-PRON-0005",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "お",
+      "options": [
+        "o",
+        "ni",
+        "me",
+        "i"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "o",
+      "meaning_ko": "오",
+      "explanation_ko": "お의 발음은 o입니다."
+    },
+    {
+      "id": "KANA-PRON-0006",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "か",
+      "options": [
+        "ta",
+        "ka",
+        "ne",
+        "no"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ka",
+      "meaning_ko": "카",
+      "explanation_ko": "か의 발음은 ka입니다."
+    },
+    {
+      "id": "KANA-PRON-0007",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "き",
+      "options": [
+        "ki",
+        "ra",
+        "mu",
+        "ne"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ki",
+      "meaning_ko": "키",
+      "explanation_ko": "き의 발음은 ki입니다."
+    },
+    {
+      "id": "KANA-PRON-0008",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "く",
+      "options": [
+        "yo",
+        "nu",
+        "ku",
+        "sa"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ku",
+      "meaning_ko": "쿠",
+      "explanation_ko": "く의 발음은 ku입니다."
+    },
+    {
+      "id": "KANA-PRON-0009",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "け",
+      "options": [
+        "nu",
+        "fu",
+        "e",
+        "ke"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ke",
+      "meaning_ko": "케",
+      "explanation_ko": "け의 발음은 ke입니다."
+    },
+    {
+      "id": "KANA-PRON-0010",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "こ",
+      "options": [
+        "na",
+        "ko",
+        "sa",
+        "e"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ko",
+      "meaning_ko": "코",
+      "explanation_ko": "こ의 발음은 ko입니다."
+    },
+    {
+      "id": "KANA-PRON-0011",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "さ",
+      "options": [
+        "wa",
+        "ya",
+        "sa",
+        "mu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "sa",
+      "meaning_ko": "사",
+      "explanation_ko": "さ의 발음은 sa입니다."
+    },
+    {
+      "id": "KANA-PRON-0012",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "し",
+      "options": [
+        "n",
+        "yu",
+        "mu",
+        "shi"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "shi",
+      "meaning_ko": "시",
+      "explanation_ko": "し의 발음은 shi입니다."
+    },
+    {
+      "id": "KANA-PRON-0013",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "す",
+      "options": [
+        "e",
+        "mi",
+        "nu",
+        "su"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "su",
+      "meaning_ko": "스",
+      "explanation_ko": "す의 발음은 su입니다."
+    },
+    {
+      "id": "KANA-PRON-0014",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "せ",
+      "options": [
+        "se",
+        "chi",
+        "no",
+        "n"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "se",
+      "meaning_ko": "세",
+      "explanation_ko": "せ의 발음은 se입니다."
+    },
+    {
+      "id": "KANA-PRON-0015",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "そ",
+      "options": [
+        "ki",
+        "ko",
+        "fu",
+        "so"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "so",
+      "meaning_ko": "소",
+      "explanation_ko": "そ의 발음은 so입니다."
+    },
+    {
+      "id": "KANA-PRON-0016",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "た",
+      "options": [
+        "se",
+        "i",
+        "ta",
+        "ra"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ta",
+      "meaning_ko": "타",
+      "explanation_ko": "た의 발음은 ta입니다."
+    },
+    {
+      "id": "KANA-PRON-0017",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ち",
+      "options": [
+        "ni",
+        "chi",
+        "ho",
+        "ku"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "chi",
+      "meaning_ko": "치",
+      "explanation_ko": "ち의 발음은 chi입니다."
+    },
+    {
+      "id": "KANA-PRON-0018",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "つ",
+      "options": [
+        "mo",
+        "a",
+        "tsu",
+        "ru"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "tsu",
+      "meaning_ko": "츠",
+      "explanation_ko": "つ의 발음은 tsu입니다."
+    },
+    {
+      "id": "KANA-PRON-0019",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "て",
+      "options": [
+        "te",
+        "ki",
+        "re",
+        "ri"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "te",
+      "meaning_ko": "테",
+      "explanation_ko": "て의 발음은 te입니다."
+    },
+    {
+      "id": "KANA-PRON-0020",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "と",
+      "options": [
+        "shi",
+        "mi",
+        "to",
+        "yo"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "to",
+      "meaning_ko": "토",
+      "explanation_ko": "と의 발음은 to입니다."
+    },
+    {
+      "id": "KANA-PRON-0021",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "な",
+      "options": [
+        "mo",
+        "na",
+        "sa",
+        "me"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "na",
+      "meaning_ko": "나",
+      "explanation_ko": "な의 발음은 na입니다."
+    },
+    {
+      "id": "KANA-PRON-0022",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "に",
+      "options": [
+        "ni",
+        "ka",
+        "ne",
+        "su"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ni",
+      "meaning_ko": "니",
+      "explanation_ko": "に의 발음은 ni입니다."
+    },
+    {
+      "id": "KANA-PRON-0023",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぬ",
+      "options": [
+        "u",
+        "nu",
+        "se",
+        "ya"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "nu",
+      "meaning_ko": "누",
+      "explanation_ko": "ぬ의 발음은 nu입니다."
+    },
+    {
+      "id": "KANA-PRON-0024",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ね",
+      "options": [
+        "nu",
+        "wo",
+        "ra",
+        "ne"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ne",
+      "meaning_ko": "네",
+      "explanation_ko": "ね의 발음은 ne입니다."
+    },
+    {
+      "id": "KANA-PRON-0025",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "の",
+      "options": [
+        "ku",
+        "u",
+        "fu",
+        "no"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "no",
+      "meaning_ko": "노",
+      "explanation_ko": "の의 발음은 no입니다."
+    },
+    {
+      "id": "KANA-PRON-0026",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "は",
+      "options": [
+        "nu",
+        "yo",
+        "a",
+        "ha"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ha",
+      "meaning_ko": "하",
+      "explanation_ko": "は의 발음은 ha입니다."
+    },
+    {
+      "id": "KANA-PRON-0027",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ひ",
+      "options": [
+        "se",
+        "hi",
+        "wa",
+        "ku"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "hi",
+      "meaning_ko": "히",
+      "explanation_ko": "ひ의 발음은 hi입니다."
+    },
+    {
+      "id": "KANA-PRON-0028",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ふ",
+      "options": [
+        "to",
+        "o",
+        "fu",
+        "n"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "fu",
+      "meaning_ko": "후",
+      "explanation_ko": "ふ의 발음은 fu입니다."
+    },
+    {
+      "id": "KANA-PRON-0029",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "へ",
+      "options": [
+        "ru",
+        "he",
+        "ko",
+        "ki"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "he",
+      "meaning_ko": "헤",
+      "explanation_ko": "へ의 발음은 he입니다."
+    },
+    {
+      "id": "KANA-PRON-0030",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ほ",
+      "options": [
+        "wa",
+        "ni",
+        "yu",
+        "ho"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ho",
+      "meaning_ko": "호",
+      "explanation_ko": "ほ의 발음은 ho입니다."
+    },
+    {
+      "id": "KANA-PRON-0031",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ま",
+      "options": [
+        "ma",
+        "o",
+        "wa",
+        "he"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ma",
+      "meaning_ko": "마",
+      "explanation_ko": "ま의 발음은 ma입니다."
+    },
+    {
+      "id": "KANA-PRON-0032",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "み",
+      "options": [
+        "mi",
+        "ku",
+        "hi",
+        "ki"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "mi",
+      "meaning_ko": "미",
+      "explanation_ko": "み의 발음은 mi입니다."
+    },
+    {
+      "id": "KANA-PRON-0033",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "む",
+      "options": [
+        "ru",
+        "mu",
+        "te",
+        "fu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "mu",
+      "meaning_ko": "무",
+      "explanation_ko": "む의 발음은 mu입니다."
+    },
+    {
+      "id": "KANA-PRON-0034",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "め",
+      "options": [
+        "ku",
+        "sa",
+        "fu",
+        "me"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "me",
+      "meaning_ko": "메",
+      "explanation_ko": "め의 발음은 me입니다."
+    },
+    {
+      "id": "KANA-PRON-0035",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "も",
+      "options": [
+        "mo",
+        "tsu",
+        "mi",
+        "me"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "mo",
+      "meaning_ko": "모",
+      "explanation_ko": "も의 발음은 mo입니다."
+    },
+    {
+      "id": "KANA-PRON-0036",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "や",
+      "options": [
+        "me",
+        "ya",
+        "wo",
+        "yu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ya",
+      "meaning_ko": "야",
+      "explanation_ko": "や의 발음은 ya입니다."
+    },
+    {
+      "id": "KANA-PRON-0037",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ゆ",
+      "options": [
+        "a",
+        "mu",
+        "ro",
+        "yu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "yu",
+      "meaning_ko": "유",
+      "explanation_ko": "ゆ의 발음은 yu입니다."
+    },
+    {
+      "id": "KANA-PRON-0038",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "よ",
+      "options": [
+        "na",
+        "yo",
+        "no",
+        "u"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "yo",
+      "meaning_ko": "요",
+      "explanation_ko": "よ의 발음은 yo입니다."
+    },
+    {
+      "id": "KANA-PRON-0039",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ら",
+      "options": [
+        "to",
+        "ka",
+        "wo",
+        "ra"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ra",
+      "meaning_ko": "라",
+      "explanation_ko": "ら의 발음은 ra입니다."
+    },
+    {
+      "id": "KANA-PRON-0040",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "り",
+      "options": [
+        "ri",
+        "e",
+        "me",
+        "ni"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ri",
+      "meaning_ko": "리",
+      "explanation_ko": "り의 발음은 ri입니다."
+    },
+    {
+      "id": "KANA-PRON-0041",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "る",
+      "options": [
+        "hi",
+        "chi",
+        "ru",
+        "re"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ru",
+      "meaning_ko": "루",
+      "explanation_ko": "る의 발음은 ru입니다."
+    },
+    {
+      "id": "KANA-PRON-0042",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "れ",
+      "options": [
+        "re",
+        "no",
+        "mu",
+        "ki"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "re",
+      "meaning_ko": "레",
+      "explanation_ko": "れ의 발음은 re입니다."
+    },
+    {
+      "id": "KANA-PRON-0043",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ろ",
+      "options": [
+        "ro",
+        "mo",
+        "sa",
+        "ke"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ro",
+      "meaning_ko": "로",
+      "explanation_ko": "ろ의 발음은 ro입니다."
+    },
+    {
+      "id": "KANA-PRON-0044",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "わ",
+      "options": [
+        "tsu",
+        "wa",
+        "ki",
+        "ya"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "wa",
+      "meaning_ko": "와",
+      "explanation_ko": "わ의 발음은 wa입니다."
+    },
+    {
+      "id": "KANA-PRON-0045",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "を",
+      "options": [
+        "wo",
+        "no",
+        "mu",
+        "ki"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "wo",
+      "meaning_ko": "오/워",
+      "explanation_ko": "を의 발음은 wo입니다."
+    },
+    {
+      "id": "KANA-PRON-0046",
+      "type": "kana_pronunciation",
+      "category": "hiragana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ん",
+      "options": [
+        "u",
+        "n",
+        "mo",
+        "ro"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "n",
+      "meaning_ko": "응/ㄴ",
+      "explanation_ko": "ん의 발음은 n입니다."
+    },
+    {
+      "id": "KANA-PRON-0047",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ア",
+      "options": [
+        "ni",
+        "a",
+        "sa",
+        "ya"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "a",
+      "meaning_ko": "아",
+      "explanation_ko": "ア의 발음은 a입니다."
+    },
+    {
+      "id": "KANA-PRON-0048",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "イ",
+      "options": [
+        "su",
+        "i",
+        "yu",
+        "mu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "i",
+      "meaning_ko": "이",
+      "explanation_ko": "イ의 발음은 i입니다."
+    },
+    {
+      "id": "KANA-PRON-0049",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ウ",
+      "options": [
+        "ro",
+        "ke",
+        "su",
+        "u"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "u",
+      "meaning_ko": "우",
+      "explanation_ko": "ウ의 발음은 u입니다."
+    },
+    {
+      "id": "KANA-PRON-0050",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "エ",
+      "options": [
+        "ri",
+        "e",
+        "ma",
+        "hi"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "e",
+      "meaning_ko": "에",
+      "explanation_ko": "エ의 발음은 e입니다."
+    },
+    {
+      "id": "KANA-PRON-0051",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "オ",
+      "options": [
+        "nu",
+        "ya",
+        "wa",
+        "o"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "o",
+      "meaning_ko": "오",
+      "explanation_ko": "オ의 발음은 o입니다."
+    },
+    {
+      "id": "KANA-PRON-0052",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "カ",
+      "options": [
+        "wo",
+        "te",
+        "ka",
+        "re"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ka",
+      "meaning_ko": "카",
+      "explanation_ko": "カ의 발음은 ka입니다."
+    },
+    {
+      "id": "KANA-PRON-0053",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "キ",
+      "options": [
+        "ki",
+        "hi",
+        "sa",
+        "ho"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ki",
+      "meaning_ko": "키",
+      "explanation_ko": "キ의 발음은 ki입니다."
+    },
+    {
+      "id": "KANA-PRON-0054",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ク",
+      "options": [
+        "ya",
+        "fu",
+        "ku",
+        "shi"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ku",
+      "meaning_ko": "쿠",
+      "explanation_ko": "ク의 발음은 ku입니다."
+    },
+    {
+      "id": "KANA-PRON-0055",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ケ",
+      "options": [
+        "ko",
+        "to",
+        "se",
+        "ke"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ke",
+      "meaning_ko": "케",
+      "explanation_ko": "ケ의 발음은 ke입니다."
+    },
+    {
+      "id": "KANA-PRON-0056",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "コ",
+      "options": [
+        "se",
+        "ko",
+        "a",
+        "ru"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ko",
+      "meaning_ko": "코",
+      "explanation_ko": "コ의 발음은 ko입니다."
+    },
+    {
+      "id": "KANA-PRON-0057",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "サ",
+      "options": [
+        "mu",
+        "sa",
+        "u",
+        "ni"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "sa",
+      "meaning_ko": "사",
+      "explanation_ko": "サ의 발음은 sa입니다."
+    },
+    {
+      "id": "KANA-PRON-0058",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "シ",
+      "options": [
+        "shi",
+        "ne",
+        "re",
+        "ri"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "shi",
+      "meaning_ko": "시",
+      "explanation_ko": "シ의 발음은 shi입니다."
+    },
+    {
+      "id": "KANA-PRON-0059",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ス",
+      "options": [
+        "n",
+        "su",
+        "hi",
+        "ri"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "su",
+      "meaning_ko": "스",
+      "explanation_ko": "ス의 발음은 su입니다."
+    },
+    {
+      "id": "KANA-PRON-0060",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "セ",
+      "options": [
+        "se",
+        "me",
+        "ki",
+        "hi"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "se",
+      "meaning_ko": "세",
+      "explanation_ko": "セ의 발음은 se입니다."
+    },
+    {
+      "id": "KANA-PRON-0061",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ソ",
+      "options": [
+        "ka",
+        "ke",
+        "so",
+        "re"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "so",
+      "meaning_ko": "소",
+      "explanation_ko": "ソ의 발음은 so입니다."
+    },
+    {
+      "id": "KANA-PRON-0062",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "タ",
+      "options": [
+        "ta",
+        "ko",
+        "ki",
+        "se"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ta",
+      "meaning_ko": "타",
+      "explanation_ko": "タ의 발음은 ta입니다."
+    },
+    {
+      "id": "KANA-PRON-0063",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "チ",
+      "options": [
+        "te",
+        "tsu",
+        "chi",
+        "nu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "chi",
+      "meaning_ko": "치",
+      "explanation_ko": "チ의 발음은 chi입니다."
+    },
+    {
+      "id": "KANA-PRON-0064",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ツ",
+      "options": [
+        "o",
+        "tsu",
+        "ma",
+        "u"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "tsu",
+      "meaning_ko": "츠",
+      "explanation_ko": "ツ의 발음은 tsu입니다."
+    },
+    {
+      "id": "KANA-PRON-0065",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "テ",
+      "options": [
+        "ma",
+        "yo",
+        "chi",
+        "te"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "te",
+      "meaning_ko": "테",
+      "explanation_ko": "テ의 발음은 te입니다."
+    },
+    {
+      "id": "KANA-PRON-0066",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ト",
+      "options": [
+        "to",
+        "ho",
+        "ya",
+        "so"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "to",
+      "meaning_ko": "토",
+      "explanation_ko": "ト의 발음은 to입니다."
+    },
+    {
+      "id": "KANA-PRON-0067",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ナ",
+      "options": [
+        "ra",
+        "ru",
+        "na",
+        "ya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "na",
+      "meaning_ko": "나",
+      "explanation_ko": "ナ의 발음은 na입니다."
+    },
+    {
+      "id": "KANA-PRON-0068",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ニ",
+      "options": [
+        "u",
+        "ra",
+        "ya",
+        "ni"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ni",
+      "meaning_ko": "니",
+      "explanation_ko": "ニ의 발음은 ni입니다."
+    },
+    {
+      "id": "KANA-PRON-0069",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヌ",
+      "options": [
+        "ra",
+        "ri",
+        "nu",
+        "ko"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "nu",
+      "meaning_ko": "누",
+      "explanation_ko": "ヌ의 발음은 nu입니다."
+    },
+    {
+      "id": "KANA-PRON-0070",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ネ",
+      "options": [
+        "wo",
+        "yu",
+        "ha",
+        "ne"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ne",
+      "meaning_ko": "네",
+      "explanation_ko": "ネ의 발음은 ne입니다."
+    },
+    {
+      "id": "KANA-PRON-0071",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ノ",
+      "options": [
+        "no",
+        "ya",
+        "i",
+        "mu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "no",
+      "meaning_ko": "노",
+      "explanation_ko": "ノ의 발음은 no입니다."
+    },
+    {
+      "id": "KANA-PRON-0072",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ハ",
+      "options": [
+        "te",
+        "ho",
+        "ha",
+        "tsu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ha",
+      "meaning_ko": "하",
+      "explanation_ko": "ハ의 발음은 ha입니다."
+    },
+    {
+      "id": "KANA-PRON-0073",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヒ",
+      "options": [
+        "yo",
+        "hi",
+        "su",
+        "ne"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "hi",
+      "meaning_ko": "히",
+      "explanation_ko": "ヒ의 발음은 hi입니다."
+    },
+    {
+      "id": "KANA-PRON-0074",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "フ",
+      "options": [
+        "no",
+        "ko",
+        "fu",
+        "ho"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "fu",
+      "meaning_ko": "후",
+      "explanation_ko": "フ의 발음은 fu입니다."
+    },
+    {
+      "id": "KANA-PRON-0075",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヘ",
+      "options": [
+        "na",
+        "he",
+        "mo",
+        "ho"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "he",
+      "meaning_ko": "헤",
+      "explanation_ko": "ヘ의 발음은 he입니다."
+    },
+    {
+      "id": "KANA-PRON-0076",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ホ",
+      "options": [
+        "ho",
+        "mu",
+        "ki",
+        "ro"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ho",
+      "meaning_ko": "호",
+      "explanation_ko": "ホ의 발음은 ho입니다."
+    },
+    {
+      "id": "KANA-PRON-0077",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "マ",
+      "options": [
+        "ma",
+        "ho",
+        "sa",
+        "hi"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ma",
+      "meaning_ko": "마",
+      "explanation_ko": "マ의 발음은 ma입니다."
+    },
+    {
+      "id": "KANA-PRON-0078",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ミ",
+      "options": [
+        "o",
+        "ra",
+        "ha",
+        "mi"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "mi",
+      "meaning_ko": "미",
+      "explanation_ko": "ミ의 발음은 mi입니다."
+    },
+    {
+      "id": "KANA-PRON-0079",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ム",
+      "options": [
+        "i",
+        "ka",
+        "mu",
+        "yu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "mu",
+      "meaning_ko": "무",
+      "explanation_ko": "ム의 발음은 mu입니다."
+    },
+    {
+      "id": "KANA-PRON-0080",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "メ",
+      "options": [
+        "wo",
+        "ma",
+        "sa",
+        "me"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "me",
+      "meaning_ko": "메",
+      "explanation_ko": "メ의 발음은 me입니다."
+    },
+    {
+      "id": "KANA-PRON-0081",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "モ",
+      "options": [
+        "mo",
+        "mi",
+        "ka",
+        "ne"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "mo",
+      "meaning_ko": "모",
+      "explanation_ko": "モ의 발음은 mo입니다."
+    },
+    {
+      "id": "KANA-PRON-0082",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヤ",
+      "options": [
+        "ru",
+        "u",
+        "ya",
+        "ra"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ya",
+      "meaning_ko": "야",
+      "explanation_ko": "ヤ의 발음은 ya입니다."
+    },
+    {
+      "id": "KANA-PRON-0083",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ユ",
+      "options": [
+        "ri",
+        "ke",
+        "so",
+        "yu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "yu",
+      "meaning_ko": "유",
+      "explanation_ko": "ユ의 발음은 yu입니다."
+    },
+    {
+      "id": "KANA-PRON-0084",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヨ",
+      "options": [
+        "a",
+        "yo",
+        "wo",
+        "ni"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "yo",
+      "meaning_ko": "요",
+      "explanation_ko": "ヨ의 발음은 yo입니다."
+    },
+    {
+      "id": "KANA-PRON-0085",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ラ",
+      "options": [
+        "ra",
+        "he",
+        "ru",
+        "mu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ra",
+      "meaning_ko": "라",
+      "explanation_ko": "ラ의 발음은 ra입니다."
+    },
+    {
+      "id": "KANA-PRON-0086",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "リ",
+      "options": [
+        "ra",
+        "wo",
+        "ri",
+        "sa"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ri",
+      "meaning_ko": "리",
+      "explanation_ko": "リ의 발음은 ri입니다."
+    },
+    {
+      "id": "KANA-PRON-0087",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ル",
+      "options": [
+        "ri",
+        "chi",
+        "ru",
+        "su"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ru",
+      "meaning_ko": "루",
+      "explanation_ko": "ル의 발음은 ru입니다."
+    },
+    {
+      "id": "KANA-PRON-0088",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "レ",
+      "options": [
+        "ho",
+        "re",
+        "se",
+        "ta"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "re",
+      "meaning_ko": "레",
+      "explanation_ko": "レ의 발음은 re입니다."
+    },
+    {
+      "id": "KANA-PRON-0089",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ロ",
+      "options": [
+        "ya",
+        "i",
+        "ro",
+        "sa"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ro",
+      "meaning_ko": "로",
+      "explanation_ko": "ロ의 발음은 ro입니다."
+    },
+    {
+      "id": "KANA-PRON-0090",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ワ",
+      "options": [
+        "wa",
+        "shi",
+        "nu",
+        "ni"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "wa",
+      "meaning_ko": "와",
+      "explanation_ko": "ワ의 발음은 wa입니다."
+    },
+    {
+      "id": "KANA-PRON-0091",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヲ",
+      "options": [
+        "wo",
+        "yu",
+        "ho",
+        "o"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "wo",
+      "meaning_ko": "오/워",
+      "explanation_ko": "ヲ의 발음은 wo입니다."
+    },
+    {
+      "id": "KANA-PRON-0092",
+      "type": "kana_pronunciation",
+      "category": "katakana_basic",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ン",
+      "options": [
+        "wa",
+        "ri",
+        "n",
+        "mo"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "n",
+      "meaning_ko": "응/ㄴ",
+      "explanation_ko": "ン의 발음은 n입니다."
+    },
+    {
+      "id": "KANA-PRON-0093",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "が",
+      "options": [
+        "ba",
+        "ga",
+        "pi",
+        "be"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ga",
+      "meaning_ko": "가",
+      "explanation_ko": "が의 발음은 ga입니다."
+    },
+    {
+      "id": "KANA-PRON-0094",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぎ",
+      "options": [
+        "ze",
+        "gi",
+        "zu",
+        "go"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "gi",
+      "meaning_ko": "기",
+      "explanation_ko": "ぎ의 발음은 gi입니다."
+    },
+    {
+      "id": "KANA-PRON-0095",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぐ",
+      "options": [
+        "ze",
+        "ji",
+        "gu",
+        "bi"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "gu",
+      "meaning_ko": "구",
+      "explanation_ko": "ぐ의 발음은 gu입니다."
+    },
+    {
+      "id": "KANA-PRON-0096",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "げ",
+      "options": [
+        "go",
+        "zu",
+        "ge",
+        "da"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ge",
+      "meaning_ko": "게",
+      "explanation_ko": "げ의 발음은 ge입니다."
+    },
+    {
+      "id": "KANA-PRON-0097",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ご",
+      "options": [
+        "bi",
+        "zu",
+        "go",
+        "bu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "go",
+      "meaning_ko": "고",
+      "explanation_ko": "ご의 발음은 go입니다."
+    },
+    {
+      "id": "KANA-PRON-0098",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ざ",
+      "options": [
+        "za",
+        "do",
+        "be",
+        "ze"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "za",
+      "meaning_ko": "자",
+      "explanation_ko": "ざ의 발음은 za입니다."
+    },
+    {
+      "id": "KANA-PRON-0099",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "じ",
+      "options": [
+        "za",
+        "ga",
+        "do",
+        "ji"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ji",
+      "meaning_ko": "지",
+      "explanation_ko": "じ의 발음은 ji입니다."
+    },
+    {
+      "id": "KANA-PRON-0100",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ず",
+      "options": [
+        "bi",
+        "ji",
+        "zu",
+        "pi"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "zu",
+      "meaning_ko": "즈",
+      "explanation_ko": "ず의 발음은 zu입니다."
+    },
+    {
+      "id": "KANA-PRON-0101",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぜ",
+      "options": [
+        "bo",
+        "ze",
+        "po",
+        "zo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ze",
+      "meaning_ko": "제",
+      "explanation_ko": "ぜ의 발음은 ze입니다."
+    },
+    {
+      "id": "KANA-PRON-0102",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぞ",
+      "options": [
+        "ge",
+        "zo",
+        "pe",
+        "pu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "zo",
+      "meaning_ko": "조",
+      "explanation_ko": "ぞ의 발음은 zo입니다."
+    },
+    {
+      "id": "KANA-PRON-0103",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "だ",
+      "options": [
+        "bo",
+        "pi",
+        "da",
+        "ba"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "da",
+      "meaning_ko": "다",
+      "explanation_ko": "だ의 발음은 da입니다."
+    },
+    {
+      "id": "KANA-PRON-0104",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぢ",
+      "options": [
+        "ji",
+        "da",
+        "za",
+        "gi"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ji",
+      "meaning_ko": "지",
+      "explanation_ko": "ぢ의 발음은 ji입니다."
+    },
+    {
+      "id": "KANA-PRON-0105",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "づ",
+      "options": [
+        "po",
+        "gi",
+        "de",
+        "zu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "zu",
+      "meaning_ko": "즈",
+      "explanation_ko": "づ의 발음은 zu입니다."
+    },
+    {
+      "id": "KANA-PRON-0106",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "で",
+      "options": [
+        "do",
+        "ge",
+        "po",
+        "de"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "de",
+      "meaning_ko": "데",
+      "explanation_ko": "で의 발음은 de입니다."
+    },
+    {
+      "id": "KANA-PRON-0107",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ど",
+      "options": [
+        "ba",
+        "do",
+        "go",
+        "ze"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "do",
+      "meaning_ko": "도",
+      "explanation_ko": "ど의 발음은 do입니다."
+    },
+    {
+      "id": "KANA-PRON-0108",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ば",
+      "options": [
+        "ba",
+        "zu",
+        "zo",
+        "pu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ba",
+      "meaning_ko": "바",
+      "explanation_ko": "ば의 발음은 ba입니다."
+    },
+    {
+      "id": "KANA-PRON-0109",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "び",
+      "options": [
+        "bi",
+        "po",
+        "pu",
+        "de"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "bi",
+      "meaning_ko": "비",
+      "explanation_ko": "び의 발음은 bi입니다."
+    },
+    {
+      "id": "KANA-PRON-0110",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぶ",
+      "options": [
+        "bo",
+        "zu",
+        "po",
+        "bu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "bu",
+      "meaning_ko": "부",
+      "explanation_ko": "ぶ의 발음은 bu입니다."
+    },
+    {
+      "id": "KANA-PRON-0111",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "べ",
+      "options": [
+        "gi",
+        "be",
+        "bu",
+        "do"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "be",
+      "meaning_ko": "베",
+      "explanation_ko": "べ의 발음은 be입니다."
+    },
+    {
+      "id": "KANA-PRON-0112",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぼ",
+      "options": [
+        "pa",
+        "bo",
+        "po",
+        "ga"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "bo",
+      "meaning_ko": "보",
+      "explanation_ko": "ぼ의 발음은 bo입니다."
+    },
+    {
+      "id": "KANA-PRON-0113",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぱ",
+      "options": [
+        "gi",
+        "pa",
+        "bi",
+        "do"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "pa",
+      "meaning_ko": "파",
+      "explanation_ko": "ぱ의 발음은 pa입니다."
+    },
+    {
+      "id": "KANA-PRON-0114",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぴ",
+      "options": [
+        "zu",
+        "pi",
+        "ji",
+        "pu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "pi",
+      "meaning_ko": "피",
+      "explanation_ko": "ぴ의 발음은 pi입니다."
+    },
+    {
+      "id": "KANA-PRON-0115",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぷ",
+      "options": [
+        "zu",
+        "pu",
+        "pa",
+        "zu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "pu",
+      "meaning_ko": "푸",
+      "explanation_ko": "ぷ의 발음은 pu입니다."
+    },
+    {
+      "id": "KANA-PRON-0116",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぺ",
+      "options": [
+        "da",
+        "pi",
+        "pe",
+        "zu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "pe",
+      "meaning_ko": "페",
+      "explanation_ko": "ぺ의 발음은 pe입니다."
+    },
+    {
+      "id": "KANA-PRON-0117",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぽ",
+      "options": [
+        "zu",
+        "po",
+        "pa",
+        "za"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "po",
+      "meaning_ko": "포",
+      "explanation_ko": "ぽ의 발음은 po입니다."
+    },
+    {
+      "id": "KANA-PRON-0118",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ガ",
+      "options": [
+        "za",
+        "pu",
+        "ga",
+        "gi"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ga",
+      "meaning_ko": "가",
+      "explanation_ko": "ガ의 발음은 ga입니다."
+    },
+    {
+      "id": "KANA-PRON-0119",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ギ",
+      "options": [
+        "zu",
+        "zo",
+        "gi",
+        "de"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "gi",
+      "meaning_ko": "기",
+      "explanation_ko": "ギ의 발음은 gi입니다."
+    },
+    {
+      "id": "KANA-PRON-0120",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "グ",
+      "options": [
+        "ze",
+        "gu",
+        "gi",
+        "bu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "gu",
+      "meaning_ko": "구",
+      "explanation_ko": "グ의 발음은 gu입니다."
+    },
+    {
+      "id": "KANA-PRON-0121",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ゲ",
+      "options": [
+        "zo",
+        "po",
+        "ge",
+        "be"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ge",
+      "meaning_ko": "게",
+      "explanation_ko": "ゲ의 발음은 ge입니다."
+    },
+    {
+      "id": "KANA-PRON-0122",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ゴ",
+      "options": [
+        "go",
+        "bu",
+        "gu",
+        "ga"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "go",
+      "meaning_ko": "고",
+      "explanation_ko": "ゴ의 발음은 go입니다."
+    },
+    {
+      "id": "KANA-PRON-0123",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ザ",
+      "options": [
+        "za",
+        "ba",
+        "pa",
+        "bu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "za",
+      "meaning_ko": "자",
+      "explanation_ko": "ザ의 발음은 za입니다."
+    },
+    {
+      "id": "KANA-PRON-0124",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ジ",
+      "options": [
+        "zo",
+        "ji",
+        "pa",
+        "da"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ji",
+      "meaning_ko": "지",
+      "explanation_ko": "ジ의 발음은 ji입니다."
+    },
+    {
+      "id": "KANA-PRON-0125",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ズ",
+      "options": [
+        "ga",
+        "gu",
+        "zu",
+        "pa"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "zu",
+      "meaning_ko": "즈",
+      "explanation_ko": "ズ의 발음은 zu입니다."
+    },
+    {
+      "id": "KANA-PRON-0126",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ゼ",
+      "options": [
+        "zo",
+        "ze",
+        "ga",
+        "da"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ze",
+      "meaning_ko": "제",
+      "explanation_ko": "ゼ의 발음은 ze입니다."
+    },
+    {
+      "id": "KANA-PRON-0127",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ゾ",
+      "options": [
+        "zo",
+        "pa",
+        "gu",
+        "bo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "zo",
+      "meaning_ko": "조",
+      "explanation_ko": "ゾ의 발음은 zo입니다."
+    },
+    {
+      "id": "KANA-PRON-0128",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ダ",
+      "options": [
+        "do",
+        "da",
+        "ji",
+        "pa"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "da",
+      "meaning_ko": "다",
+      "explanation_ko": "ダ의 발음은 da입니다."
+    },
+    {
+      "id": "KANA-PRON-0129",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヂ",
+      "options": [
+        "gi",
+        "ba",
+        "de",
+        "ji"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ji",
+      "meaning_ko": "지",
+      "explanation_ko": "ヂ의 발음은 ji입니다."
+    },
+    {
+      "id": "KANA-PRON-0130",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヅ",
+      "options": [
+        "zu",
+        "zo",
+        "ji",
+        "bo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "zu",
+      "meaning_ko": "즈",
+      "explanation_ko": "ヅ의 발음은 zu입니다."
+    },
+    {
+      "id": "KANA-PRON-0131",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "デ",
+      "options": [
+        "pe",
+        "ga",
+        "zo",
+        "de"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "de",
+      "meaning_ko": "데",
+      "explanation_ko": "デ의 발음은 de입니다."
+    },
+    {
+      "id": "KANA-PRON-0132",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ド",
+      "options": [
+        "do",
+        "ba",
+        "ze",
+        "pe"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "do",
+      "meaning_ko": "도",
+      "explanation_ko": "ド의 발음은 do입니다."
+    },
+    {
+      "id": "KANA-PRON-0133",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "バ",
+      "options": [
+        "ba",
+        "pa",
+        "bu",
+        "bi"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ba",
+      "meaning_ko": "바",
+      "explanation_ko": "バ의 발음은 ba입니다."
+    },
+    {
+      "id": "KANA-PRON-0134",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ビ",
+      "options": [
+        "ga",
+        "bi",
+        "ba",
+        "gi"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "bi",
+      "meaning_ko": "비",
+      "explanation_ko": "ビ의 발음은 bi입니다."
+    },
+    {
+      "id": "KANA-PRON-0135",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ブ",
+      "options": [
+        "zu",
+        "pa",
+        "bu",
+        "po"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "bu",
+      "meaning_ko": "부",
+      "explanation_ko": "ブ의 발음은 bu입니다."
+    },
+    {
+      "id": "KANA-PRON-0136",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ベ",
+      "options": [
+        "bu",
+        "zo",
+        "pa",
+        "be"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "be",
+      "meaning_ko": "베",
+      "explanation_ko": "ベ의 발음은 be입니다."
+    },
+    {
+      "id": "KANA-PRON-0137",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ボ",
+      "options": [
+        "bo",
+        "pu",
+        "zu",
+        "be"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "bo",
+      "meaning_ko": "보",
+      "explanation_ko": "ボ의 발음은 bo입니다."
+    },
+    {
+      "id": "KANA-PRON-0138",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "パ",
+      "options": [
+        "pa",
+        "ji",
+        "zu",
+        "bu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "pa",
+      "meaning_ko": "파",
+      "explanation_ko": "パ의 발음은 pa입니다."
+    },
+    {
+      "id": "KANA-PRON-0139",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ピ",
+      "options": [
+        "gu",
+        "pu",
+        "pi",
+        "ba"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "pi",
+      "meaning_ko": "피",
+      "explanation_ko": "ピ의 발음은 pi입니다."
+    },
+    {
+      "id": "KANA-PRON-0140",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "プ",
+      "options": [
+        "pu",
+        "ba",
+        "ji",
+        "po"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "pu",
+      "meaning_ko": "푸",
+      "explanation_ko": "プ의 발음은 pu입니다."
+    },
+    {
+      "id": "KANA-PRON-0141",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ペ",
+      "options": [
+        "pe",
+        "be",
+        "ga",
+        "do"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "pe",
+      "meaning_ko": "페",
+      "explanation_ko": "ペ의 발음은 pe입니다."
+    },
+    {
+      "id": "KANA-PRON-0142",
+      "type": "kana_pronunciation",
+      "category": "dakuten_handakuten",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ポ",
+      "options": [
+        "ga",
+        "do",
+        "po",
+        "ba"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "po",
+      "meaning_ko": "포",
+      "explanation_ko": "ポ의 발음은 po입니다."
+    },
+    {
+      "id": "KANA-PRON-0143",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "きゃ",
+      "options": [
+        "kya",
+        "chu",
+        "nya",
+        "hyo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "kya",
+      "meaning_ko": "캬",
+      "explanation_ko": "きゃ의 발음은 kya입니다."
+    },
+    {
+      "id": "KANA-PRON-0144",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "きゅ",
+      "options": [
+        "byu",
+        "kyu",
+        "hya",
+        "cho"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "kyu",
+      "meaning_ko": "큐",
+      "explanation_ko": "きゅ의 발음은 kyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0145",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "きょ",
+      "options": [
+        "kyo",
+        "nya",
+        "nyo",
+        "chu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "kyo",
+      "meaning_ko": "쿄",
+      "explanation_ko": "きょ의 발음은 kyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0146",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "しゃ",
+      "options": [
+        "ryo",
+        "myu",
+        "sha",
+        "rya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "sha",
+      "meaning_ko": "샤",
+      "explanation_ko": "しゃ의 발음은 sha입니다."
+    },
+    {
+      "id": "KANA-PRON-0147",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "しゅ",
+      "options": [
+        "hyo",
+        "shu",
+        "myo",
+        "sha"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "shu",
+      "meaning_ko": "슈",
+      "explanation_ko": "しゅ의 발음은 shu입니다."
+    },
+    {
+      "id": "KANA-PRON-0148",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "しょ",
+      "options": [
+        "sho",
+        "kyu",
+        "ryo",
+        "nyu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "sho",
+      "meaning_ko": "쇼",
+      "explanation_ko": "しょ의 발음은 sho입니다."
+    },
+    {
+      "id": "KANA-PRON-0149",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ちゃ",
+      "options": [
+        "cha",
+        "pya",
+        "nyu",
+        "pyu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "cha",
+      "meaning_ko": "차",
+      "explanation_ko": "ちゃ의 발음은 cha입니다."
+    },
+    {
+      "id": "KANA-PRON-0150",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ちゅ",
+      "options": [
+        "nya",
+        "pyo",
+        "sho",
+        "chu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "chu",
+      "meaning_ko": "츄",
+      "explanation_ko": "ちゅ의 발음은 chu입니다."
+    },
+    {
+      "id": "KANA-PRON-0151",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ちょ",
+      "options": [
+        "gyu",
+        "ryo",
+        "cho",
+        "nya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "cho",
+      "meaning_ko": "초",
+      "explanation_ko": "ちょ의 발음은 cho입니다."
+    },
+    {
+      "id": "KANA-PRON-0152",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "にゃ",
+      "options": [
+        "nya",
+        "ryo",
+        "bya",
+        "chu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "nya",
+      "meaning_ko": "냐",
+      "explanation_ko": "にゃ의 발음은 nya입니다."
+    },
+    {
+      "id": "KANA-PRON-0153",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "にゅ",
+      "options": [
+        "cho",
+        "ju",
+        "nyu",
+        "hyo"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "nyu",
+      "meaning_ko": "뉴",
+      "explanation_ko": "にゅ의 발음은 nyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0154",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "にょ",
+      "options": [
+        "nyo",
+        "rya",
+        "pyo",
+        "bya"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "nyo",
+      "meaning_ko": "뇨",
+      "explanation_ko": "にょ의 발음은 nyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0155",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ひゃ",
+      "options": [
+        "gyu",
+        "hya",
+        "pyu",
+        "byu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "hya",
+      "meaning_ko": "햐",
+      "explanation_ko": "ひゃ의 발음은 hya입니다."
+    },
+    {
+      "id": "KANA-PRON-0156",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ひゅ",
+      "options": [
+        "myu",
+        "kyu",
+        "chu",
+        "hyu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "hyu",
+      "meaning_ko": "휴",
+      "explanation_ko": "ひゅ의 발음은 hyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0157",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ひょ",
+      "options": [
+        "kya",
+        "bya",
+        "jo",
+        "hyo"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "hyo",
+      "meaning_ko": "효",
+      "explanation_ko": "ひょ의 발음은 hyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0158",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "みゃ",
+      "options": [
+        "cho",
+        "ja",
+        "mya",
+        "cho"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "mya",
+      "meaning_ko": "먀",
+      "explanation_ko": "みゃ의 발음은 mya입니다."
+    },
+    {
+      "id": "KANA-PRON-0159",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "みゅ",
+      "options": [
+        "cho",
+        "myu",
+        "jo",
+        "byo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "myu",
+      "meaning_ko": "뮤",
+      "explanation_ko": "みゅ의 발음은 myu입니다."
+    },
+    {
+      "id": "KANA-PRON-0160",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "みょ",
+      "options": [
+        "sha",
+        "kya",
+        "kyo",
+        "myo"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "myo",
+      "meaning_ko": "묘",
+      "explanation_ko": "みょ의 발음은 myo입니다."
+    },
+    {
+      "id": "KANA-PRON-0161",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "りゃ",
+      "options": [
+        "rya",
+        "kya",
+        "mya",
+        "hyo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "rya",
+      "meaning_ko": "랴",
+      "explanation_ko": "りゃ의 발음은 rya입니다."
+    },
+    {
+      "id": "KANA-PRON-0162",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "りゅ",
+      "options": [
+        "kya",
+        "ja",
+        "hyo",
+        "ryu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "ryu",
+      "meaning_ko": "류",
+      "explanation_ko": "りゅ의 발음은 ryu입니다."
+    },
+    {
+      "id": "KANA-PRON-0163",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "りょ",
+      "options": [
+        "ryo",
+        "pyu",
+        "kya",
+        "cho"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ryo",
+      "meaning_ko": "료",
+      "explanation_ko": "りょ의 발음은 ryo입니다."
+    },
+    {
+      "id": "KANA-PRON-0164",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぎゃ",
+      "options": [
+        "ryu",
+        "kyu",
+        "mya",
+        "gya"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "gya",
+      "meaning_ko": "갸",
+      "explanation_ko": "ぎゃ의 발음은 gya입니다."
+    },
+    {
+      "id": "KANA-PRON-0165",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぎゅ",
+      "options": [
+        "ju",
+        "ja",
+        "gyu",
+        "nya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "gyu",
+      "meaning_ko": "규",
+      "explanation_ko": "ぎゅ의 발음은 gyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0166",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぎょ",
+      "options": [
+        "gyo",
+        "pyu",
+        "hyu",
+        "jo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "gyo",
+      "meaning_ko": "교",
+      "explanation_ko": "ぎょ의 발음은 gyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0167",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "じゃ",
+      "options": [
+        "myo",
+        "ja",
+        "pya",
+        "byu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ja",
+      "meaning_ko": "자",
+      "explanation_ko": "じゃ의 발음은 ja입니다."
+    },
+    {
+      "id": "KANA-PRON-0168",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "じゅ",
+      "options": [
+        "pyu",
+        "ju",
+        "shu",
+        "sho"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ju",
+      "meaning_ko": "주",
+      "explanation_ko": "じゅ의 발음은 ju입니다."
+    },
+    {
+      "id": "KANA-PRON-0169",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "じょ",
+      "options": [
+        "rya",
+        "ryo",
+        "cha",
+        "jo"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "jo",
+      "meaning_ko": "조",
+      "explanation_ko": "じょ의 발음은 jo입니다."
+    },
+    {
+      "id": "KANA-PRON-0170",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "びゃ",
+      "options": [
+        "bya",
+        "shu",
+        "ryu",
+        "hyo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "bya",
+      "meaning_ko": "뱌",
+      "explanation_ko": "びゃ의 발음은 bya입니다."
+    },
+    {
+      "id": "KANA-PRON-0171",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "びゅ",
+      "options": [
+        "byu",
+        "cha",
+        "nya",
+        "hyu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "byu",
+      "meaning_ko": "뷰",
+      "explanation_ko": "びゅ의 발음은 byu입니다."
+    },
+    {
+      "id": "KANA-PRON-0172",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "びょ",
+      "options": [
+        "ryo",
+        "hyu",
+        "rya",
+        "byo"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "byo",
+      "meaning_ko": "뵤",
+      "explanation_ko": "びょ의 발음은 byo입니다."
+    },
+    {
+      "id": "KANA-PRON-0173",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぴゃ",
+      "options": [
+        "myu",
+        "pyu",
+        "pya",
+        "hya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "pya",
+      "meaning_ko": "퍄",
+      "explanation_ko": "ぴゃ의 발음은 pya입니다."
+    },
+    {
+      "id": "KANA-PRON-0174",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぴゅ",
+      "options": [
+        "hya",
+        "pyu",
+        "chu",
+        "kyo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "pyu",
+      "meaning_ko": "퓨",
+      "explanation_ko": "ぴゅ의 발음은 pyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0175",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ぴょ",
+      "options": [
+        "kyu",
+        "myo",
+        "cho",
+        "pyo"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "pyo",
+      "meaning_ko": "표",
+      "explanation_ko": "ぴょ의 발음은 pyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0176",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "キャ",
+      "options": [
+        "kya",
+        "kyu",
+        "ryu",
+        "byu"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "kya",
+      "meaning_ko": "캬",
+      "explanation_ko": "キャ의 발음은 kya입니다."
+    },
+    {
+      "id": "KANA-PRON-0177",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "キュ",
+      "options": [
+        "kyu",
+        "pyu",
+        "hya",
+        "sho"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "kyu",
+      "meaning_ko": "큐",
+      "explanation_ko": "キュ의 발음은 kyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0178",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "キョ",
+      "options": [
+        "cha",
+        "ju",
+        "kyo",
+        "chu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "kyo",
+      "meaning_ko": "쿄",
+      "explanation_ko": "キョ의 발음은 kyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0179",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "シャ",
+      "options": [
+        "byu",
+        "rya",
+        "rya",
+        "sha"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "sha",
+      "meaning_ko": "샤",
+      "explanation_ko": "シャ의 발음은 sha입니다."
+    },
+    {
+      "id": "KANA-PRON-0180",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "シュ",
+      "options": [
+        "nyo",
+        "hyu",
+        "ja",
+        "shu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "shu",
+      "meaning_ko": "슈",
+      "explanation_ko": "シュ의 발음은 shu입니다."
+    },
+    {
+      "id": "KANA-PRON-0181",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ショ",
+      "options": [
+        "shu",
+        "sho",
+        "byo",
+        "ryu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "sho",
+      "meaning_ko": "쇼",
+      "explanation_ko": "ショ의 발음은 sho입니다."
+    },
+    {
+      "id": "KANA-PRON-0182",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "チャ",
+      "options": [
+        "nyo",
+        "ryu",
+        "chu",
+        "cha"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "cha",
+      "meaning_ko": "차",
+      "explanation_ko": "チャ의 발음은 cha입니다."
+    },
+    {
+      "id": "KANA-PRON-0183",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "チュ",
+      "options": [
+        "myo",
+        "ryo",
+        "hyu",
+        "chu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "chu",
+      "meaning_ko": "츄",
+      "explanation_ko": "チュ의 발음은 chu입니다."
+    },
+    {
+      "id": "KANA-PRON-0184",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "チョ",
+      "options": [
+        "hya",
+        "nya",
+        "sho",
+        "cho"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "cho",
+      "meaning_ko": "초",
+      "explanation_ko": "チョ의 발음은 cho입니다."
+    },
+    {
+      "id": "KANA-PRON-0185",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ニャ",
+      "options": [
+        "ryo",
+        "nya",
+        "myu",
+        "myo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "nya",
+      "meaning_ko": "냐",
+      "explanation_ko": "ニャ의 발음은 nya입니다."
+    },
+    {
+      "id": "KANA-PRON-0186",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ニュ",
+      "options": [
+        "nya",
+        "hya",
+        "sho",
+        "nyu"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "nyu",
+      "meaning_ko": "뉴",
+      "explanation_ko": "ニュ의 발음은 nyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0187",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ニョ",
+      "options": [
+        "myo",
+        "nyo",
+        "rya",
+        "jo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "nyo",
+      "meaning_ko": "뇨",
+      "explanation_ko": "ニョ의 발음은 nyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0188",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヒャ",
+      "options": [
+        "nya",
+        "hya",
+        "bya",
+        "gyu"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "hya",
+      "meaning_ko": "햐",
+      "explanation_ko": "ヒャ의 발음은 hya입니다."
+    },
+    {
+      "id": "KANA-PRON-0189",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヒュ",
+      "options": [
+        "hyu",
+        "gyo",
+        "ryu",
+        "kyo"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "hyu",
+      "meaning_ko": "휴",
+      "explanation_ko": "ヒュ의 발음은 hyu입니다."
+    },
+    {
+      "id": "KANA-PRON-0190",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ヒョ",
+      "options": [
+        "kya",
+        "hyo",
+        "kyu",
+        "byo"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "hyo",
+      "meaning_ko": "효",
+      "explanation_ko": "ヒョ의 발음은 hyo입니다."
+    },
+    {
+      "id": "KANA-PRON-0191",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ミャ",
+      "options": [
+        "sho",
+        "kyu",
+        "mya",
+        "kya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "mya",
+      "meaning_ko": "먀",
+      "explanation_ko": "ミャ의 발음은 mya입니다."
+    },
+    {
+      "id": "KANA-PRON-0192",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ミュ",
+      "options": [
+        "hyo",
+        "myu",
+        "kya",
+        "nya"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "myu",
+      "meaning_ko": "뮤",
+      "explanation_ko": "ミュ의 발음은 myu입니다."
+    },
+    {
+      "id": "KANA-PRON-0193",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ミョ",
+      "options": [
+        "ju",
+        "myo",
+        "mya",
+        "sho"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "myo",
+      "meaning_ko": "묘",
+      "explanation_ko": "ミョ의 발음은 myo입니다."
+    },
+    {
+      "id": "KANA-PRON-0194",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "リャ",
+      "options": [
+        "hyu",
+        "hyo",
+        "rya",
+        "pya"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "rya",
+      "meaning_ko": "랴",
+      "explanation_ko": "リャ의 발음은 rya입니다."
+    },
+    {
+      "id": "KANA-PRON-0195",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "リュ",
+      "options": [
+        "ryu",
+        "cho",
+        "myu",
+        "cha"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "ryu",
+      "meaning_ko": "류",
+      "explanation_ko": "リュ의 발음은 ryu입니다."
+    },
+    {
+      "id": "KANA-PRON-0196",
+      "type": "kana_pronunciation",
+      "category": "youon",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "リョ",
+      "options": [
+        "kyo",
+        "sho",
+        "ryo",
+        "sha"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ryo",
+      "meaning_ko": "료",
+      "explanation_ko": "リョ의 발음은 ryo입니다."
+    },
+    {
+      "id": "KANA-PRON-0197",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "がっこう",
+      "options": [
+        "gakkou",
+        "denwa",
+        "matte",
+        "pasokon"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "gakkou",
+      "meaning_ko": "학교",
+      "explanation_ko": "がっこう의 발음은 gakkou입니다."
+    },
+    {
+      "id": "KANA-PRON-0198",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "きって",
+      "options": [
+        "denwa",
+        "shashin",
+        "ryokou",
+        "kitte"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "kitte",
+      "meaning_ko": "우표",
+      "explanation_ko": "きって의 발음은 kitte입니다."
+    },
+    {
+      "id": "KANA-PRON-0199",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ざっし",
+      "options": [
+        "zasshi",
+        "koohii",
+        "baggu",
+        "ocha"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "zasshi",
+      "meaning_ko": "잡지",
+      "explanation_ko": "ざっし의 발음은 zasshi입니다."
+    },
+    {
+      "id": "KANA-PRON-0200",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "まって",
+      "options": [
+        "keeki",
+        "nyuusu",
+        "matte",
+        "byouin"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "matte",
+      "meaning_ko": "기다려",
+      "explanation_ko": "まって의 발음은 matte입니다."
+    },
+    {
+      "id": "KANA-PRON-0201",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "スーパー",
+      "options": [
+        "hoteru",
+        "suupaa",
+        "kitte",
+        "konbini"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "suupaa",
+      "meaning_ko": "슈퍼",
+      "explanation_ko": "スーパー의 발음은 suupaa입니다."
+    },
+    {
+      "id": "KANA-PRON-0202",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "コーヒー",
+      "options": [
+        "ryokou",
+        "meeru",
+        "koohii",
+        "ocha"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "koohii",
+      "meaning_ko": "커피",
+      "explanation_ko": "コーヒー의 발음은 koohii입니다."
+    },
+    {
+      "id": "KANA-PRON-0203",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "タクシー",
+      "options": [
+        "kitte",
+        "takushii",
+        "meeru",
+        "matte"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "takushii",
+      "meaning_ko": "택시",
+      "explanation_ko": "タクシー의 발음은 takushii입니다."
+    },
+    {
+      "id": "KANA-PRON-0204",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ケーキ",
+      "options": [
+        "shashin",
+        "baggu",
+        "keeki",
+        "ocha"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "keeki",
+      "meaning_ko": "케이크",
+      "explanation_ko": "ケーキ의 발음은 keeki입니다."
+    },
+    {
+      "id": "KANA-PRON-0205",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "びょういん",
+      "options": [
+        "gakkou",
+        "konbini",
+        "byouin",
+        "pasokon"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "byouin",
+      "meaning_ko": "병원",
+      "explanation_ko": "びょういん의 발음은 byouin입니다."
+    },
+    {
+      "id": "KANA-PRON-0206",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "りょこう",
+      "options": [
+        "ocha",
+        "ryokou",
+        "nyuusu",
+        "hoteru"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "ryokou",
+      "meaning_ko": "여행",
+      "explanation_ko": "りょこう의 발음은 ryokou입니다."
+    },
+    {
+      "id": "KANA-PRON-0207",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "じゅぎょう",
+      "options": [
+        "chiketto",
+        "takushii",
+        "kaban",
+        "jugyou"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "jugyou",
+      "meaning_ko": "수업",
+      "explanation_ko": "じゅぎょう의 발음은 jugyou입니다."
+    },
+    {
+      "id": "KANA-PRON-0208",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "しゃしん",
+      "options": [
+        "keeki",
+        "ryokou",
+        "byouin",
+        "shashin"
+      ],
+      "answer_index": 3,
+      "answer_romaji": "shashin",
+      "meaning_ko": "사진",
+      "explanation_ko": "しゃしん의 발음은 shashin입니다."
+    },
+    {
+      "id": "KANA-PRON-0209",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "チケット",
+      "options": [
+        "honya",
+        "chiketto",
+        "nyuusu",
+        "hoteru"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "chiketto",
+      "meaning_ko": "티켓",
+      "explanation_ko": "チケット의 발음은 chiketto입니다."
+    },
+    {
+      "id": "KANA-PRON-0210",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "バッグ",
+      "options": [
+        "baggu",
+        "kaban",
+        "meeru",
+        "chiketto"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "baggu",
+      "meaning_ko": "가방",
+      "explanation_ko": "バッグ의 발음은 baggu입니다."
+    },
+    {
+      "id": "KANA-PRON-0211",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ベッド",
+      "options": [
+        "beddo",
+        "denwa",
+        "jugyou",
+        "pasokon"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "beddo",
+      "meaning_ko": "침대",
+      "explanation_ko": "ベッド의 발음은 beddo입니다."
+    },
+    {
+      "id": "KANA-PRON-0212",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ニュース",
+      "options": [
+        "hoteru",
+        "nyuusu",
+        "baggu",
+        "byouin"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "nyuusu",
+      "meaning_ko": "뉴스",
+      "explanation_ko": "ニュース의 발음은 nyuusu입니다."
+    },
+    {
+      "id": "KANA-PRON-0213",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "おちゃ",
+      "options": [
+        "nyuusu",
+        "meeru",
+        "ocha",
+        "suupaa"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "ocha",
+      "meaning_ko": "차",
+      "explanation_ko": "おちゃ의 발음은 ocha입니다."
+    },
+    {
+      "id": "KANA-PRON-0214",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "でんわ",
+      "options": [
+        "koohii",
+        "jugyou",
+        "denwa",
+        "baggu"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "denwa",
+      "meaning_ko": "전화",
+      "explanation_ko": "でんわ의 발음은 denwa입니다."
+    },
+    {
+      "id": "KANA-PRON-0215",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "かばん",
+      "options": [
+        "kaban",
+        "takushii",
+        "baggu",
+        "denwa"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "kaban",
+      "meaning_ko": "가방",
+      "explanation_ko": "かばん의 발음은 kaban입니다."
+    },
+    {
+      "id": "KANA-PRON-0216",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ほんや",
+      "options": [
+        "gakkou",
+        "ryokou",
+        "honya",
+        "beddo"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "honya",
+      "meaning_ko": "서점",
+      "explanation_ko": "ほんや의 발음은 honya입니다."
+    },
+    {
+      "id": "KANA-PRON-0217",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "コンビニ",
+      "options": [
+        "honya",
+        "konbini",
+        "gakkou",
+        "takushii"
+      ],
+      "answer_index": 1,
+      "answer_romaji": "konbini",
+      "meaning_ko": "편의점",
+      "explanation_ko": "コンビニ의 발음은 konbini입니다."
+    },
+    {
+      "id": "KANA-PRON-0218",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "ホテル",
+      "options": [
+        "hoteru",
+        "chiketto",
+        "konbini",
+        "koohii"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "hoteru",
+      "meaning_ko": "호텔",
+      "explanation_ko": "ホテル의 발음은 hoteru입니다."
+    },
+    {
+      "id": "KANA-PRON-0219",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "メール",
+      "options": [
+        "gakkou",
+        "pasokon",
+        "meeru",
+        "kaban"
+      ],
+      "answer_index": 2,
+      "answer_romaji": "meeru",
+      "meaning_ko": "메일",
+      "explanation_ko": "メール의 발음은 meeru입니다."
+    },
+    {
+      "id": "KANA-PRON-0220",
+      "type": "kana_pronunciation",
+      "category": "word_pronunciation",
+      "instruction_jp": "次のかなの読み方を一つ選んでください。",
+      "question": "パソコン",
+      "options": [
+        "pasokon",
+        "konbini",
+        "baggu",
+        "kitte"
+      ],
+      "answer_index": 0,
+      "answer_romaji": "pasokon",
+      "meaning_ko": "컴퓨터",
+      "explanation_ko": "パソコン의 발음은 pasokon입니다."
+    }
+  ]
+}

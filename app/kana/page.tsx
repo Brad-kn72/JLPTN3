@@ -1,5 +1,6 @@
 import { KanaClient } from "./kana-client";
 import kanaData from "@/data/kana.json";
+import kanaQuizData from "@/data/kana-quiz.json";
 
 export const metadata = { title: "가나 — JLPT N3" };
 
@@ -12,7 +13,11 @@ export default function KanaPage() {
           일본어 노베이스부터 시작하는 첫 걸음. 각 글자를 탭하면 발음을 들을 수 있습니다.
         </p>
       </div>
-      <KanaClient hiragana={kanaData.hiragana as any} katakana={kanaData.katakana as any} />
+      <KanaClient
+        hiragana={kanaData.hiragana as any}
+        katakana={kanaData.katakana as any}
+        quizQuestions={kanaQuizData.kana_pronunciation_questions as any}
+      />
     </div>
   );
 }
